@@ -3,6 +3,7 @@ title: Quire Starter
 weight: 1
 menu: false
 type: cover
+image: cover_bg.jpg
 slug: .
 ---
 

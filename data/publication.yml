@@ -9,8 +9,8 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: Quire Starter
-subtitle: Multi-Format Publishing
+title: Quire Starter by Kris Thayer
+subtitle: My First Demo Project
 reading_line: A digital publication framework built on Hugo
 short_title:
 
@@ -65,12 +65,18 @@ contributor:
     title: Diplomat
     bio: "Félix-Sébastien Feuillet de Conches (4 December 1798 – 5 February 1887 in Paris) was a French diplomat, journalist, writer and collector. Having occupied the posts of ‘introducteur des ambassadeurs’ and head of protocol at the Ministry of Foreign Affairs, he was able to form a collection specialising in English painting, 19th century French painting, the history of civilisations, the art of the Near East and the art of Asia. His contemporary Charles Monselet judged de Conches’ collection as unequalled, but it included some pieces of dubious authenticity."
     pic: contributors/de-conches.jpg
+  - type: primary
+    first_name: Kris
+    last_name: Thayer
+    title: Sr. Designer
+    pic: contributors/kris-thayer.jpg
+    bio: Kris has worked at the Minneapolis Institue of Art for ten years.
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2018 Minneapolis Institute of Art
 
 license:
   name: Creative Commons Attribution 4.0 International License
