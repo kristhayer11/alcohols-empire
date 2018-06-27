@@ -38,3 +38,13 @@ object_list:
       - id: "cat3"
       - id: "cat3a"
       - id: "cat3b"
+  - id: 4
+    title: Summertime Cocktails
+    artist: Mitchell Thayer
+    year: 2018
+    medium: Fruit juice plus vodka
+    dimensions: 12 x 12 inches
+    location: Distillery
+    link:
+    figure:
+      - src: fruity-cocktails.jpg

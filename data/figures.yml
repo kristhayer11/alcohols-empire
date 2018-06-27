@@ -88,3 +88,8 @@ figure_list:
     caption: "Stolen from the internet for demo purposes only."
     credit: Borrowed from the internet
     download: true
+ - id: "kt2"
+    src: icecube.jpg
+    caption: "Stolen from the internet for demo purposes only."
+    credit: Borrowed from the internet
+    download: true
