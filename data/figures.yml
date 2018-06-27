@@ -83,3 +83,8 @@ figure_list:
     caption: "Detail of lower right corner of the painting with Morisot’s signature."
     credit: Image courtesy of Cleveland Museum of Art
     download: true
+  - id: "kt1"
+    src: cocktail4.jpg
+    caption: "Stolen from the internet for demo purposes only."
+    credit: Borrowed from the internet
+    download: true
