@@ -1,7 +1,7 @@
 ---
 title: Classic Cocktail Recipes 2
 type: entry
-weight: 107
+weight: 104
 object:
   - id: 4
 ---

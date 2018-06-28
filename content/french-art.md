@@ -31,7 +31,7 @@ art and Gothic art, before the Italian Renaissance led to Italy replacing France
 as the main source of stylistic developments until the age of Louis XIV, when
 France largely regained this role, holding it until the mid-20th century.
 
-## Contents
+## Contents ##
 
 - Early Modern Period
   - Baroque and Classicism
@@ -40,7 +40,7 @@ France largely regained this role, holding it until the mid-20th century.
   - 19th Century
   - 20th Century
 
-## Early Modern Period
+## Early Modern Period ##
 
 In the late fifteenth century, the French invasion of Italy and the proximity of
 the vibrant Burgundy court, with its Flemish connections, brought the French
@@ -64,7 +64,7 @@ No longer conceived of as fortresses, such pleasure palaces took advantage of
 the richness of the rivers and lands of the Loire region and they show
 remarkable architectural skill.
 
-### Baroque and Classicism
+### Baroque and Classicism ##
 
 {{< q-deepzoom image="http://evil-manifests.davidnewbury.com/iiif/images/garden-1/info.json" >}}
 
@@ -132,7 +132,7 @@ King's protection of artists like Pierre Puget, François Girardon and
 Charles-Antoine Coysevox. In Rome, Pierre Legros, working in a more baroque
 manner, was one of the most influential sculptors of the end of the century.
 
-### Rococo and Neoclassicism
+### Rococo and Neoclassicism ###
 
 Rococo and Neoclassicism are terms used to describe the visual and plastic arts
 and architecture in Europe from the late seventeenth to the late eighteenth
@@ -217,9 +217,9 @@ simetry and harmony, elaborating visionary projects like the complex of the
 Saltworks of Arc-et-Senans by Ledoux, a model of an ideal factory developed from
 the rational concepts of theEnlightmentthinkers.
 
-## Modern Period
+## Modern Period ##
 
-### 19th Century
+### 19th Century ###
 
 The French Revolution and the Napoleonic wars brought great changes to the arts
 in France. The program of exaltation and myth making attendant to the Emperor
@@ -285,7 +285,7 @@ visual expression of an artist's synthesis of nature in personal aesthetic
 metaphors and symbols. Henri Rousseau, the self-taught dabbling postmaste,r
 became the model for the naïve revolution.
 
-### 20th Century
+### 20th Century ###
 
 {{< q-figure id="1.13" class="is-pulled-right" >}}
 

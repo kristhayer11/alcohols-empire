@@ -48,3 +48,13 @@ object_list:
     link:
     figure:
       - src: fruity-cocktails.jpg
+  - id: 5
+    title: Colourful Splashy Cocktails
+    artist: Audrey Thayer
+    year: 2018
+    medium: Fruit juice plus vodka
+    dimensions: 12 x 12 inches
+    location: Distillery
+    link:
+    figure:
+      - src: color.jpg

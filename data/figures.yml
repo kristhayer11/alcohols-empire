@@ -87,9 +87,11 @@ figure_list:
     src: cocktail4.jpg
     caption: "Stolen from the internet for demo purposes only."
     credit: Borrowed from the internet
+    alt: "Photo of a delicious cocktail with a splash."
     download: true
  - id: "kt2"
     src: icecube.jpg
     caption: "Stolen from the internet for demo purposes only."
     credit: Borrowed from the internet
+    alt: "A beautiful square icecube."
     download: true
