@@ -1,7 +1,7 @@
 ---
 title: The History of Rum
 type: entry
-weight: 105
+weight: 150
 object:
   - id: 5
 ---
