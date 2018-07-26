@@ -13,15 +13,13 @@
 // $sans-serif, and $slab-serif respectively, along with appropriate fallbacks.
 // Other fonts may be used, but will probaby require additional custom styling.
 
-$serif: Merriweather, Georgia, serif;
-$sans-serif: Lato, Helvetica, sans-serif;
-$slab-serif: Aleo, Rockwell, "Trebuchet MS", sans-serif;
+$sans-serif: "mia-grotesk", Helvetica, sans-serif;
 
-$family-primary: $serif;
-// body text: $serif, $sans-serif, $slab-serif
+$family-primary: $sans-serif;
+// body text: $$sans-serif
 
 $family-secondary: $sans-serif;
-// headings and navigation items: $serif, $sans-serif, $slab-serif
+// headings and navigation items: $sans-serif
 
 $quire-base-font-size: 17px;
 $quire-page-paragraph-style: indent;
@@ -99,4 +97,3 @@ $quire-entry-header-height: 6rem;
 $quire-map-height: 500px;
 $quire-deepzoom-height: 500px;
 // default heights for maps and zooming image figures
-
