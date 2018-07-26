@@ -14,7 +14,7 @@ subtitle: My First Demo Project
 reading_line: A digital publication framework built on Hugo
 short_title:
 
-description:
+description: "This is a great book!""
   one_line:
   full: >-
     Quire is a digital publishing framework built on top of the Hugo static site
@@ -32,7 +32,7 @@ pub_type: book # book | journal-periodical | other
 identifier:
   isbn: 978-3-02002-00-1
 
-publisher:
+publisher: Minneapolis Institute of Art
   - name:
     location:
     url:
@@ -79,7 +79,7 @@ contributor:
 copyright: © 2018 Minneapolis Institute of Art
 
 license:
-  name: Creative Commons Attribution 4.0 International License
+  name: Creative Commons Attribution Non-commercial 4.0 International License
   abbreviation: CC BY
   url: http://creativecommons.org/licenses/by/4.0/
   scope: full # full | text-only | some-exceptions
