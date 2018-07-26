@@ -1,7 +1,7 @@
 ---
 title: French Art
 subtitle: Shamelessly Copied from Wikipedia
-weight: 3
+weight: 4
 type: essay
 contributor:
   - first_name: Élie
