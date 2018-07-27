@@ -1,15 +1,12 @@
 ---
 title: French Art
 subtitle: Shamelessly Copied from Wikipedia
-weight: 4
+weight: 100
 type: essay
 contributor:
   - first_name: Élie
     last_name: Faure
-    bio: "Élie Faure, born in Sainte-Foy-la-Grande on April 4, 1873 and died in
-    Paris on October 30, 1937, is a French doctor, art historian and essayist,
-    and the author of an important *History of Art* which remains a reference in
-    this discipline."
+    bio: "uhbouby uuyyu uyyg"
 ---
 
 {{< q-map lat="48.8566" long="2.3522" geojson="/data/sample-geojson.json" >}}

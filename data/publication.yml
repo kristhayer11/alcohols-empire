@@ -17,22 +17,22 @@ short_title:
 description: "This is a great book!""
   one_line:
   full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
+    "Quire is a digital publishing framework built on top of the Hugo static site
     generator. Generate Web, PDF, and print books (with Epub coming soon) from a
-    single set of text files.
+    single set of text files.''
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date:
+pub_date: "March 2019"
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn: 978-3-02002-00-1
 
-publisher: Minneapolis Institute of Art
+publisher: "Minneapolis Institute of Art"
   - name:
     location:
     url:
