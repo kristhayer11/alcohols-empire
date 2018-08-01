@@ -9,8 +9,8 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: Quire Starter by Kris Thayer
-subtitle: My First Demo Project
+title: Cocktails 
+subtitle: 18th Century Libations
 reading_line: A digital publication framework built on Hugo
 short_title:
 
@@ -107,7 +107,7 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url: http://www.getty.edu/legal/privacy.html
+    url: https://new.artsmia.org/about/privacy-policy-and-website-info/
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
