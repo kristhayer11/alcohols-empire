@@ -21,7 +21,7 @@ Dark rums are usually consumed neat or with a mixed while light rums are used to
 
 The origin of rum dates back to the ancient times. Fermented sugar cane juice is believed to be first developed in ancient India or china. It is believed that rum originated in the island of Barbados. Brazil also started rum production in 1620s. It was discovered by the people who planted sugar cane that the by-product of sugar cane which is molasses can be fermented into alcohol. [^2] The distillation process changed later in order to make the alcohol more concentrated and remove the impurities that were present. The Spanish and English have played an important role in distilling sugar cane throughout the West Indies.
 
-> Quote = This will be a wonderful quote right here from someone important.
+> Quote: This will be a wonderful quote right here from someone important.
 
 ### History of rum in Jamaica ###
 

@@ -7520,8 +7520,8 @@ html {
 .quire-page h1, .quire-page__header__title {
   font-family: "mia-grotesk", Helvetica, sans-serif;
   font-size: 3.3rem;
-  font-weight: 300;
-  font-style: italic;
+  font-weight: 800;
+  font-style: normal;
   line-height: 1.14; }
   .quire-page h1 em, .quire-page__header__title em {
     font-style: normal; }
@@ -7767,7 +7767,7 @@ html {
   .quire-cover__hero .title {
     font-family: "mia-grotesk", Helvetica, sans-serif;
     font-size: calc(3.75rem * 1);
-    font-weight: 300;
+    font-weight: 800;
     line-height: 1.07;
     margin-top: 8rem;
     margin-bottom: calc(1.5rem * 1);

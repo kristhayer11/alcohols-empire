@@ -9,9 +9,9 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: Cocktails 
+title: Cocktails by Mia
 subtitle: 18th Century Libations
-reading_line: A digital publication framework built on Hugo
+reading_line: A joint  publication by the Minneapolis Institute of Art and the University of Minnesota
 short_title:
 
 description:
@@ -46,21 +46,19 @@ contributor_as_it_appears:
 
 contributor:
   - type: primary
-    first_name: Rose
-    last_name: Valland
-    title: Chair
-    affiliation: Commission for the Protection of Works of Art
-    bio: "Rose Antonia Maria Valland (1 November 1898 – 18 September 1980) was a French art historian, member of the French Resistance, captain in the French military, and one of the most decorated women in French history. She secretly recorded details of the Nazi plundering of National French and private Jewish-owned art from France; and, working with the French Resistance, she saved thousands of works of art."
-    url: https://en.wikipedia.org/wiki/Rose_Valland
-    pic: contributors/rose-valland.jpg
+    first_name: Nicole
+    last_name: LaBouff
+    title: Associate Curator of Textiles
+    bio: "Nicole works with Mia’s remarkable collection of textiles, particularly those from Europe and America. A Los Angeles native, she came to Mia in 2013 after working for six years in the Department of Costume and Textiles at the Los Angeles County Museum of Art. She has a background in anthropology, studied for her MPhil (1997) in archaeology at the University of Cambridge, and for her MA (2001) in art history and the history of dress at the Courtauld Institute of Art. For her PhD in history from the University of California, Irvine (2013), she studied the surviving 16th century embroideries of Mary, Queen of Scots and Bess of Hardwick. At Mia, Nicole has overseen a number of exhibitions, including Italian Style (2012), Cut from the Same Cloth: American Quilts at Mia (2016), and several period room reinstallations as part of the Living Rooms project."
+    url: https://collections.artsmia.org/curators/nicole-labouff
+    pic: contributors/nicole.jpg
   - type: primary
-    first_name: Denis
-    last_name: Diderot
+    first_name: Alex
+    last_name: Bortolot
     title: Chief Editor
-    affiliation: Encyclopédie
-    bio: "Denis Diderot (5 October 1713 – 31 July 1784) was a French philosopher, art critic, and writer. He was a prominent figure during the Enlightenment and is best known for serving as co-founder, chief editor, and contributor to the Encyclopédie along with Jean le Rond d’Alembert."
+    bio: "something goes here."
     url: https://en.wikipedia.org/wiki/Denis_Diderot
-    pic: contributors/denis-diderot.jpg
+    pic: contributors/alex.jpg
   - type: primary
     full_name: Félix-Sébastien Feuillet de Conches
     title: Diplomat
