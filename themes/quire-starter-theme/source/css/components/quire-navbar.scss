@@ -40,7 +40,7 @@ $quire-navbar-text-color: $dark !default;
 .quire-navbar {
 
   font-family: $family-secondary;
-  font-weight: 400;
+  font-weight: 800;
 
   @if $navbar-height <= 2rem {
     font-size: .85rem;
@@ -210,4 +210,3 @@ $quire-navbar-text-color: $dark !default;
     z-index: 1200;
   }
 }
-
