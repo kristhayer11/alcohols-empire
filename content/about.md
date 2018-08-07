@@ -5,6 +5,18 @@ weight: 603
 
 {{< q-figure id="kt1" >}}
 
-## Cocktails are fun!
 
-What should I say other than a Manhattan is my favorite, followed by a French Gimlet.
+## Summary ##
+some copy here
+
+## Citation info ##
+some copy here
+
+## Revision History ##
+some copy here
+
+## Downloads (if applicable) ##
+some copy here
+
+##  Copyright info ##
+some copy here
