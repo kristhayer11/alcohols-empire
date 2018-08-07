@@ -1,5 +1,5 @@
 ---
-title: Quire Starter
+title: Cocktails by Mia
 weight: 1
 menu: false
 type: cover
