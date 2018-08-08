@@ -26,12 +26,7 @@ object_list:
     figure:
       - id: "cat2"
   - id: 3
-    title: Reading (portrait of Edma Morisot)
-    artist: Berthe Morisot
-    year: 1873
-    medium: Oil on fabric
-    dimensions: 74.2 x 100.3 x 12 cm (29 <sup>3</sup>⁄<sub>16</sub> x 39 <sup>1</sup>⁄<sub>2</sub> x 4 <sup>11</sup>⁄<sub>16</sub> in.)
-    location: Cleveland Museum of Art
+    title: Reading Title (portrait of Edma Morisot)
     link: http://www.clevelandart.org/art/1950.89
     download: true
     figure:
@@ -57,4 +52,4 @@ object_list:
     location: Distillery
     link:
     figure:
-      - src: color.jpg
+    - src: color.jpg
