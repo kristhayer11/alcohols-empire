@@ -4,7 +4,7 @@ subtitle: Biography of a Cocktail
 weight: 75
 type: essay
 contributor:
-  - first_name: —Emily and Nicole
+  - first_name:  Emily Beck and Nicole La Bouff
     last_name:
     bio: "uhbouby uuyyu uyyg"
 ---
