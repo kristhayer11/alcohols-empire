@@ -1,7 +1,7 @@
 ---
-title: 18th Century Cocktails
-subtitle: Biography of a Cocktail
-weight: 75
+title: Essay 3
+subtitle: Subtitle here
+weight: 42
 type: essay
 contributor:
   - first_name:  Emily Beck and Nicole La Bouff

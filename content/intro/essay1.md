@@ -1,6 +1,6 @@
 ---
-title: The Luncheon on the Grass
-weight: 110
+title: Essay 1
+weight: 40  
 object:
   - artist: Édouard Manet
     year: 1863
