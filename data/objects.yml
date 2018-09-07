@@ -26,7 +26,7 @@ object_list:
     figure:
       - id: "cat2"
   - id: 3
-    title: Reading Title (portrait of Edma Morisot)
+    title: Reading  (portrait of Edma Morisot)
     link: http://www.clevelandart.org/art/1950.89
     download: true
     figure:
@@ -53,3 +53,6 @@ object_list:
     link:
     figure:
     - src: color.jpg
+  - id: 6
+    figure:
+      - src: teal.jpg
