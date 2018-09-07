@@ -1,9 +1,6 @@
 ---
 title: References
-type: entry
 weight: 500
-object:
-  - id: 6
 ---
 
 
