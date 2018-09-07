@@ -46,29 +46,19 @@ The first recorded name of this alcohol was kill devil hills because of its alco
 Natural fermentation: natural fermentation is when the distilleries depend on yeast that naturally occurs in the air and also in the sugar cane juice to convert the sugar into alcohol. Natural fermentation takes place in big open containers to expose it to the air and takes about 1 or 2 weeks to ferment.
 
 -   Bullet one
-
     -   Sub bullet one
-
     -   Sub-bullet two
-
 -   Bullet two
-
 -   Bullet three
 
 1.  Number one
-
 2.  Number two
-
 3.  Number three
 
 Controlled fermentation (continuous): The most advance method of fermenting is the continuous fermentation process. The continuous fermentation process consists of a fermentation tank that continuously receives diluted molasses because of which the yeast keep converting the sugar into alcohol and it all gets collected which is further distilled. endnote reference[^4]
 
 ## Notes ##
-
-[^1]: This is the second endnote.
-
-[^2]: This is the third endnote.
-
-[^3]: This is the fourth endnote.
-
-[^4]: This is the first endnote.
+[^1]: This is the first endnote.
+[^2]: This is the second endnote.
+[^3]: This is the third endnote.
+[^4]: This is the fourth endnote.  

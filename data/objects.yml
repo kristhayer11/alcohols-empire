@@ -56,3 +56,9 @@ object_list:
   - id: 6
     figure:
       - src: teal.jpg
+  - id: 7
+    figure:
+     - src: lime.jpg
+  - id: 8
+    figure:
+     - src: orangesmall.jpg
