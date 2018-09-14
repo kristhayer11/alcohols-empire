@@ -52,4 +52,6 @@ Censorship and the power of expression are relevant concepts in today's world an
 
 Dennis Michael Jon, Mia's Senior Associate Curator in the Department of Prints and Drawings, will talk about the collaborative artists' book *Ten Years of Uzbekistan* (1994) by British artist Ken Campbell and Irish author David King, a work with a focus on political oppression, and Goya's *Los Caprichos* (1797/98), an example of self-repression by the artist (fearful for his life because of the work's content) as well as a satirical political treatise about the Spanish government and merchant class.
 
+{{< q-figure src="barman.jpg">}}
+
 After the talk, audience members will gather in Mia's Library and Print and Drawing Study Room to see the works up close and talk further with the curators. Books from the Library's collection of "degenerate" artists and artists who have some connection to the theme of censorship or intellectual creative expression will be displayed for viewing on the Library's Reading Room tables. This event is held to coincide with Banned Books Week, which celebrates freedom to read and the free expression of ideas.
