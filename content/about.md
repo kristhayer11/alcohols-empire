@@ -1,6 +1,7 @@
 ---
 title: About
 weight: 603
+image: purple.jpg
 ---
 
 {{< q-figure id="kt1" >}}

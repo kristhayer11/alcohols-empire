@@ -1,8 +1,7 @@
 ---
 title: Contributors
 weight: 200
-type: entry
-object:
-  - id: 8
+type: page
+image: orange.jpg
 ---
 {{< q-contributors range="primary" type="bio" >}}

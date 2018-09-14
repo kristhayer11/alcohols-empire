@@ -1,6 +1,7 @@
 ---
 title: References
 weight: 500
+image: rose.jpg
 ---
 
 
