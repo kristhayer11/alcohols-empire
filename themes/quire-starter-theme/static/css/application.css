@@ -7266,29 +7266,29 @@ template {
 .quire-navbar {
   font-family: "mia-grotesk", Helvetica, sans-serif;
   font-weight: 800;
-  background-color: #ffffff;
+  background-color: black;
   min-height: 3rem;
   top: 0;
   width: 100%;
-  border-bottom: 1px solid #363636; }
+  border-bottom: 1px solid white; }
   .quire-navbar * {
-    color: #363636; }
+    color: white; }
   .quire-navbar svg {
-    fill: #363636; }
+    fill: white; }
   .quire-navbar a,
   .quire-navbar button,
   .quire-navbar .button {
-    background-color: #ffffff;
-    color: #363636 !important; }
+    background-color: black;
+    color: white !important; }
     .quire-navbar a:hover, .quire-navbar a:focus,
     .quire-navbar button:hover,
     .quire-navbar button:focus,
     .quire-navbar .button:hover,
     .quire-navbar .button:focus {
-      background-color: #f2f2f2;
-      color: #363636; }
+      background-color: black;
+      color: white; }
   .quire-navbar a {
-    border-bottom-color: #363636 !important; }
+    border-bottom-color: white !important; }
   .quire-navbar * {
     transition: background 0.15s linear; }
   .quire-navbar a {
@@ -7345,9 +7345,9 @@ template {
   padding: 0;
   transition: all 0.15s linear; }
   .quire-navbar-button:hover {
-    background-color: #f2f2f2; }
+    background-color: black; }
     .quire-navbar-button:hover > * {
-      background-color: #f2f2f2; }
+      background-color: black; }
   .quire-navbar-button svg {
     position: relative;
     top: 2px; }
@@ -7381,7 +7381,7 @@ template {
   transition: 0; }
 
 .quire-navbar-skip-link:focus {
-  background-color: #f2f2f2;
+  background-color: black;
   clip: unset;
   height: 3rem;
   line-height: 3rem;
