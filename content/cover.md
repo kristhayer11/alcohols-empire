@@ -3,7 +3,7 @@ title: Cocktails by Mia
 weight: 1
 menu: false
 type: cover
-image: cover_bg.jpg
+image: orangepeel.jpg
 slug: .
 ---
 

@@ -7,6 +7,7 @@ contributor:
   - first_name:  Author Name
     last_name:
     bio: "uhbouby uuyyu uyyg"
+image: pinkcocktail.jpg
 ---
 
 
@@ -49,8 +50,9 @@ Thursday, September 27, 6:30pm\
 $10; $5 My Mia members, free for members of the Library Affinity Group\
 <br>
 Censorship and the power of expression are relevant concepts in today's world and the "fake news" environment. Books and art are both connected to the ideals of intellectual freedom. As each has its own kind of beauty and sense of creative truth, they share a common connection to museums and their collections. During the 1920s and 30s in Germany, John Hartfield and other Dada artists published their anti-Nazi collages in *AIZ* (Textile Workers) magazine. After the seizure of power by Hitler the *AIZ* went into exile in Prague, and under editor-in-chief Franz Carl Weiskopf was renamed *Die Volks Illlustriete* in 1936. Just befoe the Nazis invaded Czechoslovakia in 1939, the publication was moved to Paris, where it published at least four issues before its demise.Yasufumi Nakamori, curator and head of the Department of Photography and New Media, will talk about issues of this important publication, which he helped Mia's Library purchase.
-
-Dennis Michael Jon, Mia's Senior Associate Curator in the Department of Prints and Drawings, will talk about the collaborative artists' book *Ten Years of Uzbekistan* (1994) by British artist Ken Campbell and Irish author David King, a work with a focus on political oppression, and Goya's *Los Caprichos* (1797/98), an example of self-repression by the artist (fearful for his life because of the work's content) as well as a satirical political treatise about the Spanish government and merchant class.
+<br>
+<br>
+*Dennis Michael Jon, Mia's Senior Associate Curator in the Department of Prints and Drawings, will talk about the collaborative artists' book* Ten Years of Uzbekistan *(1994) by British artist Ken Campbell and Irish author David King, a work with a focus on political oppression, and Goya's* Los Caprichos *(1797/98), an example of self-repression by the artist (fearful for his life because of the work's content) as well as a satirical political treatise about the Spanish government and merchant class.*
 
 {{< q-figure src="barman.jpg">}}
 
