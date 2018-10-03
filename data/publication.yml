@@ -25,7 +25,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date:
+pub_date: 2019-03-01
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -75,7 +75,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2018 Minneapolis Institute of Art
+copyright: © 2019 Minneapolis Institute of Art
 
 license:
   name: Creative Commons Attribution Non-commercial 4.0 International License
