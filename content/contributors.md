@@ -1,6 +1,6 @@
 ---
 title: Contributors
-weight: 200
+weight: 400
 type: page
 image: orange.jpg
 ---

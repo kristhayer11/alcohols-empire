@@ -1,6 +1,6 @@
 ---
 title: About
-weight: 603
+weight: 600
 image: purple.jpg
 ---
 

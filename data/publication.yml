@@ -117,7 +117,7 @@ resource_link:
 
 subject:
   - type: keyword
-    name: lemons, oranges, marmalade
+    name: cocktails, bitters, distillery, medicinals, herbals, tattersall
   - type: bisac
     name: ART HISTORY / English / Jams
     identifer: ART0009210
