@@ -1,9 +1,9 @@
 ---
 title: Forward & Acknowledgements
-weight: 30
+weight: 2
 type: page
 image: distillery.jpg
 ---
 # **Forward & Acknowledgements** #
 
-"This is some copy for this page. Why isn't it changing?""
+This is some copy for this page.
