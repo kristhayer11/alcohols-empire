@@ -29,6 +29,8 @@ In Jamaica sugar cane and the distilling process dates back to the 15th century.
 
 *The English use to transport rum back to England in barrels and they discovered that the amount of time the rum spent in the barrel along with the rocking of the ship gave a finer and smoother tasting rum. Entire paragraph is italic.*
 
+<hr style="border: 2px solid black;" />
+
 {{< q-figure src="cocktail4.jpg"  caption="A delightful image of a splashy cocktail stolen from the web."  class="is-pulled-left" >}}
 
 ### How rum got its name ###

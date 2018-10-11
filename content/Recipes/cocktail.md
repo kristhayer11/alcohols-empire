@@ -27,7 +27,7 @@ object:
 
 *Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
 
- 
+ <hr style="border: 2px solid black;" />
 
 ## Blood and Sand ##
 
