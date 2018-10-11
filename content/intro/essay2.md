@@ -7,7 +7,7 @@ contributor:
   - first_name:  Author Name
     last_name:
     bio: "uhbouby uuyyu uyyg"
-image: pinkcocktail.jpg
+image: pinkcocktail-smaller.jpg
 ---
 
 
