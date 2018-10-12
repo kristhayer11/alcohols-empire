@@ -15,3 +15,13 @@
 header {
   margin-top: 20px;
 }
+
+.content .quire-figure.is-pulled-left {
+    margin-left: 0;
+    margin-right: 30px;
+  }
+
+  .content .quire-figure.is-pulled-right {
+      margin-left: 20px;
+      margin-right: 0;
+    }

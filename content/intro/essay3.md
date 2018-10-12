@@ -108,7 +108,7 @@ Louis XIV and were decorated with rocaille style boiseries (carved wood pannels
 covering the walls of a room) conceived by architects like Germain Boffrand or
 ornemanistes (designers of decorative objects) likeJuste-Aurèle Meissonnier.
 
-{{< q-figure id="1.10" class="is-pulled-left" >}}
+{{< q-figure id="1.10" class="is-pulled-left">}}
 
 Architects like Ledoux and Boullée developed a radical style of neoclassical
 architecture based on simple and pure geometrical forms with a research of
