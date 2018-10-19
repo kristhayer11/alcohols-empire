@@ -4,6 +4,6 @@ weight: 2
 type: page
 image: distillery.jpg
 ---
-# **Forward & Acknowledgements** #
+# **Title Goes Right Here** #
 
 This is some copy for this page.

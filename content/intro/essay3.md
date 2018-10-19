@@ -2,7 +2,7 @@
 title: Essay 3
 subtitle: Subtitle here
 weight: 43
-image: still.jpg
+image: blue.jpg
 type: essay
 contributor:
   - first_name:  Emily Beck and Nicole La Bouff
