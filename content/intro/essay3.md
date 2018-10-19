@@ -55,6 +55,10 @@ little for the French king. ({{< q-cite "Rosenblum 1967" "103" >}})
 
 {{< q-deepzoom image="http://evil-manifests.davidnewbury.com/iiif/images/garden-1/info.json" >}}
 
+{{< q-deepzoom image="https://collections.artsmia.org/iiif/art/110994/posset-pot-england/info.json" >}}
+
+{{< q-figure src="posset.jpg" caption="England, Europe, Posset pot, 1690, glazed ceramic<br>Bequest of Irene G. Steiner, Minneapolis Institute of Art Collection" >}}
+
 The seventeenth century marked a golden age for French art in all fields. In the
 early part of the seventeenth century, late mannerist and early Baroque
 tendencies continued to flourish in the court of Marie de Medici and Louis XIII.
@@ -128,8 +132,6 @@ the 1850s and a prominent teacher, giving priority to drawing over color.
 Meanwhile, Orientalism, Egyptian motifs, the tragic anti-hero, the wild
 landscape, the historical novel, and scenes from the Middle Ages and the
 Renaissance —all these eleme
-
-{{< q-figure id="1.11" >}}
 
 Romantic tendencies continued throughout the century, both idealized landscape
 painting and Naturalism have their seeds in Romanticism. The work of Gustave
