@@ -3,11 +3,11 @@ title: The Posset Cup
 type: entry
 weight: 160
 object:
-  - id: 10
+  - src: posset.jpg
 ---
 
 <br>
-## Some Big Headline Here ##
+# Some Big Headline Here #
 
 Hari sus poreriberum voluptia videlent asit faccus, tenit, et, erum eaqui dipsam earuntis aut aut aut dolorendior aria que nobit fugiaesed eumquiatur susam, quam faci net quos elluptat porumendebit aborum et quodi utem int, cor alitetur, ad quatusc iduciis excere, aute odit, que offic to to quis eliquae sendit. [^1]
 
@@ -18,5 +18,6 @@ Optat. Unt vendani magnistemo omnit, a velia coremodiam quam volorios utem delit
 Icimossit lamust et officiur, nullatem ex erci repudis ad quam autem facerias et dolupta volum doloratem apicimus doloreium eum fugitia que optur molo ma vendici liquundisque plaborit unt et labo. As unte por aspiendes eatiatque natiber ibustruptate ipsam, nam utectur magnis dolorestiur?
 Cuscipis ma culliate quamus.
 
+<br>
 ## Notes ##
 [^1]: This is the first endnote.
