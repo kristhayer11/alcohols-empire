@@ -95,3 +95,11 @@ figure_list:
     credit: Borrowed from the internet
     alt: "A beautiful square icecube."
     download: true
+  - id: "kt3"
+    src: posset.jpg
+    caption: "what goes here?"
+    credit: Image courtesy of Minneapolis Institute of Art
+    alt: "wide-bottomed pot with short ring foot; body tapers inward to short out-ward
+    flaring neck; pair of scrolling handles; long spout attached flush to body; blue and white
+    with bird and flower decorations on body; ring of scrolling flowers around neck"
+    download: true

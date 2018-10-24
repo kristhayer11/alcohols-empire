@@ -57,11 +57,11 @@ object_list:
      - src: orangesmall.jpg
   - id: 10
     title: Posset pot
-    artist: NEED TO ADD ORIGIN COUNTRY
-    year: c. 1690
+    year: c. 1690, England
     medium: Glazed ceramic
     dimensions: 14.13 x 18.26 x 19.21 cm
     location: Minneapolis Institute of Art, Minneapolis
+    download: true
     link: https://collections.artsmia.org/art/110994/posset-pot-england
     alt: "wide-bottomed pot with short ring foot; body tapers inward to short out-ward
     flaring neck; pair of scrolling handles; long spout attached flush to body; blue and white
