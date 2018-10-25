@@ -15,6 +15,8 @@ Rums vary from place to place depending on the tradition that they followed. Rum
 
 The majority of the world production of rum takes place in the Caribbean and Latin America which also include a few other countries. Rum is also produced by Australia, New Zealand, and Fiji islands, Mexico, India and Canada. The federal law states that rum should be distilled from the fermented products of sugar cane like sugar cane juice, sugar cane syrup or the by product or sugar cane which is molasses at less than 190 proof.
 
+ĀāāąąćĝýÿŝşřśĻöšśąćēĕĩ      
+
 Dark rums are usually consumed neat or with a mixed while light rums are used to make cocktails. 2.2 billion dollars were generated in 2009 in the United States because of the sales of rum. This is the link to a [wiki article on rum](https://en.wikipedia.org/wiki/Rum).
 
 ### History of Rum ###

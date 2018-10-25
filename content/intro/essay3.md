@@ -19,7 +19,7 @@ Paleolithic, then left many megalithic monuments, and in the Iron Age many of
 the most impressive finds of early Celtic art. The Gallo-Roman period left a
 distinctive provincial style of sculpture, and the region around the modern
 Franco-German border led the empire in the mass production of finely
-decoratedAncient Roman pottery, which was exported to Italy and elsewhere on a
+decorated Ancient Roman pottery, which was exported to Italy and elsewhere on a
 lagre scale. With Merovingian art the story of French styles as a distinct and
 influential element in the wider development of the art of Christian Europe
 begins. ({{< q-cite "Faure 1909" "54" >}})
