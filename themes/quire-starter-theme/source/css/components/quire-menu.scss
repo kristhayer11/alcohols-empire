@@ -50,7 +50,7 @@ $quire-menu-text-color: $white !default;
       margin-top: 3rem;
       @if $family-secondary == $serif {
         font-size: 2rem;
-        font-weight: 600;
+        font-weight: 800;
         line-height: 1.143;
       }
     }
@@ -120,4 +120,3 @@ $quire-menu-text-color: $white !default;
     background-color: transparent;
   }
 }
-
