@@ -7289,7 +7289,7 @@ html {
 .quire-contents-list .list-header {
   padding: .5em .75em;
   text-transform: uppercase;
-  letter-spacing: 1px; }
+  letter-spacing: 0px; }
 
 .quire-contents-list .contributor {
   font-style: italic; }

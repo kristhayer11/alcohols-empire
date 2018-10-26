@@ -1,6 +1,6 @@
 ---
 title: Essay 3
-subtitle: Subtitle here
+subtitle: —Author is going to have to go here cuz lost author line
 weight: 43
 image: cover_kt.jpg
 type: essay

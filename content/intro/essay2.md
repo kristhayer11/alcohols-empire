@@ -1,6 +1,6 @@
 ---
 title: Essay 2
-subtitle: Subtitle here
+subtitle: —Author is going to have to go here
 weight: 42
 type: page
 contributor:
