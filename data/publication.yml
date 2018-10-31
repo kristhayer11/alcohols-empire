@@ -9,9 +9,9 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: Cocktails by Mia
-subtitle: 18th Century Libations
-reading_line: A joint  publication by the Minneapolis Institute of Art <br>and the University of Minnesota
+title: Spirits of the Enlightenment
+subtitle: Alcohol in the 1700s Atlantic World
+reading_line: A collaboration between The Minneapolis Institute of Art, The Wangensteen Historical Library, and Tattersall Distillery
 short_title:
 
 description:
@@ -49,7 +49,10 @@ contributor:
     first_name: Nicole
     last_name: LaBouff
     title: Associate Curator of Textiles
-    bio: "Nicole works with Mia’s remarkable collection of textiles, particularly those from Europe and America. A Los Angeles native, she came to Mia in 2013 after working for six years in the Department of Costume and Textiles at the Los Angeles County Museum of Art. She has a background in anthropology, studied for her MPhil (1997) in archaeology at the University of Cambridge, and for her MA (2001) in art history and the history of dress at the Courtauld Institute of Art. For her PhD in history from the University of California, Irvine (2013), she studied the surviving 16th century embroideries of Mary, Queen of Scots and Bess of Hardwick. At Mia, Nicole has overseen a number of exhibitions, including Italian Style (2012), Cut from the Same Cloth: American Quilts at Mia (2016), and several period room reinstallations as part of the Living Rooms project."
+    bio: "Nicole LaBouff is Associate Curator of Textiles at the Minneapolis Institute of Art.
+    She worked previously in the Department of Costume and Textiles at the Los Angeles County Museum of Art.
+    She received her PhD in History from the University of California, Irvine and her areas of interest include early modern textiles, botany,
+    and alcohol."
     url: https://collections.artsmia.org/curators/nicole-labouff
     pic: contributors/nicole.jpg
   - type: primary
@@ -65,11 +68,15 @@ contributor:
     bio: "Félix-Sébastien Feuillet de Conches (4 December 1798 – 5 February 1887 in Paris) was a French diplomat, journalist, writer and collector. Having occupied the posts of ‘introducteur des ambassadeurs’ and head of protocol at the Ministry of Foreign Affairs, he was able to form a collection specialising in English painting, 19th century French painting, the history of civilisations, the art of the Near East and the art of Asia. His contemporary Charles Monselet judged de Conches’ collection as unequalled, but it included some pieces of dubious authenticity."
     pic: contributors/de-conches.jpg
   - type: primary
+    first_name: Emily
+    last_name: Beck
+    title:
+    pic: contributors/kris-thayer.jpg
+    bio: "need this bio."
+  -type: secondary
     first_name: Kris
     last_name: Thayer
-    title: Sr. Designer
-    pic: contributors/kris-thayer.jpg
-    bio: Kris has worked at the Minneapolis Institue of Art for ten years.
+    bio: "need something here."
 
 # ------------------------------------------------------------------------------
 # Copright & License
