@@ -1,11 +1,11 @@
 ---
 title: Essay 2
-subtitle: —Author is going to have to go here
+subtitle: subtitle goes here
 weight: 42
 type: page
 contributor:
-  - first_name:  Author Name
-    last_name:
+  - first_name:  Firstname
+    last_name: Lastname
     bio: "uhbouby uuyyu uyyg"
 image: pinkcocktail-smaller.jpg
 ---

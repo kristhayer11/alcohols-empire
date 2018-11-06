@@ -1,12 +1,12 @@
 ---
 title: Essay 3
-subtitle: —Author here cuz lost author line
+subtitle: Subtitle goes here
 weight: 43
 image: cover_kt.jpg
 type: essay
 contributor:
-  - first_name:  Emily Beck and Nicole La Bouff
-    last_name:
+  - first_name:  Emily Beck and
+    last_name: Nicole La Bouff
     bio: "uhbouby uuyyu uyyg"
 ---
 

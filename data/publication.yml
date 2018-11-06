@@ -73,10 +73,6 @@ contributor:
     title:
     pic: contributors/kris-thayer.jpg
     bio: "need this bio."
-  -type: secondary
-    first_name: Kris
-    last_name: Thayer
-    bio: "need something here."
 
 # ------------------------------------------------------------------------------
 # Copright & License
