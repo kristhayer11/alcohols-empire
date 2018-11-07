@@ -1,6 +1,6 @@
 ---
-title: Essay 2
-subtitle: subtitle goes here
+title: Alcohol in the 1700s Atlantic World
+subtitle: 
 weight: 42
 type: page
 contributor:

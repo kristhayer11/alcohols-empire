@@ -1,6 +1,6 @@
 ---
 title: Forward & Acknowledgements
-weight: 30
+weight: 2
 type: page
 image: distillery.jpg
 ---
