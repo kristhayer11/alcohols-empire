@@ -33,7 +33,7 @@ identifier:
 publisher:
   - name: Minneapolis Institue of Art
     location: Minneapolis
-    url:
+    url: https://new.artsmia.org/
     logo: mia-logo.png
 
 # ------------------------------------------------------------------------------
@@ -60,11 +60,6 @@ contributor:
     bio: "something goes here."
     url: https://en.wikipedia.org/wiki/Denis_Diderot
     pic: contributors/alex.jpg
-  - type: primary
-    full_name: Félix-Sébastien Feuillet de Conches
-    title: Diplomat
-    bio: "Félix-Sébastien Feuillet de Conches (4 December 1798 – 5 February 1887 in Paris) was a French diplomat, journalist, writer and collector. Having occupied the posts of ‘introducteur des ambassadeurs’ and head of protocol at the Ministry of Foreign Affairs, he was able to form a collection specialising in English painting, 19th century French painting, the history of civilisations, the art of the Near East and the art of Asia. His contemporary Charles Monselet judged de Conches’ collection as unequalled, but it included some pieces of dubious authenticity."
-    pic: contributors/de-conches.jpg
   - type: primary
     first_name: Emily
     last_name: Beck
