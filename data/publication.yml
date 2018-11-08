@@ -44,6 +44,12 @@ contributor_as_it_appears:
 
 contributor:
   - type: primary
+    first_name: Emily
+    last_name: Beck
+    title:
+    pic: contributors/kris-thayer.jpg
+    bio: "need this bio."
+  - type: primary
     first_name: Nicole
     last_name: LaBouff
     title: Associate Curator of Textiles
@@ -53,12 +59,7 @@ contributor:
     and alcohol."
     url: https://collections.artsmia.org/curators/nicole-labouff
     pic: contributors/nicole.jpg
-  - type: primary
-    first_name: Emily
-    last_name: Beck
-    title:
-    pic: contributors/kris-thayer.jpg
-    bio: "need this bio."
+
 
 # ------------------------------------------------------------------------------
 # Copright & License

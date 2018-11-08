@@ -34,17 +34,14 @@ Clear Skies Ahead is our historical take on a classic Aviation. Developed in the
 - ¼ oz. Simple Syrup
 
 Shake, Strain, Coupe
+<br>
 Lemon Peel Garnish
 </div>
 <br>
-
->Cherrie Water: The Historical Recipe
-<br>
-<br>
-Take of the best red Cherries two pounds stone them & bruise ym. Wth. a spoone, then put to them nine pints of of the best white wine four - ounces of Cinemon, three ounces of Nutmegg's bruised half a handfull of the topps of Rosemary, as much Of Balme, half a handfull of Sweet margerum - Shred y.r herbs & lett all infuse together twenty Four hour's, So Still itt In a glass Still, or Ordinery Stille Lett itt drop upon Sugar Candy or fine Sugar And a graine of Ambergreece with itt if you Like itt.
-<br>
-Ann Ward, *Book of receipts*, c. 1724. P. 53. Manuscript, Wangensteen Historical Library of Biology and Medicine. [[WZ260 W256b 1724.
- ]{.underline}](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21475285030001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US)
+<span class="gray-text">
+CHERRIE WATER: THE HISTORICAL RECIPE<br>
+*Take of the best red Cherries two pounds stone them & bruise ym. Wth. a spoone, then put to them nine pints of of the best white wine four - ounces of Cinemon, three ounces of Nutmegg's bruised half a handfull of the topps of Rosemary, as much Of Balme, half a handfull of Sweet margerum - Shred y.r herbs & lett all infuse together twenty Four hour's, So Still itt In a glass Still, or Ordinery Stille Lett itt drop upon Sugar Candy or fine Sugar And a graine of Ambergreece with itt if you Like itt.*  [^6]
+</span>
 
 <br>
 <div class="boxed">
@@ -53,15 +50,15 @@ CHERRY WATER: The Modern Interpretation
 Tattersall followed this recipe almost to a T, only reducing the cinnamon and nutmeg somewhat and leaving out the ambergris.
 </div>
 <br>
-
->Water of Flowers: The Original
 <br>
-From, [[*The London Distiller*. London : Printed by E. Cotes, for Thomas Williams, 1667. p. 22. Courtesy of the Wangensteen Historical Library of Biology and Medicine. ]{.underline}](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21337551290001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US)
+<span class="gray-text">
+WATER OF FLOWERS: THE HISTORICAL RECIPE
 <br>
+*Water of Flowers. The greater quantity.
 <br>
-> Water of Flowers. The greater quantity.
+Take strong proof-spirit what sufficeth, and put it into a wide mouthed Pot, (or other Vessel) stopt very close. Take those several flowers following in their seasons, and being clean pickt, put them to the spirit in the pot,* viz. *Cow slips wood-bind, stock jilly flowers of all three sorts, Damask roses, Musk Roses, Sweet Brier flowers, Clove Jilly-flowers, Lilium Convallium, Jasmine, Citron flowers, or pils dry, Orange flowers, or pils dry, Tillia flowers, Garden Thyme flowers, Limon Thyme flowers, Wild Thyme flowers; Lavender flowers, Marigold flowers, Chamomile flowers, Mellilot flowers, Elder flowers, of each half a pound. Being furnished with all your flowers as above, when you would distill them, add to them Anniseed 2 pound, Coriander 1 pound; bruise the seeds; it were best to bruise all the flowers; as you put them up into the spirit, for their more orderly working; distil them into strong Proof-spirit according to art; then add to the distilled water, Roses, Jilly flowers, Elder flowers, of each 1 pound: after twelve dayes infusion it may be drawn off; then dulcifie it with white Sugar 10 pound, and being fine, it may be drawn for use."* [^7]
 <br>
-Take strong proof-spirit what sufficeth, and put it into a wide mouthed Pot, (or other Vessel) stopt very close. Take those several flowers following in their seasons, and being clean pickt, put them to the spirit in the pot, *viz.* Cow slips wood-bind, stock jilly flowers of all three sorts, Damask roses, Musk Roses, Sweet Brier flowers, Clove Jilly-flowers, Lilium Convallium, Jasmine, Citron flowers, or pils dry, Orange flowers, or pils dry, Tillia flowers, Garden Thyme flowers, Limon Thyme flowers, Wild Thyme flowers; Lavender flowers, Marigold flowers, Chamomile flowers, Mellilot flowers, Elder flowers, of each half a pound. Being furnished with all your flowers as above, when you would distill them, add to them Anniseed 2 pound, Coriander 1 pound; bruise the seeds; it were best to bruise all the flowers; as you put them up into the spirit, for their more orderly working; distil them into strong Proof-spirit according to art; then add to the distilled water, Roses, Jilly flowers, Elder flowers, of each 1 pound: after twelve dayes infusion it may be drawn off; then dulcifie it with white Sugar 10 pound, and being fine, it may be drawn for use."
+</span>
 
 <br>
 <div class="boxed">
@@ -101,4 +98,6 @@ In their recreation, Tattersall included orange blossom water, cowslips, honeysu
 
 [^5]: *The London-Distiller,* 1.
 
-[^6]: something
+[^6]: Ann Ward, *Book of receipts*, c. 1724. P. 53. Manuscript, Wangensteen Historical Library of Biology and Medicine. WZ260 W256b 1724. https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21475285030001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US)
+
+[^7]: *The London Distiller*. London : Printed by E. Cotes, for Thomas Williams, 1667. p. 22. Courtesy of the Wangensteen Historical Library of Biology and Medicine. https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21337551290001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US)
