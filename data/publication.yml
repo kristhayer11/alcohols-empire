@@ -54,13 +54,6 @@ contributor:
     url: https://collections.artsmia.org/curators/nicole-labouff
     pic: contributors/nicole.jpg
   - type: primary
-    first_name: Alex
-    last_name: Bortolot
-    title: Chief Editor
-    bio: "something goes here."
-    url: https://en.wikipedia.org/wiki/Denis_Diderot
-    pic: contributors/alex.jpg
-  - type: primary
     first_name: Emily
     last_name: Beck
     title:

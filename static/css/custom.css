@@ -28,3 +28,7 @@ header {
       margin-left: 20px;
       margin-right: 0;
     }
+
+    .title {
+        font-weight: 800;
+    }
