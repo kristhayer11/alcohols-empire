@@ -99,3 +99,8 @@ figure_list:
     src: posset.jpg
     credit: Image courtesy of Minneapolis Institute of Art
     download: true
+  - id: "hogarth"
+    src: hogarth.jpg
+    caption: "William Hogarth, England, 1697–1764, *Gin Lane*, 1750–51, etching and engraving"
+    credit: The Herschel V. Jones Fund, Minneapolis Institute of Art
+    download: true
