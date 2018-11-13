@@ -4,5 +4,5 @@ weight: 20
 type: contents
 class: grid
 slug: .
-search: false
+search: true
 ---

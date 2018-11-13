@@ -1,5 +1,5 @@
 ---
-title: Clear Skies Ahead
+title: Cherrie Water & Water of Flowers
 weight: 130
 image: flames.jpg
 type: entry
