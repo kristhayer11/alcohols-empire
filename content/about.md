@@ -16,10 +16,21 @@ sourcing ingredients locally to implementing a comprehensive organics program, T
 
 <hr style="border: 2px solid black;" />
 
-## Revision History ##
+
+###  Copyright info ###
 some copy here
 
-<hr style="border: 2px solid black;" />
+### Summary ###
+some copy here
 
-##  Copyright info ##
+### Citation info ###
+some copy here
+
+### Revision History ###
+some copy here
+
+### Downloads (if applicable) ###
+some copy here
+
+###  Copyright info ###
 some copy here
