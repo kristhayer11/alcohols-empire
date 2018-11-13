@@ -41,3 +41,8 @@ object_list:
     with bird and flower decorations on body; ring of scrolling flowers around neck"
     figure:
       -src: "posset.jpg"
+  - id: "salon1"
+    src: salon1.jpg
+    caption: "France, Grand Salon from the Hôtel de la Bouëxière, 1735, wood, paint, plaster, gilt, marble, iron"
+    credit: Gift of the Groves Foundation, Minneapolis Institute of Art
+    download: true
