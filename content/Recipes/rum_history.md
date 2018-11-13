@@ -34,17 +34,39 @@ Havre, Monet’s hometown, and is his most famous painting of the harbor.
 {{< q-figure src="cocktail4.jpg"  caption="A delightful image of a splashy cocktail stolen from the web."  class="is-pulled-right" >}}
 *Sugarcane juice italic*: French rums are usually made of 100% sugarcane juice which is fermented and then aged. Rums which are made with 100% sugarcane contain high level of herbal aromas and are totally different from molasses based rums. **The more sugar the better grade of molasses and in turn the best quality rum is produced.** [^2]
 
-### Fermentation Method ###
+# Subhead Right Here #
 
--   Bullet one
-    -   Sub bullet one
-    -   Sub-bullet two
--   Bullet two
--   Bullet three
+Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regione consulatu vis eu. [Jump to Caipirinha recipe.] (#caipirinha)
 
-1.  Number one
-2.  Number two
-3.  Number three
+ <hr style="border: 2px solid black;" />
+
+## Blood and Sand ##
+
+- ¾ ounce Scotch whisky
+-  ¾ ounce Cherry Heering
+- ¾ ounce Italian sweet vermouth
+- ¾ ounce fresh-squeezed orange juice
+
+
+1. Shake all ingredients with ice
+2. strain into a chilled cocktail glass.
+3. Garnish with an orange peel.
+
+*Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
+
+<hr style="border: 2px solid black;" />
+
+## Caipirinha ##
+*(Caipirissima with Rum or Caipiroska with Vodka)*
+
+- 2 ounces cachaça
+- ¾ ounce simple syrup
+- ½ lime, quartered
+
+1. Chill a rocks glass with cracked ice.
+2. Muddle lime and simple syrup in a mixing glass.
+3. Add cachaça and the ice into the mixing glass and shake well.
+5. Pour the entire contents back into the rocks glass and serve.
 
 ## Notes ##
 [^1]: This is the first endnote.
