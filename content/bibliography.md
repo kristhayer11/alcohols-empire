@@ -1,5 +1,5 @@
 ---
-title: References
+title: Bibliography
 weight: 500
 image: rose.jpg
 ---
