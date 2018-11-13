@@ -11,6 +11,11 @@ object:
 
 The oldest and the most varied distilled spirit are known as rum. Rum is distilled from the extracts of the sugar cane plant or the by-product of sugar cane known as molasses. This is a test citation for Rum Book ({{<q-cite "Rum Reference">}}). Rum is an aged spirit which is usually aged in charred oak casks for a period of 30 years which is in cases of a few authentic brands but is usually aged for a period of 15 years and below. This is the link to a [wiki article on rum](https://en.wikipedia.org/wiki/Rum). Rum that is aged in charred oak casks get a golden to dark brown colour because of the oak casks. Rums which are aged in stainless steel tanks remain colourless. [^1]
 
+<span class="gray-text">
+CHERRIE WATER: THE HISTORICAL RECIPE<br>
+*Take of the best red Cherries two pounds stone them & bruise ym. Wth. a spoone, then put to them nine pints of of the best white wine four - ounces of Cinemon, three ounces of Nutmegg's bruised half a handfull of the topps of Rosemary, as much Of Balme, half a handfull of Sweet margerum - Shred y.r herbs & lett all infuse together twenty Four hour's, So Still itt In a glass Still, or Ordinery Stille Lett itt drop upon Sugar Candy or fine Sugar And a graine of Ambergreece with itt if you Like itt.*  [^6]
+</span>
+
 <div class="boxed">
 TEQUILA SUNRISE RECIPE
 <br>
