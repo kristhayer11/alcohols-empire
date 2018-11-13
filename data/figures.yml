@@ -1,5 +1,5 @@
 figure_list:
-    - id: "kt1"
+  - id: "kt1"
     src: cocktail4.jpg
     caption: "Stolen from the internet for demo purposes only."
     credit: Borrowed from the internet
@@ -19,4 +19,9 @@ figure_list:
     src: hogarth.jpg
     caption: "William Hogarth, England, 1697–1764, *Gin Lane*, 1750–51, etching and engraving"
     credit: The Herschel V. Jones Fund, Minneapolis Institute of Art
+    download: true
+  - id: "posset2"
+    src: posset2.jpg
+    caption: "England, Posset pot, 1710–20, tin-glazed earthenware"
+    credit: Gift of Mr. and Mrs. George R. Steiner, Minneapolis Institute of Art
     download: true
