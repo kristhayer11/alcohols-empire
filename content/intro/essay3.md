@@ -22,22 +22,3 @@ begins. ({{< q-cite "Faure 1909" "54" >}})
 {{< q-deepzoom image="http://evil-manifests.davidnewbury.com/iiif/images/garden-1/info.json" >}}
 
 {{< q-figure src="posset.jpg" caption="England, Europe, Posset pot, 1690, glazed ceramic<br>Bequest of Irene G. Steiner, Minneapolis Institute of Art Collection" >}}
-
-Georges de La Tour, The Penitent Magdalene, c. 1640.
-({{< q-cite "Berson 1996" "233" >}})
-
-{{< q-figure-group id="1.6, 1.7" grid="2" caption="This group caption supercedes individual captions." >}}
-
-
-## Modern Period ##
-
-### 20th Century ###
-
-The early years of the twentieth century were dominated by experiments in colour
-and content that Impressionism and Post-Impressionism had unleashed. The
-products of the far east also brought new influences. At roughly the same time,
-Les Fauves (Henri Matisse, André Derain, Maurice de Vlaminck, Albert Marquet,
-Raoul Dufy, Othon Friesz, Charles Camoin, Henri Manguin) exploded into color,
-much like German Expressionism. ({{< q-cite "Broude 1991" >}})
-<br>
-<br>
