@@ -6,9 +6,6 @@ object:
   - id: 5
 ---
 
-
-## World Production Of Rum ##
-
 The oldest and the most varied distilled spirit are known as rum. Rum is distilled from the extracts of the sugar cane plant or the by-product of sugar cane known as molasses. This is a test citation for Rum Book ({{<q-cite "Rum Reference">}}).
 
 > Quote: This will be a wonderful quote right here from someone important.
@@ -58,6 +55,8 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 3. Garnish with an orange peel.
 
 *Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
+
+{{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine, The William Hood Dunwoody Fund" >}}
 
 <hr style="border: 2px solid black;" />
 
