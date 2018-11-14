@@ -4,10 +4,11 @@ weight: 400
 type: page
 image: orange.jpg
 ---
-
+{{< q-figure id="emily"  src="contributors/emily2.jpg" class="is-pulled-right"  >}}
 **Emily Beck** is the Assistant Curator of the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota. She received her PhD in the History of Medicine from the University of Minnesota where worked on the history of early modern Italian lay medical practice via manuscript medical recipe books. Her research, teaching, and outreach activities at the Wangensteen are broad, including histories of anatomy, scientific illustrations, recipes, and material culture.
 <br>
 <br>
+{{< q-figure id="bentley"  src="contributors/bentley.jpg" class="is-pulled-right"  >}}
 **Bentley Gillman** is Head Distiller at Tattersall Distilling Company. He previously worked throughout the Twin Cities in the bar and restaurant industry but his true passion has always been researching and working with local and exotic ingredients, foraging throughout the woods of Minnesota and Wisconsin. He is a self-proclaimed fermentation junky and is the driver behind the production, research and development of the incredible spirits produced by Tattersall. Bentley earned degrees in Philosophy and Religious Studies at the University of Minnesota. Bentley is originally from Wisconsin and currently resides in Minneapolis with his partner and their daughter.
 <br>
 <br>

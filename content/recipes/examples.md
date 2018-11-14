@@ -56,7 +56,7 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 
 *Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
 
-{{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine, The William Hood Dunwoody Fund" >}}
+{{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine, The William Hood Dunwoody Fund, Minneapolis Institute of Art Collection" >}}
 
 <hr style="border: 2px solid black;" />
 

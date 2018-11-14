@@ -27,7 +27,11 @@ figure_list:
     download: true
   - id: "pp2"
     src: pp2.jpg
-    caption: "United States, Providence parlour, 1760–70, pine"
-    credit: The William Hood Dunwoody Fund, Minneapolis Institute of Art
     download: true
     link: https://new.artsmia.org/art-artists/research/case-studies/just-imported-global-trade-in-1700s-new-england/
+  - id: "emily"
+    src: emil.jpg
+    download: true
+  - id: "bentley"
+    src: bentley.jpg
+    download: true
