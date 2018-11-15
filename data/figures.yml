@@ -49,5 +49,9 @@ figure_list:
     credit: "Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institue of Art"
   - id: "hogarth2"
     src: hogarth2.jpg
-    caption: " William Hogarth, Beer Street, 1750–51, etching and engraving"
+    caption: "William Hogarth, Beer Street, 1750–51, etching and engraving"
     credit: "The Herschel V. Jones Fund, by exchange, Minneapolis Institue of Art"
+  - id: "drug-pot"
+    src: drug-pot.jpg
+    caption: "England, Drug pot, 1750, ceramic, metal, delftware"
+    credit: "Gift of Mr. and Mrs. George R. Steiner, Minneapolis Institue of Art"

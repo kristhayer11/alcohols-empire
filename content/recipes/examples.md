@@ -45,19 +45,7 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 
 {{< q-figure src="hogarth1.jpg"  caption="William Hogarth, *Gin Lane*, 1750–51, etching and engraving" credit="The Herschel V. Jones Fund, by exchange, Minneapolis Institute of Art"  >}}
 
-## Blood and Sand ##
-
-- ¾ ounce Scotch whisky
--  ¾ ounce Cherry Heering
-- ¾ ounce Italian sweet vermouth
-- ¾ ounce fresh-squeezed orange juice
-
-
-1. Shake all ingredients with ice
-2. strain into a chilled cocktail glass.
-3. Garnish with an orange peel.
-
-*Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
+{{< q-figure src="drug-pot.jpg"  caption="England, Drug pot, 1750, ceramic, metal, delftware" credit="Gift of Mr. and Mrs. George R. Steiner, Minneapolis Institute of Art"  >}}
 
 {{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit="The William Hood Dunwoody Fund, Minneapolis Institute of Art" >}}
 

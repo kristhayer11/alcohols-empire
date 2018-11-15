@@ -1,5 +1,5 @@
 ---
-title: About
+title: Project Partners
 weight: 600
 image: purple.jpg
 ---
