@@ -15,8 +15,8 @@ figure_list:
     src: posset.jpg
     credit: Image courtesy of Minneapolis Institute of Art
     download: true
-  - id: "hogarth"
-    src: hogarth.jpg
+  - id: "hogarth1"
+    src: hogarth1.jpg
     caption: "William Hogarth, England, 1697–1764, *Gin Lane*, 1750–51, etching and engraving"
     credit: The Herschel V. Jones Fund, Minneapolis Institute of Art
     download: true
@@ -37,6 +37,8 @@ figure_list:
     download: true
   - id: "pendant1"
     src: pendant-closed.jpg
+    caption: "Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood"
+    credit: "Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institue of Art"
     download: true
   - id: "pendant2"
     src: pendant-open.jpg

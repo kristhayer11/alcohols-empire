@@ -33,7 +33,6 @@ CHERRIE WATER: THE HISTORICAL RECIPE<br>
 
 
 ### Raw materials used ###
-{{< q-figure src="cocktail4.jpg"  caption="A delightful image of a splashy cocktail stolen from the web."  class="is-pulled-right" >}}
 *Sugarcane juice italic*: French rums are usually made of 100% sugarcane juice which is fermented and then aged. Rums which are made with 100% sugarcane contain high level of herbal aromas and are totally different from molasses based rums. **The more sugar the better grade of molasses and in turn the best quality rum is produced.** [^2]
 
 # Subhead Right Here #
@@ -56,11 +55,11 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 
 *Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
 
-{{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine, The William Hood Dunwoody Fund, Minneapolis Institute of Art Collection" >}}
+{{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit="The William Hood Dunwoody Fund, Minneapolis Institute of Art Collection" >}}
 
 <hr style="border: 2px solid black;" />
 
-{{< q-figure-group id="pendant1, pendant2"  caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood, Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art Collection" >}}
+{{< q-figure-group id="pendant1, pendant2"  grid="2" class="is-centered-small" caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art Collection" >}}
 
 ## Caipirinha ##
 *(Caipirissima with Rum or Caipiroska with Vodka)*
