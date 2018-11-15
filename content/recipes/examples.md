@@ -10,16 +10,20 @@ The oldest and the most varied distilled spirit are known as rum. Rum is distill
 
 > Quote: This will be a wonderful quote right here from someone important.
 
+<span class="rose-text">
 Rum is an aged spirit which is usually aged in charred oak casks for a period of 30 years which is in cases of a few authentic brands but is usually aged for a period of 15 years and below. This is the link to a [wiki article on rum](https://en.wikipedia.org/wiki/Rum). Rum that is aged in charred oak casks get a golden to dark brown colour because of the oak casks. Rums which are aged in stainless steel tanks remain colourless. [^1]
+</span>
 
 <div class="boxed">
 TEQUILA SUNRISE RECIPE
 <br>
-A painting by Claude
-Monet. Shown at what would later be known as the “Exhibition of the
-Impressionists” in April 1874, the painting is attributed to giving rise to the
-name of the Impressionist movementepicts the port of Le
-Havre, Monet’s hometown, and is his most famous painting of the harbor.
+*Some intructions go right here.*
+<br>
+- 2 ounces cachaça
+<br>
+- ¾ ounce simple syrup
+<br>
+- ½ lime, quartered
 </div>
 <br>
 
