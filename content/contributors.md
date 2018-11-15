@@ -24,4 +24,10 @@ image: orange.jpg
 <br>
 <hr style="border: 2px solid black;" />
 <br>
-**Diane? Kris? Alex? Ana?**
+**Alex Bortolot** Content Strategist, Minneapolis Institute of Art
+<br>
+**Diane Richard** Editor, Minneapolis Institute of Art
+<br>
+**Ana Taylor** Photographer, Minneapolis Institute of Art
+<br>
+**Kris Thayer** Senior Designer, Minneapolis Institute of Art

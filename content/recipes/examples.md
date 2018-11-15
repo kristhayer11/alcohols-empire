@@ -60,6 +60,8 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 
 <hr style="border: 2px solid black;" />
 
+{{< q-figure-group id="pendant1, pendant2"  caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood, Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art Collection" >}}
+
 ## Caipirinha ##
 *(Caipirissima with Rum or Caipiroska with Vodka)*
 

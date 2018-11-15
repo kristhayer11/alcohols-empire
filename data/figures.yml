@@ -35,3 +35,9 @@ figure_list:
   - id: "bentley"
     src: bentley.jpg
     download: true
+  - id: "pendant1"
+    src: pendant-closed.jpg
+    download: true
+  - id: "pendant2"
+    src: pendant-open.jpg
+    download: true
