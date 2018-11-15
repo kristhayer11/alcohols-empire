@@ -37,7 +37,9 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 
  <hr style="border: 2px solid black;" />
 
-{{< q-figure src="pendant3.jpg"  caption="United States, Providence parlour, 1760–70, pine" caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art"  >}}
+{{< q-figure src="pendant3.jpg"  caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art"  >}}
+
+{{< q-figure src="pendant-closed.jpg"  caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art"  >}}
 
 {{< q-figure src="hogarth2.jpg"  caption="William Hogarth, *Beer Street*, 1750–51, etching and engraving" credit="The Herschel V. Jones Fund, by exchange, Minneapolis Institute of Art"  >}}
 
@@ -58,6 +60,10 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 *Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
 
 {{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit="The William Hood Dunwoody Fund, Minneapolis Institute of Art" >}}
+
+{{< q-figure src="posset.jpg"  caption="England, Posset pot, 1715, glazed ceramic" credit="Bequest of Irene G. Steiner, Minneapolis Institute of Art" >}}
+
+{{< q-figure id="posset2"  caption="Posset pot, 1710–20, tin-glazed earthenware" credit="Gift of Mr. and Mrs. George R. Steiner, Minneapolis Institute of Art" >}}
 
 <hr style="border: 2px solid black;" />
 
