@@ -41,6 +41,8 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 
  <hr style="border: 2px solid black;" />
 
+{{< q-figure src="pendant3.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit=caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art"  >}}
+
 ## Blood and Sand ##
 
 - ¾ ounce Scotch whisky
@@ -55,11 +57,11 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 
 *Gently stir ingredients in a mixing glass and strain into a champagne flute. Optional: float a half-ounce of peach liqueur.*
 
-{{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit="The William Hood Dunwoody Fund, Minneapolis Institute of Art Collection" >}}
+{{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit="The William Hood Dunwoody Fund, Minneapolis Institute of Art" >}}
 
 <hr style="border: 2px solid black;" />
 
-{{< q-figure-group id="pendant1, pendant2"  grid="2" class="is-centered-small" caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art Collection" >}}
+{{< q-figure-group id="pendant1, pendant2"  grid="2" class="is-centered-small" caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art" >}}
 
 ## Caipirinha ##
 *(Caipirissima with Rum or Caipiroska with Vodka)*

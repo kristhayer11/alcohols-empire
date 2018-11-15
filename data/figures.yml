@@ -43,3 +43,7 @@ figure_list:
   - id: "pendant2"
     src: pendant-open.jpg
     download: true
+  - id: "pendant3"
+    src: pendant3.jpg
+    caption: "Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood"
+    credit: "Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institue of Art"
