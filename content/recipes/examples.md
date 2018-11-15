@@ -31,17 +31,17 @@ CHERRIE WATER: THE HISTORICAL RECIPE<br>
 
 <hr style="border: 2px solid black;" />
 
-
-### Raw materials used ###
-*Sugarcane juice italic*: French rums are usually made of 100% sugarcane juice which is fermented and then aged. Rums which are made with 100% sugarcane contain high level of herbal aromas and are totally different from molasses based rums. **The more sugar the better grade of molasses and in turn the best quality rum is produced.** [^2]
-
 # Subhead Right Here #
 
 Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regione consulatu vis eu. [Jump to Caipirinha recipe.] (#caipirinha)
 
  <hr style="border: 2px solid black;" />
 
-{{< q-figure src="pendant3.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit=caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art"  >}}
+{{< q-figure src="pendant3.jpg"  caption="United States, Providence parlour, 1760–70, pine" caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art"  >}}
+
+{{< q-figure src="hogarth2.jpg"  caption="William Hogarth, *Beer Street*, 1750–51, etching and engraving" credit="The Herschel V. Jones Fund, by exchange, Minneapolis Institute of Art"  >}}
+
+{{< q-figure src="hogarth1.jpg"  caption="William Hogarth, *Gin Lane*, 1750–51, etching and engraving" credit="The Herschel V. Jones Fund, by exchange, Minneapolis Institute of Art"  >}}
 
 ## Blood and Sand ##
 
@@ -60,8 +60,6 @@ Ad diceret democritum pri, volumus abhorreant sed at. Eum et ipsum dicant, regio
 {{< q-figure src="pp2.jpg"  caption="United States, Providence parlour, 1760–70, pine" credit="The William Hood Dunwoody Fund, Minneapolis Institute of Art" >}}
 
 <hr style="border: 2px solid black;" />
-
-{{< q-figure-group id="pendant1, pendant2"  grid="2" class="is-centered-small" caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art" >}}
 
 ## Caipirinha ##
 *(Caipirissima with Rum or Caipiroska with Vodka)*

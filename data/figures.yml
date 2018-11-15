@@ -47,3 +47,7 @@ figure_list:
     src: pendant3.jpg
     caption: "Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood"
     credit: "Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institue of Art"
+  - id: "hogarth2"
+    src: hogarth2.jpg
+    caption: " William Hogarth, Beer Street, 1750–51, etching and engraving"
+    credit: "The Herschel V. Jones Fund, by exchange, Minneapolis Institue of Art"
