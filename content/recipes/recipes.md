@@ -1,6 +1,6 @@
 ---
 title: Recipes
-weight: 108
+weight: 100
 type: contents
 class: grid
 slug: .

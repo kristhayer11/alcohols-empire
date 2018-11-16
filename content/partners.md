@@ -1,5 +1,5 @@
 ---
-title: Project Partners
+title: Partners
 weight: 500
 image: purple.jpg
 ---
