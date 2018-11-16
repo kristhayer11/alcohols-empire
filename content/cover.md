@@ -1,6 +1,6 @@
 ---
 title: "Alcohol's Empire: Distilled Spirits in the 1700s Atlantic World"
-weight: 10
+weight: 11
 menu: true
 type: cover
 image: blue.jpg
