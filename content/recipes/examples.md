@@ -33,7 +33,7 @@ CHERRIE WATER: THE HISTORICAL RECIPE<br>
 *Take of the best red Cherries two pounds stone them & bruise ym. Wth. a spoone, then put to them nine pints of of the best white wine four - ounces of Cinemon, three ounces of Nutmegg's bruised half a handfull of the topps of Rosemary, as much Of Balme, half a handfull of Sweet margerum - Shred y.r herbs & lett all infuse together twenty Four hour's, So Still itt In a glass Still, or Ordinery Stille Lett itt drop upon Sugar Candy or fine Sugar And a graine of Ambergreece with itt if you Like itt.*  [^6]
 </span>
 
-<hr style="border: 2px solid black;" />
+<hr style="border: 1px solid lightgray;" />
 
 # Subhead Right Here #
 

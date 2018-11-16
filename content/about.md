@@ -1,0 +1,21 @@
+---
+title: About
+weight: 800
+image: lavender.jpg
+---
+
+
+### Summary ###
+some copy here
+
+### Citation info ###
+some copy here
+
+### Revision History ###
+some copy here
+
+### Downloads (if applicable) ###
+some copy here
+
+###  Copyright info ###
+some copy here
