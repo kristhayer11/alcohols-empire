@@ -1,5 +1,5 @@
 ---
-title: Historical Recipes
+title: Index of Historical Recipes
 weight: 600
 image: rose.jpg
 ---
