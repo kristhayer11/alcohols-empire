@@ -7,7 +7,6 @@ type: essay
 contributor:
   - first_name:  Emily Beck and
     last_name: Nicole La Bouff
-    bio: "uhbouby uuyyu uyyg"
 ---
 
 {{< q-map lat="48.8566" long="2.3522" geojson="/data/sample-geojson.json" >}}

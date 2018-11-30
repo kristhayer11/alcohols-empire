@@ -4,9 +4,6 @@ subtitle:
 weight: 44
 image:
 type: essay
-contributor:
-  - first_name:  Emily Beck and
-    last_name: Nicole La Bouff
 ---
 
 

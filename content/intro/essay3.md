@@ -4,9 +4,6 @@ subtitle: A Collaboration of Kindred and Complementary Spirits
 weight: 43
 image:
 type: essay
-contributor:
-  - first_name:  Emily Beck and
-    last_name: Nicole La Bouff
 ---
 
 This project has been a joint effort of the Minneapolis Institute of Art (Mia), the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota, and Tattersall Distilling in Minneapolis. It was driven by individuals who are interested in historical material culture, in recreating historical products, and in searching for unique flavors. We have researched countless beverages and recreated and tasted many of them. Our unique combination of interest, expertise, and creative spirit has resulted in an interesting, evocative, and delicious project that we are very happy to share with you.
