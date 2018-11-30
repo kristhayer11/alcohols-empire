@@ -20,7 +20,7 @@ Through these period rooms we get a glimpse of the complex geographies of alcoho
 
 ### Notes ###
 
-[^1]: "Living Rooms: The Period Rooms Initiative," Minneapolis Institute of Arts, Accessed November 13, 2018, [https://new.artsmia.org/living-rooms/] (https://new.artsmia.org/living-rooms/)
+[^1]: "Living Rooms: The Period Rooms Initiative," Minneapolis Institute of Art, Accessed November 13, 2018, [https://new.artsmia.org/living-rooms/] (https://new.artsmia.org/living-rooms/)
 
 [^2]: "Up All Night in the 1700s," Minneapolis Institute of Arts, Accessed November 13, 2018, [https://new.artsmia.org/living-rooms/up-all-night/] (https://new.artsmia.org/living-rooms/up-all-night/)
 

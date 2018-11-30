@@ -2,7 +2,7 @@
 title: The 1700s Drinking Culture Recipe Book
 subtitle:
 weight: 44
-image:
+image: teal.jpg
 type: essay
 ---
 
