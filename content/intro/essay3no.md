@@ -1,7 +1,7 @@
 ---
 title: Essay 3
 subtitle: Subtitle goes here
-weight: 43
+weight: 48
 image: cover_kt.jpg
 type: essay
 contributor:
