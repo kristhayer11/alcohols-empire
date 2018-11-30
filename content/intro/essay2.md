@@ -1,59 +1,29 @@
 ---
-title: Alcohol in the 1700s Atlantic World
-subtitle: 
+title: Ingredients, Health & Household Medical Culture
+subtitle:
 weight: 42
-type: page
+image:
+type: essay
 contributor:
-  - first_name:  Firstname
-    last_name: Lastname
-    bio: "uhbouby uuyyu uyyg"
-image: pinkcocktail-smaller.jpg
+  - first_name:  Emily Beck and
+    last_name: Nicole La Bouff
 ---
 
 
-# **Fall Talks**
+Before developments in global trade imprinted the importance of alcohol on Atlantic colonial economies, alcohol had, for centuries, served an important role in regional European economies and food cultures and had a strong presence in medical practice. The process of fermentation, where sugars and yeast collide to produce alcohol, emerged in different parts of the world during the Neolithic period thousands of years ago. The earliest evidence of wine made from fermented grapes comes from the Caucasus region, in Georgia, about 8,000 years ago. [Distilling] (https://vinepair.com/spirits-101/how-distilling-works/) involves concentrating (increasing the alcohol ratio, or "proof") a base alcohol by removing water and other impurities through evaporation and condensation.[^1] Arab-Persian alchemists in the Middle East started experimenting with distilled alcohols in the 800s for medical applications. It took about 300 years for this technology to spread to Europe, where distilled alcohols first gained currency in the treatment of maladies. Although the guests entertained in spaces such as the Grand Salon and the Providence Parlor perhaps did not think of their beverages as medicinal, much of what they imbibed was integrally influenced by earlier medical theories and herbal remedies.
 
-## **Talk**
+<br>
+**medicine pot goes with this section-KT**
+<br>
+<br>
+The Wangensteen Historical Library of Biology and Medicine at the University of Minnesota holds a collection of manuscript (handwritten) recipe books. Like an earlier version of Pinterest, these journals were used to keep track of everything people could possibly make in their households. Entries for human and animal medicine intermingled with agricultural advice and recipes for food and, even, invisible ink. These volumes reveal the problems and curiosities that people attempted to solve in their homes. University-educated physicians were members of many early modern communities, but people often took care of their own health. From the 1100s, when distilling took hold in Europe, religious orders and both male and female heads of household often distilled medicines for their family members and community at large. They made remedies, mostly from plant matter, to cure a variety of serious and mundane illnesses. Many of these commonly used plants remain essential to the practice of herbal medicine today. They are also still fundamental ingredients in the modern cocktail landscape. Though the modern cocktail was not invented until the nineteenth century, these eighteenth-century authors most certainly produced the antecedents of distilled alcohol, liqueurs, low-proof punches, and bitters on which today's cocktail-lovers rely.
 
-**Art Collecting of Emperors and Scholars in Ancient China**\
-Presenter: Wang Tao
-Thursday, September 13, 6:30pm\
-$10; $5 My Mia members, free for members of the Asian Art Affinity Group\
-<br>
-In Chinese history, there were two categories of collector who distinguished themselves through their collection of ancient bronzes: the emperor and the social elite, who were usually educated officials. This lecture will focus on a number of archaic bronzes that were once collected by Chinese emperors and prominent scholars. Wang Tao will aim to explore these significant objects from ancient China and their deep and rich social and cultural histories. He'll describe their evolution from everyday cooking and serving vessels to powerful symbols of divine omens for dynastic rulers, as well as how they played an important role in forming relationships among the social elites.\
-<br>
-*Wang Tao, PhD, is an archaeologist and art historian specializing in early Chinese art. He is the Pritzker Chair of Asian Art and Curator of Chinese Art at the Art Institute of Chicago.*
+Like rum and brandy in the eighteenth-century Atlantic world, herbs and spices were prominent actors in global trade, exploration, and colonization. Europeans had long been accustomed to spices like ginger, black pepper, and cinnamon due to extensive trade along the Mediterranean between Italy, Spain, North Africa, and the Middle East. The early centuries of heightened exploration into the western hemisphere provided an exciting opportunity for Europeans looking to profit from new plant materials from as-yet, at least to them, unknown locales. Certain food items, like maize, tomatoes, and potatoes, made the journey to Europe and became integral to regional cuisines, such as tomato sauce and polenta in Italy and the potato-based tortilla española in Spain. Many of the items that were so exciting to the colonial powers of Spain, England, and France were seen to be potentially useful medicinally. For example, Europeans had high hopes for the bark of the cinchona tree, sometimes called Jesuit's Bark, which they thought of as a miraculous cure for many diseases, including syphilis. Although it is ineffective for that use, they learned from indigenous Peruvians that it could treat malaria. The active ingredient in cinchona bark, quinine, continues to be used today as an anti-malarial.
 
-## **Talk**
+European medicine in the premodern period relied on theories that defined health as a perfect internal balance of four humors: blood, black bile, yellow bile, and phlegm. External factors, such as food, weather, pestilence, and physical activity, as well as divine intervention, were understood to throw humors out of balance, resulting in illness. So, medicines---as well as foods and beverages---were carefully designed to restore or maintain each person's internal harmony. Alcohol was essential to this program of early herbal medicine because it is such an excellent carrier of other ingredients. Distilling or infusing spirits with herbs and other ingredients is a way of transferring their flavors, smells, and colors into a liquid that is shelf-stable, often for long periods of time when alcohol levels are sufficiently high. Through the distillation process, the "bite" of alcohol, too, might have made the original ingredient appear amplified. Hence, medicinal ingredients, such as cinchona bark, were distilled or infused into spirits like brandy and rum [in order to make medicines] (https://www.bbc.com/news/health-25712005) and, later, recreational beverages.[^2]
 
-**Durades Dialogue**\
-Presenters: Melvin Edwards with Kimberli Gant\
-Thursday, September 20, 6:30pm\
-$10; $5 My Mia members, free for members of the Contemporary Art Affinity Group\
-<br>
-Melvin Edwards is a pioneer in the history of contemporary African American art and sculpture. Working primarily in welded steel, Edwards is perhaps best known for his "Lynch Fragments," an ongoing series of small-scale reliefs born of the social and political turmoil of the civil rights movement. For this event, Edwards will speak with curator Kimberli Gant about his lifelong engagement with the history of race, labor, and violence through his sculpture, as well as his deep connection to Africa and the African diaspora since his first visit to the continent in the 1970s.\
-<br>
-*Born in Houston in 1937, Melvin Edwards attended college in Los Angeles, graduating with a BFA from the University of Southern California. In 1967, he moved to New York City, where he lives today, dividing his time between his studio in Plainfield, N.J., and residences, with studios, in Accord, N.Y., and Dakar, Senegal.*\
-<br>
-*Kimberli Gant, PhD, is the McKinnon Curator of Modern & Contemporary Art at the Chrysler Museum in Norfolk, Va. She received her PhD in art history from the University of Texas Austin (2017), and holds both an MA and BA in art history from Columbia University (2009) and Pitzer College (2002).*
-<br>
-*Co-presented with Obsidian Arts*
+### Notes ###
 
+[^1]: "How Distilling Works," Vine Pair, accessed November 8, 2018, [https://vinepair.com/spirits-101/how-distilling-works/] (https://vinepair.com/spirits-101/how-distilling-works/)
 
-## **Talk**
-
-**Don't Read This! Don't See This!:
-<br>
-Censorship and the Creative Truth of Words and Art**\
-Presenters: Dennis Michael Jon and Yasufumi Nakamori
-Thursday, September 27, 6:30pm\
-$10; $5 My Mia members, free for members of the Library Affinity Group\
-<br>
-Censorship and the power of expression are relevant concepts in today's world and the "fake news" environment. Books and art are both connected to the ideals of intellectual freedom. As each has its own kind of beauty and sense of creative truth, they share a common connection to museums and their collections. During the 1920s and 30s in Germany, John Hartfield and other Dada artists published their anti-Nazi collages in *AIZ* (Textile Workers) magazine. After the seizure of power by Hitler the *AIZ* went into exile in Prague, and under editor-in-chief Franz Carl Weiskopf was renamed *Die Volks Illlustriete* in 1936. Just befoe the Nazis invaded Czechoslovakia in 1939, the publication was moved to Paris, where it published at least four issues before its demise.Yasufumi Nakamori, curator and head of the Department of Photography and New Media, will talk about issues of this important publication, which he helped Mia's Library purchase.
-<br>
-<br>
-*Dennis Michael Jon, Mia's Senior Associate Curator in the Department of Prints and Drawings, will talk about the collaborative artists' book* Ten Years of Uzbekistan *(1994) by British artist Ken Campbell and Irish author David King, a work with a focus on political oppression, and Goya's* Los Caprichos *(1797/98), an example of self-repression by the artist (fearful for his life because of the work's content) as well as a satirical political treatise about the Spanish government and merchant class.*
-
-{{< q-figure src="barman.jpg">}}
-
-After the talk, audience members will gather in Mia's Library and Print and Drawing Study Room to see the works up close and talk further with the curators. Books from the Library's collection of "degenerate" artists and artists who have some connection to the theme of censorship or intellectual creative expression will be displayed for viewing on the Library's Reading Room tables. This event is held to coincide with Banned Books Week, which celebrates freedom to read and the free expression of ideas.
+[^2]: Smitha Mundasad, "Alcohol Therapy: Medicinal Drinking Through the Ages," BBC News, January 15, 2014.
