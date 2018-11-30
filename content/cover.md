@@ -1,5 +1,6 @@
 ---
-title: "Alcohol's Empire: Distilled Spirits in the 1700s Atlantic World"
+title: "Alcohol's Empire"
+subtitle: "Distilled Spirits in the 1700s Atlantic World"
 weight: 11
 menu: true
 type: cover

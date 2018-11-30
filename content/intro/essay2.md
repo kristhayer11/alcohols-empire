@@ -2,7 +2,7 @@
 title: Ingredients, Health & Household Medical Culture
 subtitle:
 weight: 42
-image:
+image: purple.jpg
 type: essay
 ---
 

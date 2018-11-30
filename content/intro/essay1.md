@@ -2,7 +2,7 @@
 title: Alcohol in the 1700s Atlantic World
 subtitle:
 weight: 41
-image:
+image: lavender.jpg
 type: essay
 contributor:
   - first_name:  Emily Beck and

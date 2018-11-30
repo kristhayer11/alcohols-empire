@@ -23,6 +23,8 @@ MILK PUNCH: Historic Recipe Transcription [^1]
 <br>
 Steep the Peel of twenty Lemons, and of four Seville Oranges, in six Quarts of Brandy or Rum, for twenty-four Hours; and then add two Quarts of Lemon and Orange Juice (almost three Parts of Seville Orange Juice) five Quarts of Water, four large Nutmegs grated, and two Pounds and a Half of double-refined Sugar. When these have stood twenty-four Hours, add three Quarts and a Pint of boiling Milk; then let the whole stand about twelve Hours; after which run it through a Jelly-Bag, till the Liquor becomes quite clear. This will keep good to either of the* Indies.
 </span>
+<br>
+<br>
 
 <div class="boxed">
 **MILK PUNCH: Tattersall's Contemporary Interpretation**
@@ -47,9 +49,7 @@ Ingredients:
 - 7 cups milk
 <br>
 <br>
-Instructions:
-<br>
-Using a vegetable peeler, remove the peel from 10 lemons and 2 oranges, leaving as much of the white pith behind as possible. Place the peels in 12 cups of brandy or rum. Steep 24 hours.
+Instructions: Using a vegetable peeler, remove the peel from 10 lemons and 2 oranges, leaving as much of the white pith behind as possible. Place the peels in 12 cups of brandy or rum. Steep 24 hours.
 <br>
 <br>
 Add:

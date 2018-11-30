@@ -52,3 +52,7 @@ object_list:
     medium: "Wood, paint, plaster, gilt, marble, iron"
     location: Minneapolis Institute of Art
     link: https://new.artsmia.org/living-rooms/up-all-night/
+  - id: 12
+    figure:
+      - src: "milk-punch.jpg"
+    download: true
