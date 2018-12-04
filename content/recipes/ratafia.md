@@ -2,7 +2,7 @@
 title: Ratafia
 weight: 141
 object:
-  - id:
+  - id: 13
 type: entry
 ---
 
@@ -40,7 +40,10 @@ QUINCE RATAFIA: Historic Recipe Transcription [^1]
 <br>
 <br>
 
-<hr style="border: 2px solid black;" />
+
+
+<div class="boxed">
+<br>
 **PEAR RATAFIA: Tattersall's Contemporary Interpretation**
 <br>
 <br>
@@ -60,8 +63,8 @@ QUINCE RATAFIA: Historic Recipe Transcription [^1]
 <br>
 <br>
 *Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
-<hr style="border: 2px solid black;" />
-
+</div>
+<br>
 
 ## Notes ##
 

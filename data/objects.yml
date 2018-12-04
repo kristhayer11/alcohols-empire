@@ -56,3 +56,7 @@ object_list:
     figure:
       - src: "milk-punch.jpg"
     download: true
+  - id: 13
+    figure:
+      - src: "ratafia-1.jpg"
+    download: true
