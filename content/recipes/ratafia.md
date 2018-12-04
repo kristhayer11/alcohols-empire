@@ -37,7 +37,9 @@ Half the quantity of brandy is sufficient to keep it.*</span>
 
 
 <div class="boxed">
-**PEAR RATAFIA: Tattersall's Contemporary Interpretation**
+**PEAR RATAFIA
+<br>
+Tattersall's Contemporary Interpretation**
 <ul>
 <li>3 quarts apple brandy</li>
 <li>3 quarts pear juice</li>
