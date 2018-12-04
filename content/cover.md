@@ -8,4 +8,11 @@ image: blue.jpg
 slug: .
 ---
 
-Lorem ipsum dolor sic amet.
+**Emily Beck**, Assistant curator
+<br>
+ Wangensteen Historical Library of Biology and Medicine, University of Minnesota
+<br>
+<br>
+**Nicole LaBouff**, Associate Curator of Textiles
+<br>
+Minneapolis Institute of Art

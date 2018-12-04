@@ -17,7 +17,6 @@ short_title:
 description:
   one_line:
   full: >-
-    "We need one sentence here that describes the project.''
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -44,14 +43,14 @@ contributor_as_it_appears:
 
 contributor:
   - type: primary
-    first_name: Emily
-    last_name: Beck
+    first_name:
+    last_name:
     title:
-    pic: contributors/kris-thayer.jpg
-    bio: "need this bio."
+    pic:
+    bio:
   - type: primary
-    first_name: Nicole
-    last_name: LaBouff
+    first_name:
+    last_name: 
     title: Associate Curator of Textiles
     bio: "Nicole LaBouff is Associate Curator of Textiles at the Minneapolis Institute of Art.
     She worked previously in the Department of Costume and Textiles at the Los Angeles County Museum of Art.
