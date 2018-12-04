@@ -37,6 +37,8 @@ QUINCE RATAFIA: Historic Recipe Transcription [^1]
 <br>
 *Infuse the whole a fort-night and then strain the Liquor & bottle it. Half the quantity of brandy is sufficient to keep it.*
 </span>
+<br>
+<br>
 
 <div class="boxed">
 **PEAR RATAFIA: Tattersall's Contemporary Interpretation**
@@ -60,6 +62,7 @@ QUINCE RATAFIA: Historic Recipe Transcription [^1]
 *Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
 </div>
 
+
 ## Notes ##
 
-[^1]: [[*Cookery and Medical Receipts*, 1820. Manuscript. Wangensteen Historical Library of Biology and Medicine, University of Minnesota.]{.underline}](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21348726260001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US) This early American manuscript is structured as a dos-a-dos book, meaning it reads from both the front and back! When read from one direction, the manuscript provides various cookery recipes; and when read from the other direction, the manuscript lists a number of medical receipts.
+[^1]: [*Cookery and Medical Receipts*, 1820. Manuscript. Wangensteen Historical Library of Biology and Medicine, University of Minnesota.] (https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21348726260001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US) This early American manuscript is structured as a dos-a-dos book, meaning it reads from both the front and back! When read from one direction, the manuscript provides various cookery recipes; and when read from the other direction, the manuscript lists a number of medical receipts.
