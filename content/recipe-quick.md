@@ -5,11 +5,10 @@ type: page
 image: tan.jpg
 ---
 
-Jump to:
+Jump to [PEAR RATAFIA] (#pear-ratafia)
 <br>
 [MILK PUNCH] (#milk-punch)
 <br>
-[PEAR RATAFIA] (#pear-ratafia)
 <br>
 <hr style="border: 2px solid black;" />
 **MILK PUNCH**
@@ -47,7 +46,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 </div>
 
 <hr style="border: 2px solid black;" />
-**PEAR RATAFIA**
+## PEAR RATAFIA ##
 <br>
 - 3 quarts apple brandy
 <br>
