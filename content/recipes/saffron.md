@@ -71,7 +71,7 @@ Ingredients:
 <br>
 - 1 ounce Saffron Infused Bitters
 <br>
-- ½ ounce mint syrup **(add jump here)**
+- ½ ounce mint syrup [recipe] (../historical-recipes/)
 <br>
 - ¼ ounce lime juice
 <br>
@@ -107,8 +107,6 @@ We ended up with the following recipe, although you could adjust the ingredients
 <li>Approx. ¼ cup cloves</li>
 </ul>
 Heat together in a small saucepan with enough water to cover the ingredients. Cook until mixture is fragrant and very flavorful, perhaps 20 minutes. Strain to remove the ingredients, return the water to the stove, and add 1 lb granulated sugar. Simmer until all of the sugar has dissolved and the liquid is somewhat reduced. Keep in the refrigerator.
-
-![](media/image1.jpg){width="3.0468755468066493in" height="3.0468755468066493in"}
 
 ## Notes ##
 
