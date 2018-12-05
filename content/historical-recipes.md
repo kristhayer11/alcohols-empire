@@ -1,5 +1,5 @@
 ---
-title: Index of Historical Recipes
+title: Appendix of Historical Recipes
 weight: 600
 image: rose.jpg
 ---
