@@ -20,16 +20,23 @@ In our contemporary variation on an 1820s English recipe for "Ratifia," pear sta
 QUINCE RATAFIA: Historic Recipe Transcription [^1]
 </span>
 <span class="gray-text">
-<ul>
-<span class="gray-text"><li>3 quarts of Quince juicedy</li></span>
-<span class="gray-text"><li>3 drachms of Cinnamondy</li>
-<span class="gray-text"><li>2 drachms of Corriander seeddy</li>
-<span class="gray-text"><li>24 grains of Clovesdy</li>
-<span class="gray-text"><li>½ ounce of bitter almondsdy</li>
-<span class="gray-text"><li>½ drachm of Annis seeddy</li>
-<span class="gray-text"><li>2 lb ½ of best loaf sugardy</li>
-</ul>
-<span class="gray-text">*Infuse the whole a fort-night and then strain the Liquor & bottle it.
+<br>
+• 3 quarts of Quince juicedy
+<br>
+• 3 drachms of Cinnamondy
+<br>
+• 2 drachms of Corriander seeddy
+<br>
+• 24 grains of Clovesdy</li>
+<br>
+• ½ ounce of bitter almondsdy
+<br>
+• ½ drachm of Annis seeddy
+<br>
+• 2 lb ½ of best loaf sugardy
+<span class="gray-text">
+<br>
+*Infuse the whole a fort-night and then strain the Liquor & bottle it.
 Half the quantity of brandy is sufficient to keep it.*</span>
 <br>
 <br>
@@ -40,15 +47,22 @@ Half the quantity of brandy is sufficient to keep it.*</span>
 **PEAR RATAFIA
 <br>
 Tattersall's Contemporary Interpretation**
-<ul>
-<li>3 quarts apple brandy</li>
-<li>3 quarts pear juice</li>
-<li>3-4 cinnamon sticks</li>
-<li>7.4 grams coriander seed</li>
-<li>1 gram whole cloves</li>
-<li>.5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at Penzey's Spices)</li>
-<li>2 grams aniseed</li>
-</ul>
+<br>
+• 3 quarts apple brandy
+<br>
+• 3 quarts pear juice
+<br>
+• 3-4 cinnamon sticks
+<br>
+• 7.4 grams coriander seed
+<br>
+• 1 gram whole cloves
+<br>
+• 2 grams aniseed
+<br>
+• .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at Penzey's Spices)</li>
+<br>
+<br>
 *Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
 </div>
 <br>

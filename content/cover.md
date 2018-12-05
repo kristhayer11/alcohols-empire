@@ -4,11 +4,11 @@ subtitle: "Distilled Spirits in the 1700s Atlantic World"
 weight: 11
 menu: true
 type: cover
-image: blue.jpg
+image: trio.jpg
 slug: .
 ---
 
-**Emily Beck**, Assistant curator
+**Emily Beck**, Assistant Curator
 <br>
  Wangensteen Historical Library of Biology and Medicine, University of Minnesota
 <br>

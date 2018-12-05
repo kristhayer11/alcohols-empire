@@ -34,33 +34,33 @@ Tattersall's Contemporary Interpretation**
 Tattersall followed this recipe to a tee, with one exception: they cut it in half, which yielded something shy of three gallons of punch. People must have stocked up for those voyages to the Indies!
 <br>
 <br>
-- 10 lemons
+• 10 lemons
 <br>
-- 2 Seville oranges
+• 2 Seville oranges
 <br>
-- 3 quarts brandy or rum
+• 3 quarts brandy or rum
 <br>
 *Using a vegetable peeler, remove the peel from lemons and oranges, leaving as much of the white pith behind as possible. Place the peels in brandy or rum. Steep 24 hours.*
 <br>
 <br>
 Add:
 <br>
-- 1 cup lemon juice
+• 1 cup lemon juice
 <br>
-- 3 cups of orange juice
+• 3 cups of orange juice
 <br>
-- 10 cups of water
+• 10 cups of water
 <br>
-- 2 teaspoon ground nutmeg
+• 2 teaspoon ground nutmeg
 <br>
-- 1.25 pounds refined sugar
+• 1.25 pounds refined sugar
 <br>
 *Steep another 24 hours.*
 <br>
 <br>
 Add:
 <br>
-- 7 cups  boiling milk
+• 7 cups  boiling milk
 <br>
 *Let stand for 12 hours, then strain through a sieve.
 Strain again with cheesecloth or a coffee filter.

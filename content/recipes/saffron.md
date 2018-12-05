@@ -1,5 +1,5 @@
 ---
-title: Saffron Bitter Tonic
+title: Saffron Bitters
 weight: 130
 object:
   - id: 14
@@ -36,17 +36,16 @@ WINE BITTERS: Historic Recipe Transcription [^10]
 <br>
 **Tattersall's Contemporary Interpretation**
 <br>
-Ingredients:
 <br>
-- 1.5 quarts of rum (Tattersall used rum instead of brandy for its punch of sugar)
+• 1.5 quarts of rum (Tattersall used rum instead of brandy for its punch of sugar)
 <br>
-- 4 orange rinds
+• 4 orange rinds
 <br>
-- 3.7 grams of cochineal
+• 3.7 grams of cochineal
 <br>
-- 3.7 grams of saffron
+• 3.7 grams of saffron
 <br>
-- 7 grams of dried gentian
+• 7 grams of dried gentian
 <br>
 <br>
 *Add dry ingredients to 1 quart of rum.
@@ -63,21 +62,20 @@ If desired, add honey to taste.*
 
 <br>
 <div class="boxed">
-**SAFFRON BITTER TONIC**
+**SAFFRON BITTERS TONIC**
 <br>
 **Tattersall Cocktail Recipe**
 <br>
-Ingredients:
 <br>
-- 1 ounce Saffron Infused Bitters
+• 1 ounce Saffron Infused Bitters
 <br>
-- ½ ounce mint syrup [(recipe)] (../historical-recipes/)
+• ½ ounce [mint syrup] (../historical-recipes/)
 <br>
-- ¼ ounce lime juice
+• ¼ ounce lime juice
 <br>
-- 1 lime
+• 1 lime
 <br>
-- High-quality tonic water
+• High-quality tonic water
 <br>
 <br>
 *Fill an 8 ounce glass with ice cubes.

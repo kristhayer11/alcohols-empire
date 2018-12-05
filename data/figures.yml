@@ -73,3 +73,11 @@ figure_list:
       src: distiller-page.jpg
       caption: "we need this "
       credit:
+    - id: "salon"
+      src: grand-salon.jpg
+      caption: "we need this "
+      credit:
+    - id: "still"
+      src: still.jpg
+      caption: "we need this "
+      credit:
