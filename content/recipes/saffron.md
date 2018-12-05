@@ -6,9 +6,9 @@ object:
 type: entry
 ---
 
-{insert Gentian image from Curtis}[^1]
+### Introduction###
 
-### Introduction:
+{{< q-figure src="curtis-gentian.jpg" class="is-pulled-right" caption="William Curtis, *The Botanical magazine*, or, *Flower garden displayed*, London: S. Couchman. Volume 2, 1789. "  >}}
 
 [Bitters] (https://www.epicurious.com/ingredients/what-are-bitters-and-how-to-use-them-cocktails-article) are made by infusing bitter botanicals in a high-proof base alcohol.[^2] Today they are a key flavoring component in cocktails; however, they first came into widespread use as medicinal aids. According to alcohol historian David Wondrich, when hungover Europeans started adding bitters to their wine and brandy as a restorative "hair of the dog" in the 1700s, they planted the seeds for the cocktails we enjoy today.[^3]
 
@@ -16,8 +16,9 @@ True to form, this 1820 bitters recipe packs a medicinal punch. Notably, it feat
 
 Saffron---made from the dried stigmas of the saffron crocus flower, with origins in the Middle East---has also long been used to treat a range of ailments. An important source for yellow dye, saffron's major contribution to this Wine Bitters is a pleasing, golden undertone. The dominant vibrant red color comes thanks to cochineal, a red dye formulated by the Aztecs and Maya of Central America from pulverized cochineal insects around 4,000 years ago. Today, cochineal is still [widely used] (https://www.bbc.com/news/business-43786055) as a food and drink colorant, and it remains an important export for Peru; it is not, however, vegetarian.[^5] In 2006 [Campari] (https://daily.sevenfifty.com/bug-based-coloring-makes-a-comeback-in-spirits/) opted for artificial color in its iconic red bitters.[^6]
 
-{insert saffron image from Woodville}[^7]
+{{< q-figure src="saffron-woodville.jpg" class="is-pulled-right" caption="William Woodville, *Medical botany : containing systematic and general descriptions, with plates of all the medicinal plants, comprehended in the catalogues of the materia medica, as published by the Royal Colleges of Physicians of London, Edinburg, and Dublin* . . ., London: John Bohn, 1832: Volume 4. 615.32 W86 1832"  >}}
 
+<br>
 For a low alcohol option, add this saffron bitters to tonic water---a quinine-infused refreshment favored by Brits in colonial India for its antimalarial properties. Until synthetic quinine was developed in 1944, the natural version was derived from Peruvian [cinchona bark] (https://www.lib.umn.edu/bell/tradeproducts/cinchonabark); Europeans started importing cinchona bark for antimalarial medicines in the 1630s, after which it quickly took off.[^8] The Wangensteen Historical Library has an early manuscript example of an English recipe that uses cinchona against malaria: in 1659, Chris Dodssonn wrote his copy of Nicholas Culpepers' translation of the *Pharmacopoeia Londinensis,* "For your ague: Take 2 drams of Quin Quina or Jesuit's Bark, beat it to a powder & infuse it in a draught of Clarit or white wine 2 hours & take it when your fitt begins & cetera."[^9]
 
 Added to the mix is some mint syrup with origins in a Spanish-Morrocan medicinal recipe from the 1200s. Mint has been used for centuries (and still is!) to ease digestion.
@@ -110,9 +111,6 @@ Heat together in a small saucepan with enough water to cover the ingredients. Co
 ![](media/image1.jpg){width="3.0468755468066493in" height="3.0468755468066493in"}
 
 ## Notes ##
-
-
-[^1]: William Curtis, *The Botanical magazine, or, Flower garden displayed*, London: S. Couchman. Volume 2, 1789.
 
 [^2]: Janet Rousa Fuller, "What are Bitters and How Should I Use Them?" Epicurious, July 7, 2016, [[https://www.epicurious.com/ingredients/what-are-bitters-and-how-to-use-them-cocktails-article]{.underline}](https://www.epicurious.com/ingredients/what-are-bitters-and-how-to-use-them-cocktails-article).
 

@@ -55,3 +55,7 @@ figure_list:
     src: drug-pot.jpg
     caption: "England, Drug pot, 1750, ceramic, metal, delftware"
     credit: "Gift of Mr. and Mrs. George R. Steiner, Minneapolis Institue of Art"
+  - id: "curtis-gentian1"
+    src: curtis-gentian1.jpg
+    caption: "William Curtis, The Botanical magazine, or, Flower garden displayed, London: S. Couchman. Volume 2, 1789. "
+    credit:
