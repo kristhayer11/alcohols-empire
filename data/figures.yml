@@ -62,4 +62,14 @@ figure_list:
     - id: "saffron-woodville"
       src: saffron-woodville.jpg
       caption: "William Curtis, The Botanical magazine, or, Flower garden displayed, London: S. Couchman. Volume 2, 1789. "
-      credit: "William Woodville, Medical botany : containing systematic and general descriptions, with plates of all the medicinal plants, comprehended in the catalogues of the materia medica, as published by the Royal Colleges of Physicians of London, Edinburg, and Dublin . . ., London: John Bohn, 1832: Volume 4. 615.32 W86 1832"
+      credit: "William Woodville, Medical botany : containing systematic and general descriptions, with plates of all the medicinal plants,
+      comprehended in the catalogues of the materia medica, as published by the Royal Colleges of Physicians of London,
+      Edinburg, and Dublin . . ., London: John Bohn, 1832: Volume 4. 615.32 W86 1832"
+    - id: "d1"
+      src: distiller-cover.jpg
+      caption: "we need this "
+      credit:
+    - id: "d2"
+      src: distiller-page.jpg
+      caption: "we need this "
+      credit:

@@ -1,6 +1,6 @@
 ---
 title: Milk Punch
-weight: 140
+weight: 110
 object:
   - id: 12
 type: entry

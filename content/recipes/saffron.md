@@ -1,6 +1,6 @@
 ---
 title: Saffron Bitter Tonic
-weight: 142
+weight: 130
 object:
   - id: 14
 type: entry
