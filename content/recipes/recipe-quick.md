@@ -1,6 +1,6 @@
 ---
 title: Recipes Quick Guide
-weight: 399
+weight: 420
 type: page
 image: tan.jpg
 ---
@@ -60,8 +60,23 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <br>
 - 2 grams aniseed
 <br>
-- .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at Penzey's Spices)
+- .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at [Penzey's Spices] (https://www.penzeys.com/))
 <br>
 *Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
 <br>
+<hr style="border: 2px solid black;" />
+
+**SAFFRON BITTER TONIC**
+<br>
+- 1 ounce Saffron Infused Bitters
+<br>
+- ½ ounce mint syrup [(recipe)] (../historical-recipes/)
+<br>
+- ¼ ounce lime juice
+<br>
+- 1 lime
+<br>
+- High-quality tonic water
+<br>
+*Fill an 8 ounce glass with ice cubes. Add bitters, mint syrup, and lime juice. Top with tonic water. Garnish with lime wedge.*
 <hr style="border: 2px solid black;" />

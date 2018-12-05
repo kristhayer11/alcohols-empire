@@ -4,9 +4,6 @@ subtitle:
 weight: 41
 image: lavender.jpg
 type: essay
-contributor:
-  - first_name:  Emily Beck and
-    last_name: Nicole La Bouff
 ---
 
 

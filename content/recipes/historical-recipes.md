@@ -1,6 +1,6 @@
 ---
 title: Appendix of Historical Recipes
-weight: 600
+weight: 399
 image: rose.jpg
 ---
 <span class="gray-text">
