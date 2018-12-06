@@ -73,7 +73,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <br>
 • 1 ounce Saffron Infused Bitters
 <br>
-• ½ ounce [mint syrup] (../historical-recipes/)
+• ½ ounce [mint syrup](../appendix/#mint-syrup)
 <br>
 • ¼ ounce lime juice
 <br>
