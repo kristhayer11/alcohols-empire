@@ -8,11 +8,13 @@ image: trio.jpg
 slug: .
 ---
 
+**Nicole LaBouff**, Associate Curator of Textiles
+<br>
+Minneapolis Institute of Art
+<br>
+<br>
 **Emily Beck**, Assistant Curator
 <br>
  Wangensteen Historical Library of Biology and Medicine, University of Minnesota
 <br>
 <br>
-**Nicole LaBouff**, Associate Curator of Textiles
-<br>
-Minneapolis Institute of Art

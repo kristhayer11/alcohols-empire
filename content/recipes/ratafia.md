@@ -6,9 +6,6 @@ object:
 type: entry
 ---
 
-
-## Introduction ##
-
 Ratafia---or ratifia, as it was also spelled---was a sweet cordial, made by steeping almonds or fruit stones in brandy. The name appears in English texts in the 1600s, but it may have originated in the French Caribbean, where a similar word for rum was common: tafia. Some speculate that tafia and ratafia were corruptions of the Latin "rata fiat" or "rata fiat conventio"---meaning "let the agreement be ratified." Perhaps the custom of concluding business with a glass of rum or ratafia, leading to the toast "it's a deal," refers to those drinks.
 
 By the 1820s, French brandy, which had long been prestigious, had dominated the global market in distilled alcohol for a couple of centuries. Around this time French brandy makers had also upped their game in long barrel-aging, making the "best French brandy" even better.
@@ -21,19 +18,19 @@ QUINCE RATAFIA: Historic Recipe Transcription [^1]
 </span>
 <span class="gray-text">
 <br>
-• 3 quarts of Quince juicedy
+• 3 quarts of Quince juice
 <br>
-• 3 drachms of Cinnamondy
+• 3 drachms of Cinnamon
 <br>
-• 2 drachms of Corriander seeddy
+• 2 drachms of Corriander seed
 <br>
-• 24 grains of Clovesdy</li>
+• 24 grains of Clovesdy
 <br>
-• ½ ounce of bitter almondsdy
+• ½ ounce of bitter almonds
 <br>
-• ½ drachm of Annis seeddy
+• ½ drachm of Annis seed
 <br>
-• 2 lb ½ of best loaf sugardy
+• 2 lb ½ of best loaf sugar
 <span class="gray-text">
 <br>
 *Infuse the whole a fort-night and then strain the Liquor & bottle it.

@@ -13,7 +13,7 @@ Jump to
 <br>
 [SAFFRON BITTER TONIC] (#saffron-bitter-tonic)
 <br>
-<hr style="border: 2px solid black;" />
+<div class="boxed">
 **MILK PUNCH**
 <br>
 • 10 lemons
@@ -47,9 +47,10 @@ Add:
 Strain again with cheesecloth or a coffee filter.
 Repeat until the punch runs clear. Serve with ice and/or top with soda, if desired.*
 </div>
-
-<hr style="border: 2px solid black;" />
+<div class="boxed">
 **PEAR RATAFIA**
+<br>
+**Tattersall's Contemporary Interpretation**
 <br>
 • 3 quarts apple brandy
 <br>
@@ -65,10 +66,10 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <br>
 • .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at [Penzey's Spices] (https://www.penzeys.com/))
 <br>
-*Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
 <br>
-<hr style="border: 2px solid black;" />
-
+*Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
+</div>
+<div class="boxed">
 **SAFFRON BITTER TONIC**
 <br>
 • 1 ounce Saffron Infused Bitters
@@ -82,4 +83,4 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 • High-quality tonic water
 <br>
 *Fill an 8 ounce glass with ice cubes. Add bitters, mint syrup, and lime juice. Top with tonic water. Garnish with lime wedge.*
-<hr style="border: 2px solid black;" />
+</div>
