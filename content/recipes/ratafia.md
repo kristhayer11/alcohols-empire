@@ -60,7 +60,7 @@ Tattersall's Contemporary Interpretation**
 <br>
 • 2 grams aniseed
 <br>
-• .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at Penzey's Spices)</li>
+• .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at [Penzey's Spices] (https://www.penzeys.com/))
 <br>
 <br>
 *Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
