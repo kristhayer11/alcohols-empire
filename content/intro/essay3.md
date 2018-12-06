@@ -2,7 +2,7 @@
 title: The Project
 subtitle: A Collaboration of Kindred and Complementary Spirits
 weight: 43
-image: rose.jpg
+image: tasting.jpg
 type: essay
 ---
 

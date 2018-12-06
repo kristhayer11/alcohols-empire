@@ -64,3 +64,7 @@ object_list:
     figure:
       - src: "saffron2.jpg"
     download: true
+  - id: 15
+    figure:
+      - src: "cherrie-water.jpg"
+    download: true

@@ -2,7 +2,7 @@
 title: Organizational Contributors
 subtitle:
 weight: 45
-image: lime.jpg
+image: group.jpg
 type: essay
 ---
 

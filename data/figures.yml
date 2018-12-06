@@ -81,3 +81,7 @@ figure_list:
       src: still.jpg
       caption: "we need this "
       credit:
+    - id: "pot-still"
+      src: pot-still.jpg
+      caption: "we need this "
+      credit:
