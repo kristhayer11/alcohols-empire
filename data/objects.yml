@@ -66,5 +66,5 @@ object_list:
     download: true
   - id: 15
     figure:
-      - src: "cherrie-water.jpg"
+      - src: "cherrie-water2.jpg"
     download: true

@@ -5,7 +5,7 @@ object:
   - id: 14
 type: entry
 ---
-
+### Hair of the Dog, with Bugs & Bitters, Etc. ###
 {{< q-figure src="curtis-gentian.jpg" class="is-pulled-right" caption="William Curtis, *The Botanical magazine*, or, *Flower garden displayed*, London: S. Couchman. Volume 2, 1789. "  >}}
 
 [Bitters] (https://www.epicurious.com/ingredients/what-are-bitters-and-how-to-use-them-cocktails-article) are made by infusing bitter botanicals in a high-proof base alcohol.[^2] Today they are a key flavoring component in cocktails; however, they first came into widespread use as medicinal aids. According to alcohol historian David Wondrich, when hungover Europeans started adding bitters to their wine and brandy as a restorative "hair of the dog" in the 1700s, they planted the seeds for the cocktails we enjoy today.[^3]
