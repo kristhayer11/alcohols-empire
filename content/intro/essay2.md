@@ -2,7 +2,8 @@
 title: Ingredients, Health & Household Medical Culture
 subtitle:
 weight: 42
-image: drug-pot2.jpg
+object:
+  - id: 17
 type: entry
 ---
 
