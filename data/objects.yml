@@ -68,3 +68,7 @@ object_list:
     figure:
       - src: "cherrie-water2.jpg"
     download: true
+  - id: 16
+    figure:
+      - src: "pot-still.jpg"
+    download: true

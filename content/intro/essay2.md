@@ -2,8 +2,8 @@
 title: Ingredients, Health & Household Medical Culture
 subtitle:
 weight: 42
-image: purple.jpg
-type: essay
+image: pot-still2.jpg
+type: entry
 ---
 
 
