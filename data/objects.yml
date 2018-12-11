@@ -72,3 +72,15 @@ object_list:
     figure:
       - src: "pot-still.jpg"
     download: true
+  - id: 17
+    figure:
+      - src: "drug-pot2.jpg"
+      caption: "Drug pot"
+      credit: Gift of Mr. and Mrs. George R. Steiner
+      download: true
+      country: England
+      year: 1750
+      medium: "Ceramic, metal, delftware"
+      location: Minneapolis Institute of Art
+    download: true
+    link: https://collections.artsmia.org/art/8962/drug-pot-england
