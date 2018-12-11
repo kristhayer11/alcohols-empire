@@ -2,8 +2,8 @@
 title: Organizational Contributors
 subtitle:
 weight: 45
-image: group.jpg
-type: essay
+image: group2.jpg
+type: entry
 ---
 
 ## **About the Minneapolis Institute of Art**

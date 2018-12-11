@@ -2,8 +2,8 @@
 title: Alcohol in the 1700s Atlantic World
 subtitle:
 weight: 41
-image: beer-street.jpg
-type: essay
+image: beer-detail.jpg
+type: entry
 ---
 
 
