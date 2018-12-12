@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-weight: 700
+weight: 320
 image: lime.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Examples
 type: entry
-weight: 422
+weight: 190
 object:
   - id: 5
 ---

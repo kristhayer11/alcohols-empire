@@ -1,6 +1,6 @@
 ---
 title: Recipes Quick Guide
-weight: 420
+weight: 170
 type: page
 image: tan.jpg
 ---

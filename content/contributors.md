@@ -1,6 +1,6 @@
 ---
 title: Participants
-weight: 450
+weight: 310
 type: page
 image: orange.jpg
 ---
