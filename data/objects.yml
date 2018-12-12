@@ -86,3 +86,11 @@ object_list:
     location: Minneapolis Institute of Art
     download: true
     link: https://collections.artsmia.org/art/8962/drug-pot-england
+  - id: 18
+    figure:
+      - src: "plague-party3.jpg"
+    download: true
+  - id: 19
+    figure:
+      - src: "clear-skies.jpg"
+    download: true
