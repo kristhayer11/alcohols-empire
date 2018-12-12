@@ -1,7 +1,7 @@
 ---
 title: Appendix
 weight: 300
-image: rose.jpg
+image: casks-crop.jpg
 ---
 <span class="gray-text">
 MINT SYRUP: Historic Recipe Transcription[^1]

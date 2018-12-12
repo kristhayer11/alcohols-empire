@@ -85,3 +85,7 @@ figure_list:
       src: pot-still.jpg
       caption: "we need this "
       credit:
+    - id: "casks-crop"
+      src: casks-crop.jpg
+      caption: "we need this "
+      credit:
