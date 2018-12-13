@@ -96,9 +96,9 @@ resource_link:
     link_relation: privacy-policy
     url: https://new.artsmia.org/about/privacy-policy-and-website-info/
   - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url: http://www.getty.edu/legal/copyright.html
+    name: Copyright and Image Access and Use
+    link_relation: copyright
+    url: https://new.artsmia.org/copyright-and-image-access/
 
 # ------------------------------------------------------------------------------
 # Subjects

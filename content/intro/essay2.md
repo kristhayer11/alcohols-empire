@@ -3,7 +3,7 @@ title: Ingredients, Health & Household Medical Culture
 subtitle:
 weight: 42
 object:
-  - id: 17
+  - id: 20
 type: entry
 ---
 
@@ -12,7 +12,7 @@ Before developments in global trade imprinted the importance of alcohol on Atlan
 <br>
 {{< q-figure src="distiller-cover.jpg"  caption="need this perhaps"  >}}
 The Wangensteen Historical Library of Biology and Medicine at the University of Minnesota holds a collection of manuscript (handwritten) recipe books. Like an earlier version of Pinterest, these journals were used to keep track of everything people could possibly make in their households. Entries for human and animal medicine intermingled with agricultural advice and recipes for food and, even, invisible ink. These volumes reveal the problems and curiosities that people attempted to solve in their homes. University-educated physicians were members of many early modern communities, but people often took care of their own health. From the 1100s, when distilling took hold in Europe, religious orders and both male and female heads of household often distilled medicines for their family members and community at large. They made remedies, mostly from plant matter, to cure a variety of serious and mundane illnesses. Many of these commonly used plants remain essential to the practice of herbal medicine today. They are also still fundamental ingredients in the modern cocktail landscape. Though the modern cocktail was not invented until the nineteenth century, these eighteenth-century authors most certainly produced the antecedents of distilled alcohol, liqueurs, low-proof punches, and bitters on which today's cocktail-lovers rely.
-{{< q-figure src="drug-pot.jpg"  caption="England, Drug pot, 1750, ceramic, metal, delftware" credit="Gift of Mr. and Mrs. George R. Steiner, Minneapolis Institute of Art"  >}}
+{{< q-figure src="drug-pot.jpg" class="is-pulled-right" caption="England, Drug pot, 1750, ceramic, metal, delftware" credit="Gift of Mr. and Mrs. George R. Steiner, Minneapolis Institute of Art"  >}}
 
 Like rum and brandy in the eighteenth-century Atlantic world, herbs and spices were prominent actors in global trade, exploration, and colonization. Europeans had long been accustomed to spices like ginger, black pepper, and cinnamon due to extensive trade along the Mediterranean between Italy, Spain, North Africa, and the Middle East. The early centuries of heightened exploration into the western hemisphere provided an exciting opportunity for Europeans looking to profit from new plant materials from as-yet, at least to them, unknown locales. Certain food items, like maize, tomatoes, and potatoes, made the journey to Europe and became integral to regional cuisines, such as tomato sauce and polenta in Italy and the potato-based tortilla española in Spain. Many of the items that were so exciting to the colonial powers of Spain, England, and France were seen to be potentially useful medicinally. For example, Europeans had high hopes for the bark of the cinchona tree, sometimes called Jesuit's Bark, which they thought of as a miraculous cure for many diseases, including syphilis. Although it is ineffective for that use, they learned from indigenous Peruvians that it could treat malaria. The active ingredient in cinchona bark, quinine, continues to be used today as an anti-malarial.
 

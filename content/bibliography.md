@@ -1,7 +1,7 @@
 ---
 title: Bibliography
 weight: 320
-image: lime.jpg
+image: pouring2.jpg
 ---
 
 bibliography goes here

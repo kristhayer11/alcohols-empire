@@ -2,7 +2,7 @@
 title: The 1700s Drinking Culture Recipe Book
 subtitle:
 weight: 44
-image: pouring2.jpg
+image: spirits.jpg
 type: entry
 ---
 

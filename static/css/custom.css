@@ -48,3 +48,7 @@ header {
   #cover .quire-cover__hero * {
     color: white;
   }
+
+  #bibliography .quire-page__header * {
+    color: white;
+  }
