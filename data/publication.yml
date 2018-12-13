@@ -106,7 +106,7 @@ resource_link:
 
 subject:
   - type: keyword
-    name: cocktails, bitters, distillery, medicinals, herbals, tattersall, botanical, 18th century
+    name: cocktails, bitters, distillery, medicinals, herbals, tattersall, botanical, 18th century, botanical
   - type: bisac
     name: ART HISTORY / English / Jams
     identifer: ART0009210
