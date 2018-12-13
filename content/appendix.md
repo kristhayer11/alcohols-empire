@@ -3,6 +3,9 @@ title: Appendix
 weight: 300
 image: casks-crop.jpg
 ---
+This needs a line or two of introduction in case people land here without knowing what this page is. This needs a line or two of introduction in case people land here without knowing what this page is.
+<br>
+<hr style="border: 2px solid black;" />
 <span class="gray-text">
 MINT SYRUP: Historic Recipe Transcription[^1]
 <br>

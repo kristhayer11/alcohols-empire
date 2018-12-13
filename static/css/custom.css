@@ -41,6 +41,10 @@ header {
     color: #c5a3a3
   }
 
-  #appendix .content .quire-page_header .title {
-    color: #FFFFFF;
+  #appendix .quire-page__header * {
+    color: white;
+  }
+
+  #cover .quire-cover__hero * {
+    color: white;
   }
