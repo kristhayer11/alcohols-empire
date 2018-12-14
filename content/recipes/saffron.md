@@ -71,8 +71,6 @@ If desired, add honey to taste.*
 <br>
 • ¼ ounce lime juice
 <br>
-• 1 lime
-<br>
 • High-quality tonic water
 <br>
 <br>
