@@ -7,11 +7,11 @@ image: tan.jpg
 
 Jump to
 <br>
-[PEAR RATAFIA] (#pear-ratafia)
+[Pear Ratafia] (#pear-ratafia)
 <br>
-[MILK PUNCH] (#milk-punch)
+[Milk Punch] (#milk-punch)
 <br>
-[SAFFRON BITTER TONIC] (#saffron-bitter-tonic)
+[Saffron Bitter Tonic] (#saffron-bitter-tonic)
 <br>
 <div class="boxed">
 **MILK PUNCH**

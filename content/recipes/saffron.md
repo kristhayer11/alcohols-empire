@@ -92,7 +92,7 @@ Garnish with lime wedge.*
 
 [^4]: M. Carrie Allen, "One Weird Cocktail has Spread to Menus Worldwide. Because it Works," *The* *Washington Post*, September 27, 2015, [https://wapo.st/2qIYTbX] (https://wapo.st/2qIYTbX).
 
-[^5]: Helen Soteriou and Will Smale, Why you may have been eating insects your whole life, BBC News, April 28, 2018, [https://www.bbc.com/news/business-43786055] (https://www.bbc.com/news/business-43786055).
+[^5]: Helen Soteriou and Will Smale, "Why you may have been eating insects your whole life," BBC News, April 28, 2018, [https://www.bbc.com/news/business-43786055] (https://www.bbc.com/news/business-43786055).
 
 [^6]: Camper English, "Bug-Based Coloring Makes a Comeback in Spirits," October 5, 2017, [https://daily.sevenfifty.com/bug-based-coloring-makes-a-comeback-in-spirits/] (https://daily.sevenfifty.com/bug-based-coloring-makes-a-comeback-in-spirits/).
 

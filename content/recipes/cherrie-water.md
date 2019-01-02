@@ -72,6 +72,6 @@ Garnish with lemon peel.*
 
 [^5]: *The London-Distiller,* 1.
 
-[^6]: Ann Ward, *Book of receipts*, c. 1724. P. 53. Manuscript, Wangensteen Historical Library of Biology and Medicine. [[WZ260 W256b 1724.]{.underline}](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21475285030001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US)
+[^6]: Ann Ward, *Book of receipts*, 53. 
 
 [^7]: [[*The London Distiller*. London: Printed by E. Cotes, for Thomas Williams, 1667. p. 22. Courtesy of the Wangensteen Historical Library of Biology and Medicine.]{.underline}](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21337551290001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US)
