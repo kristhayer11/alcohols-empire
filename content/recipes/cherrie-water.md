@@ -33,8 +33,7 @@ CHERRIE WATER: Historic Recipe Transcription [^6]
 <br>
 Tattersall followed this cherrie water recipe almost to a tee, only reducing the cinnamon and nutmeg somewhat and omitting the ambergris (an oily secretion of the sperm whale). Because it is distilled, you'll need to purchase a comparable alcohol (see below).
 </div>
-
-<br>
+{{< q-figure src="clear-skies.jpg"  >}}
 <div class="boxed">
 **CLEAR SKIES AHEAD**
 <br>
