@@ -5,31 +5,34 @@ type: page
 image: orange.jpg
 ---
 {{< q-figure id="emily"  src="contributors/emily2.jpg" class="is-pulled-right"  >}}
-**Emily Beck** is the Assistant Curator of the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota. She received her PhD in the History of Medicine from the University of Minnesota where worked on the history of early modern Italian lay medical practice via manuscript medical recipe books. Her research, teaching, and outreach activities at the Wangensteen are broad, including histories of anatomy, scientific illustrations, recipes, and material culture.
+**Emily Beck** is the assistant curator of the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota. She received her PhD in the History of Medicine from the University of Minnesota, where she worked on the history of early modern Italian lay medical practice via manuscript medical recipe books. Her research, teaching, and outreach activities at the Wangensteen are broad, including histories of anatomy, scientific illustrations, recipes, and material culture.
 <br>
 <br>
 {{< q-figure id="bentley"  src="contributors/bentley.jpg" class="is-pulled-right"  >}}
-**Bentley Gillman** is Head Distiller at Tattersall Distilling Company. He previously worked throughout the Twin Cities in the bar and restaurant industry but his true passion has always been researching and working with local and exotic ingredients, foraging throughout the woods of Minnesota and Wisconsin. He is a self-proclaimed fermentation junky and is the driver behind the production, research and development of the incredible spirits produced by Tattersall. Bentley earned degrees in Philosophy and Religious Studies at the University of Minnesota. Bentley is originally from Wisconsin and currently resides in Minneapolis with his partner and their daughter.
+**Bentley Gillman** is head distiller at Tattersall Distilling Company. He previously worked throughout the Twin Cities in the bar and restaurant industry, but his true passion is researching and working with local and exotic ingredients acquired by foraging throughout the woods of Minnesota and Wisconsin. A self-proclaimed fermentation junky, he drives the production, research, and development of Tattersall spirits. Gillman earned degrees in philosophy and religious studies at the University of Minnesota.
 <br>
 <br>
 {{< q-figure id="jon"  src="contributors/jon.jpg" class="is-pulled-right"  >}}
-**Jon Kreidler** is Co-Founder and Chief Officer at Tattersall Distilling Company.  He spent the first fifteen years in Chicago and Minneapolis working in finance, analyzing and investing in businesses at hedge fund and executing mergers and acquisitions at a local investment bank. Jon received an MBA with distinction from the University of Chicago Booth School of Business with a focus on Finance and Entrepreneurial Studies. Jon is originally from the Twin Cities and resides in the Western metro with his wife and two children.
+**Jon Kreidler** is co-founder and chief officer at Tattersall Distilling Company. He spent the first fifteen years in Chicago and Minneapolis working in finance, analyzing and investing in businesses at hedge funds and executing mergers and acquisitions at a local investment bank. Kreidler received an MBA with distinction from the University of Chicago Booth School of Business with a focus on finance and entrepreneurial studies.
 <br>
 <br>
 {{< q-figure id="kt2"  src="contributors/selfie.jpg" class="is-pulled-right"  >}}
-**Nicole LaBouff** is Associate Curator of Textiles at the Minneapolis Institute of Art and worked previously in the Department of Costume and Textiles at the Los Angeles County Museum of Art. She received her PhD in History from the University of California, Irvine. Her research deals with the intersection of science and women’s domestic work in early modern Europe, with interests spanning needlework, botany, and distilling.
+**Nicole LaBouff** is associate curator of textiles at the Minneapolis Institute of Art and worked previously in the Department of Costume and Textiles at the Los Angeles County Museum of Art. She received her PhD in history from the University of California, Irvine. Her research deals with the intersection of science and women’s domestic work in early modern Europe, with interests spanning needlework, botany, and distilling.
 <br>
 <br>
 {{< q-figure id="dan"  src="contributors/dan.jpg" class="is-pulled-left"  >}}
-**Dan Oskey** is Co-Founder and Chief Operator at Tattersall Distilling Company.  Dan spent his career prior to Tattersall throughout the service industry on the East Coast and throughout the Twin Cities.  Dan has been named the Top Bartender in the state multiple times throughout his career, having previously worked for the Blue Plate Company, The Strip Club Meat & Fish and Hola Arepa to name a few.  Dan is also one of the founding members of Joia Sodas & Spirits, as well as Easy & Oskey Bitters. Dan is a graduate of the University of Wisconsin, Madison and is originally from the Twin Cities.
+**Dan Oskey** is co-founder and chief operator at Tattersall Distilling Company. Oskey spent his early career in the service industry on the East Coast and throughout the Twin Cities. He has been named “Top Bartender” in Minnesota multiple times, having previously worked for the Blue Plate Company, The Strip Club Meat & Fish, and Hola Arepa. Oskey is a founding member of Joia Sodas & Spirits, as well as Easy & Oskey Bitters.
 <br>
 <br>
 <hr style="border: 2px solid black;" />
 <br>
 **Alex Bortolot** Content Strategist, Minneapolis Institute of Art
 <br>
-**Diane Richard** Editor, Minneapolis Institute of Art
 <br>
-**Ana Taylor** Photographer, Minneapolis Institute of Art
+**Diane Richard** is a writer/editor at the Minneapolis Institute of Art. She earned her BA at Smith College, in English and art history, and a master’s in journalism from the University of Missouri, Columbia. She also works as a radio journalist, with a specialty in documentary, but is never too busy to refuse an offer of a bourbon Old Fashioned.
 <br>
-**Kris Thayer** Senior Designer, Minneapolis Institute of Art
+<br>
+**Ana Taylor** is a photographer for the Minneapolis Institute of Art who uses curiosity as a tool to connect with and share visual stories of Mia and its community. Taylor is a graduate of the University of Wisconsin-Madison, where she earned a Bachelor of Fine Arts following two years of study at the School of the Art Institute of Chicago.
+<br>
+<br>
+**Kris Thayer** is a senior designer at the Minneapolis Institute of Art. She received her design education at the Minneapolis College of Art and Design, and holds a degree in Humanities from the University of Minnesota. Thayer started her design career at the Walker Art Center, and joined Mia in 2006. Manhattan straight up is her drink.
