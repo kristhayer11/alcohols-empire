@@ -89,3 +89,9 @@ figure_list:
       src: casks-crop.jpg
       caption: "we need this "
       credit:
+    - id: "jon"
+      src: jon.jpg
+      download: true
+  - id: "dan"
+    src: dan.jpg
+    download: true

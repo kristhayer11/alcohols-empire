@@ -35,4 +35,4 @@ image: orange.jpg
 **Ana Taylor** is a photographer for the Minneapolis Institute of Art who uses curiosity as a tool to connect with and share visual stories of Mia and its community. Taylor is a graduate of the University of Wisconsin-Madison, where she earned a Bachelor of Fine Arts following two years of study at the School of the Art Institute of Chicago.
 <br>
 <br>
-**Kris Thayer** is a senior designer at the Minneapolis Institute of Art. She received her design education at the Minneapolis College of Art and Design, and holds a degree in Humanities from the University of Minnesota. Thayer started her design career at the Walker Art Center, and joined Mia in 2006. Manhattan straight up is her drink.
+**Kristine Thayer** is a senior designer at the Minneapolis Institute of Art. She received her design education at the Minneapolis College of Art and Design, and holds a degree in Humanities from the University of Minnesota. Thayer started her design career at the Walker Art Center, and joined Mia in 2006. Manhattan straight up is her drink.

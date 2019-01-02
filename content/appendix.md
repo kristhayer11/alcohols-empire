@@ -36,6 +36,21 @@ We ended up with the following recipe, although you could adjust the ingredients
 <hr style="border: 2px solid black;" />
 
 
+\[MOVE TO APPENDIX, BUT INCLUDE NOTE/JUMP BEHIND THAT DIRECTS READERS THERE\]\
+**Water of Flowers**
+
+#### **Historic Recipe Transcription**[^7]
+
+"Water of Flowers. The greater quantity.
+
+Take strong proof-spirit what sufficeth, and put it into a wide mouthed Pot, (or other Vessel) stopt very close. Take those several flowers following in their seasons, and being clean pickt, put them to the spirit in the pot, *viz.* Cow slips wood-bind, stock jilly flowers of all three sorts, Damask roses, Musk Roses, Sweet Brier flowers, Clove Jilly-flowers, Lilium Convallium, Jasmine, Citron flowers, or pils dry, Orange flowers, or pils dry, Tillia flowers, Garden Thyme flowers, Limon Thyme flowers, Wild Thyme flowers; Lavender flowers, Marigold flowers, Chamomile flowers, Mellilot flowers, Elder flowers, of each half a pound. Being furnished with all your flowers as above, when you would distill them, add to them Anniseed 2 pound, Coriander 1 pound; bruise the seeds; it were best to bruise all the flowers; as you put them up into the spirit, for their more orderly working; distil them into strong Proof-spirit according to art; then add to the distilled water, Roses, Jilly flowers, Elder flowers, of each 1 pound: after twelve dayes infusion it may be drawn off; then dulcifie it with white Sugar 10 pound, and being fine, it may be drawn for use."
+
+#### **Tattersall's Contemporary Distillation**
+
+In recreating the historical water of flowers, Tattersall included orange blossom water, cowslips, honeysuckle, cabbage roses, brier roses, linden, jasmine, lavender, marigold, chamomile, elderflower, melilot, lemon peel, lemon thyme, anise seeds, and coriander. Two ingredients were omitted: Lilium Convallium---lily of the valley---and gilly flowers---clove flowers. Lily of the valley is poisonous, and fresh gilly flowers do not have the same flavor profile as dried clove buds. Because it is distilled, you'll have to substitute a store-bought alcohol, such as Luxardo, Maraschino, or Kirsch.
+
+
+
 
 ## Notes ##
 
