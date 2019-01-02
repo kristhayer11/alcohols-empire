@@ -26,9 +26,8 @@ CHERRIE WATER: Historic Recipe Transcription [^6]
 </span>
 <br>
 <br>
-
 <div class="boxed">
-## CHERRIE WATER ##
+**CHERRIE WATER**
 <br>
 **Tattersall's Contemporary Interpretation**
 <br>
