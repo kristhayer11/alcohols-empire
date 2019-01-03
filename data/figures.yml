@@ -98,3 +98,6 @@ figure_list:
   - id: "clear-skies"
     src: clear-skies.jpg
     download: true
+  - id: "pendant"
+    src: pendant3.jpg
+    download: true

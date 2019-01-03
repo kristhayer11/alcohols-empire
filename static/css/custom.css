@@ -54,11 +54,7 @@ header {
   }
 
   .sidebar {
-    border-top: 1px solid maroon;
-    border-bottom: 1px solid maroon;
-    border-right: 0px solid black ;
-    border-left: 1px solid maroon;
-    background-color: #Wheat;
+    background-color: #fffaf0;
     margin: 20px;
     padding: 40px;
   }
