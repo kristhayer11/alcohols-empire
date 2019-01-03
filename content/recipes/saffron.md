@@ -12,9 +12,11 @@ type: entry
 
 True to form, this 1820 bitters recipe packs a medicinal punch. Notably, it features gentian root, an herb used for millennia to treat a variety of ailments that is proven to calm the stomach and help digestion (when consumed in moderation, so drink responsibly!). Gentian remains a key ingredient in [Angostura bitters] (https://www.washingtonpost.com/lifestyle/food/one-weird-cocktail-has-spread-to-menus-worldwide-because-it-works/2015/09/27/7cdb0f6c-62e7-11e5-b38e-06883aacba64_story.html?noredirect=on&utm_term=.501537cc7e98). [^4]
 
+{{< q-figure src="saffron-woodville.jpg" class="is-pulled-right" caption="William Woodville, *Medical botany : containing systematic and general descriptions, with plates of all the medicinal plants, comprehended in the catalogues of the materia medica, as published by the Royal Colleges of Physicians of London, Edinburg, and Dublin* . . ., London: John Bohn, 1832: Volume 4. 615.32 W86 1832"  >}}
+<br>
 Saffron---made from the dried stigmas of the saffron crocus flower, with origins in the Middle East---has also long been used to treat a range of ailments. An important source for yellow dye, saffron's major contribution to this Wine Bitters is a pleasing, golden undertone. The dominant vibrant red color comes thanks to cochineal, a red dye formulated by the Aztecs and Maya of Central America from pulverized cochineal insects around 4,000 years ago. Today, cochineal is still [widely used] (https://www.bbc.com/news/business-43786055) as a food and drink colorant, and it remains an important export for Peru; it is not, however, vegetarian.[^5] In 2006 [Campari] (https://daily.sevenfifty.com/bug-based-coloring-makes-a-comeback-in-spirits/) opted for artificial color in its iconic red bitters.[^6]
 
-{{< q-figure src="saffron-woodville.jpg" class="is-pulled-right" caption="William Woodville, *Medical botany : containing systematic and general descriptions, with plates of all the medicinal plants, comprehended in the catalogues of the materia medica, as published by the Royal Colleges of Physicians of London, Edinburg, and Dublin* . . ., London: John Bohn, 1832: Volume 4. 615.32 W86 1832"  >}}
+
 
 <br>
 For a low alcohol option, add this saffron bitters to tonic water---a quinine-infused refreshment favored by Brits in colonial India for its antimalarial properties. Until synthetic quinine was developed in 1944, the natural version was derived from Peruvian [cinchona bark] (https://www.lib.umn.edu/bell/tradeproducts/cinchonabark); Europeans started importing cinchona bark for antimalarial medicines in the 1630s, after which it quickly took off.[^8] The Wangensteen Historical Library has an early manuscript example of an English recipe that uses cinchona against malaria: in 1659, Chris Dodssonn wrote his copy of Nicholas Culpepers' translation of the *Pharmacopoeia Londinensis,* "For your ague: Take 2 drams of Quin Quina or Jesuit's Bark, beat it to a powder & infuse it in a draught of Clarit or white wine 2 hours & take it when your fitt begins & cetera."[^9]
@@ -27,7 +29,6 @@ WINE BITTERS: Historic Recipe Transcription [^10]
 <br>
 *The rinds of 4 Oranges 1 drachm of Saffron 1 of Cochinell 1 ounce of Gentun root, put into 1 quart of Brandy and digested in the hottest sun 48 hours, then strain it and put half the quantity of Brandy on again and let it stand some time.*
 </span>
-<br>
 <br>
 <div class="boxed">
 **SAFFRON INFUSED BITTERS**
@@ -55,9 +56,7 @@ Strain out the dry ingredients with a cheesecloth.
 Add ½ quart of rum.
 <br>
 If desired, add honey to taste.*
-<br>
 </div>
-
 <br>
 <div class="boxed">
 **SAFFRON BITTERS TONIC**
@@ -67,7 +66,7 @@ If desired, add honey to taste.*
 <br>
 • 1 ounce Saffron Infused Bitters
 <br>
-• ½ ounce [mint syrup] (../historical-recipes/)
+• ½ ounce [mint syrup] (../appendix/#mint-syrup)
 <br>
 • ¼ ounce lime juice
 <br>
