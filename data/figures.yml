@@ -101,3 +101,6 @@ figure_list:
   - id: "pendant"
     src: pendant3.jpg
     download: true
+  - id: "tasting2"
+    src: tasting2.jpg
+    download: true
