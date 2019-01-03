@@ -95,3 +95,6 @@ figure_list:
   - id: "dan"
     src: dan.jpg
     download: true
+  - id: "clear-skies"
+    src: clear-skies.jpg
+    download: true
