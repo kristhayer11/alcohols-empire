@@ -7,11 +7,6 @@ type: entry
 ---
 
 
-
--   Potential illustration: [[https://collections.artsmia.org/art/28469/miniature-pendant-with-the-deposition-of-the-cross-and-saint-roch-and-saint-sebastian-germany]{.underline}](https://collections.artsmia.org/art/28469/miniature-pendant-with-the-deposition-of-the-cross-and-saint-roch-and-saint-sebastian-germany)
-
-{Insert plague doctor illustration from Bartholin}[^1]
-
 ### 'A Singular Remedy Against Pestilence' ###
 
 The story behind the Plague Party, our modern cocktail, draws on two recipes for early remedies against severe illness: Plague Water, used to treat or prevent black plague, and Aqua Mirabilis, used as a miraculous cure for just about anything. By recreating these medicines and turning them into a cocktail, we explored the ways in which many modern spirits had their origins as medical treatments.\
@@ -77,9 +72,6 @@ Tattersall followed this plague water recipe closely; however, a few substitutio
 
 </div>
 ## Notes ##
-
-
-[^1]: Thomas Bartholin, *Thomæ Bartholini Historiarum anatomicarum rariorum*, Hafniae: Sumptibus P. Hauboldt: 1654.
 
 [^2]: See, for example, Maggie Fox, "Medieval Potion Kills Superbug MRSA Better Than Antibiotic Vancomycin," NBC News, February 20, 2015. [https://nbcnews.to/2DAr59o] (https://nbcnews.to/2DAr59o)
 
