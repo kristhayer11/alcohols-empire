@@ -17,5 +17,46 @@ This effort culminated in two events held at Mia and at Tattersall: a lecture on
 Because of alcohol's centrality to 1700s medical culture, many of our featured recipes originated as cures. Although people in the 1700s would not have consumed these high-proof remedies for enjoyment, many of these old restoratives survive as modern cocktail components, such as bitters. Other recipes, however, were intended to be enjoyable beverages on their own. Within this group, milk punch is [enjoying a modern revival] (https://vinepair.com/articles/milk-punch/) (although ours can, as the recipe says, survive a journey from Europe to the Indies in the belly of a ship).[^1] Others, like aquavit, are simply one in a long, European-wide tradition of anise-flavored spirits.
 
 Across all of these recipes, the ingredients themselves tell stories about the people, products, techniques, and taste preferences that traversed the Atlantic in the 1700s. For example, ingredients such as Middle Eastern saffron, or Latin American cinchona and cochineal, highlight the global beverage culture of these authors.
+<br>
+<br>
+<div class="sidebar">
+#### Case Study: Aquavit ####
+**Aniseed to 'Cause a Sweet Breath'**
+<br>
+What do pastis, ouzo, sambuca, aquavit, and absinthe have in common? A base flavor of anise. In re-creating this aqua-vitae recipe from *The* *London-Distiller*, we're able to chart the transformation of this very old spirit since the 1600s, with anise flavoring so many spirits throughout Europe and the Mediterranean. [^1] According to Nicholas Culpeper, aniseed could be used to "ease pain \[&\] expel wind, cause a sweet breath, help the dropsie, resist poyson, breed milk, and stop the whites in women, provoke lust, and ease the headach." [^2] Given the pleasing flavor and medical and digestive utility of anise, it is not surprising that anise-flavored alcohols are so common.
 
-[^1]: Eamon Rockey, "Bartenders are Obsessed with Milk Punch Because It's Delicious and a Little Bit Dangerous," Vine Pair, accessed November 8, 2018, [https://vinepair.com/articles/milk-punch/] (https://vinepair.com/articles/milk-punch/)
+The recipe for aqua-vitae transcribed below was the second recipe included in *The London-Distiller*. It is ubiquitous throughout the volume as a base spirit that could take on the flavor of other ingredients.
+<br>
+<br>
+<span class="gray-text">
+AQUAVIT: Historical Recipe Transcription [^3]
+<br>
+"Aqua-vitae, the second part.
+The greater quantity.
+<br>
+Take strong Proof-spirit what sufficeth, Anniseeds 2 pound, Carraway-seeds, Coriander-seeds, ana 4 ounces; distil them into strong Proof-spirit according to Art" [^4]
+
+</span>
+<br>
+**ACQUAVIT**
+<br>
+**Tattersall's Contemporary Distillation**
+<br>
+Tattersall re-created this aquavit recipe from *The London-Distiller* exactly, but paired it with its own version of aquavit at the March 4, 2019, tasting.
+
+According to Jon Kreidler, of Tattersall Distilling, the aniseed note of its aquavit comes from fennel seed, as well as from caraway seed, common among Danish aquavits. "We also borrow a lot of botanicals from our gin, including juniper, coriander, licorice, bitter and sweet orange, assorted baking spices, mustard seed, and other various botanicals. In total, we use 15 botanicals, and then rest the finished spirit on oak to bring the flavors together, \[and\] add an additional flavor as well as some color to the finished product."
+
+Tattersall's aquavit garnered Best of Class and Double-Gold at both the San Francisco World Spirits Competition and the American Distilling Institute awards. The contemporary adaptation of the historical recipe reveals the complexity, balance, and ingenuity of the distiller's art.
+
+</div>
+
+## Notes ##
+
+
+[^1]: For more on anise-flavored spirits, see: R. Ertan Anli and Mustafa Bayram, "Traditional Aniseed-Flavored Spirit Drinks," *Food Reviews International*, 26 (2010): 246–269.
+
+[^2]: Culpeper, *Pharmacopoeia Londinensis*, 42. Nicholas Culpeper was a 1600s physician best known for translating the elite College of Physicians of London's pharmacopoeia from Latin into English so that more people would have access to medical knowledge.
+
+[^3]: [*The London-Distiller*. London : Printed by E. Cotes, for Thomas Williams, 1667. P. 6. Courtesy of the Wangensteen Historical Library of Biology and Medicine.](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21337551290001701&context=L&vid=TWINCITIES&search_scope=wangensteen&tab=default_tab&lang=en_US)
+
+[^4]: *The London-Distiller*, 6.
