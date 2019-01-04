@@ -1,8 +1,8 @@
 ---
 title: Recipes Quick Guide
 weight: 170
-type: page
-image: plastic2.jpg
+type: entry
+image: bentley2.jpg
 ---
 
 Jump to

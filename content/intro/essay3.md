@@ -2,7 +2,7 @@
 title: The Project
 subtitle: A Collaboration of Kindred and Complementary Spirits
 weight: 43
-image: still.jpg
+image: stills-crop.jpg
 type: entry
 ---
 
