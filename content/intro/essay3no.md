@@ -1,12 +1,9 @@
 ---
-title: Parking Lot
-subtitle: Extra Stuff
+title: Ignore
+subtitle: Extra Stuff just parked here
 weight: 48
-image: cover_kt.jpg
+image: teal.jpg
 type: essay
-contributor:
-  - first_name:  Emily Beck and
-    last_name: Nicole La Bouff
 ---
 
 {{< q-map lat="48.8566" long="2.3522" geojson="/data/sample-geojson.json" >}}

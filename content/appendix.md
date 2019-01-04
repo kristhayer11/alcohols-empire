@@ -3,7 +3,7 @@ title: Appendix
 weight: 300
 image: bottles4.jpg
 ---
-**This needs a line or two of introduction in case people land here without knowing what this page is. This needs a line or two of introduction in case people land here without knowing what this page is.**
+**This project was such fun, we’re happy to share with you a few related ingredient recipes for your imbibing pleasure. Please enjoy in moderation.**
 <br>
 <br>
 Jump to:
@@ -16,7 +16,7 @@ Jump to:
 
 <br>
 <hr style="border: 2px solid black;" />
-### Mint Syrup ###
+### Mint Syrup: ‘Fortifies the liver and stomach and makes the latter happy’ ###
 <span class="gray-text">
 HISTORIC RECIPE TRANSCRIPTION
  [^1]
@@ -45,14 +45,14 @@ We ended up with the following recipe, although you could adjust the ingredients
 <br>
 *Heat together in a small saucepan with enough water to cover the ingredients. Cook until mixture is fragrant and very flavorful, perhaps 20 minutes. Strain to remove the ingredients, return the water to the stove, and add 1 lb granulated sugar. Simmer until all of the sugar has dissolved and the liquid is somewhat reduced. Keep in the refrigerator.*
 <hr style="border: 2px solid black;" />
-### Water of Flowers ###
+### Water of Flowers: ‘Bruise the seeds; bruise all the flowers’ ###
 
 <span class="gray-text">
 HISTORIC RECIPE TRANSCRIPTION  [^2]
 <br>
-"Water of Flowers. The greater quantity.
+*"Water of Flowers. The greater quantity.
 <br>
-Take strong proof-spirit what sufficeth, and put it into a wide mouthed Pot, (or other Vessel) stopt very close. Take those several flowers following in their seasons, and being clean pickt, put them to the spirit in the pot, *viz.* Cow slips wood-bind, stock jilly flowers of all three sorts, Damask roses, Musk Roses, Sweet Brier flowers, Clove Jilly-flowers, Lilium Convallium, Jasmine, Citron flowers, or pils dry, Orange flowers, or pils dry, Tillia flowers, Garden Thyme flowers, Limon Thyme flowers, Wild Thyme flowers; Lavender flowers, Marigold flowers, Chamomile flowers, Mellilot flowers, Elder flowers, of each half a pound. Being furnished with all your flowers as above, when you would distill them, add to them Anniseed 2 pound, Coriander 1 pound; bruise the seeds; it were best to bruise all the flowers; as you put them up into the spirit, for their more orderly working; distil them into strong Proof-spirit according to art; then add to the distilled water, Roses, Jilly flowers, Elder flowers, of each 1 pound: after twelve dayes infusion it may be drawn off; then dulcifie it with white Sugar 10 pound, and being fine, it may be drawn for use."
+Take strong proof-spirit what sufficeth, and put it into a wide mouthed Pot, (or other Vessel) stopt very close. Take those several flowers following in their seasons, and being clean pickt, put them to the spirit in the pot,* viz. *Cow slips wood-bind, stock jilly flowers of all three sorts, Damask roses, Musk Roses, Sweet Brier flowers, Clove Jilly-flowers, Lilium Convallium, Jasmine, Citron flowers, or pils dry, Orange flowers, or pils dry, Tillia flowers, Garden Thyme flowers, Limon Thyme flowers, Wild Thyme flowers; Lavender flowers, Marigold flowers, Chamomile flowers, Mellilot flowers, Elder flowers, of each half a pound. Being furnished with all your flowers as above, when you would distill them, add to them Anniseed 2 pound, Coriander 1 pound; bruise the seeds; it were best to bruise all the flowers; as you put them up into the spirit, for their more orderly working; distil them into strong Proof-spirit according to art; then add to the distilled water, Roses, Jilly flowers, Elder flowers, of each 1 pound: after twelve dayes infusion it may be drawn off; then dulcifie it with white Sugar 10 pound, and being fine, it may be drawn for use.*"
 </span>
 <br>
 <br>
@@ -62,12 +62,12 @@ In recreating the historical water of flowers, Tattersall included orange blosso
 
 <hr style="border: 2px solid black;" />
 
-### Aqua Mirabilis ###
+### Aqua Mirabilis: ‘Excellent against the palsy’ ###
 <span class="gray-text">
 HISTORIC RECIPE TRANSCRIPTION  [^3]
 <Br>
-“Aqua Mirabilis.
-Take melilot, cardamum, cubebs, gallingale, cloves, ginger, mace, nutmegs, of each a dram, the juice of celandine, half a pint; mingle all these together, bruise to powder with the juice, and a pint of Aqua Vita, and three pints of white wine, put them together into a glass-still; let it stand all night, and in the morning distil it with a very gentle fire. It is excellent against the palsy, and very restorative. In the summer one spoonful may be taken in a week,fasting, and in the winter two spoonfuls.”
+*“Aqua Mirabilis.
+Take melilot, cardamum, cubebs, gallingale, cloves, ginger, mace, nutmegs, of each a dram, the juice of celandine, half a pint; mingle all these together, bruise to powder with the juice, and a pint of Aqua Vita, and three pints of white wine, put them together into a glass-still; let it stand all night, and in the morning distil it with a very gentle fire. It is excellent against the palsy, and very restorative. In the summer one spoonful may be taken in a week,fasting, and in the winter two spoonfuls.”*
 </span>
 
 <br>
