@@ -4,7 +4,7 @@ subtitle: "Distilled Spirits in the 1700s Atlantic World"
 weight: 11
 menu: true
 type: cover
-image: trio.jpg
+image: trio2.jpg
 slug: .
 ---
 

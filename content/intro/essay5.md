@@ -2,7 +2,7 @@
 title: Organizational Contributors
 subtitle:
 weight: 45
-image: group2.jpg
+image: pouring2.jpg
 type: entry
 ---
 

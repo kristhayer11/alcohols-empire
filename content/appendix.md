@@ -83,8 +83,8 @@ Tattersall made a nearly exact recreation of this recipe, using a combination of
 
 ## Notes ##
 
-[^1]: *Hispanic (Andalusi)-Maghrebi (Morrocan) food during the Almohad period from an anonymous 13th century manuscript*. La cocina hispano-magrebí durante la época almohade según un manuscrito anónimo del siglo XIII. Trans. Huici de Miranda. Ed. Manuela Marín. Ediciones Trea, 2005. p. 288-89 (fol. 78r); not in the Wangensteen's collection but preserved in a 17th century copy. [Bibliotheque Nationale, Paris MS. (Colin) 7009 (Arabe)] (http://gallica.bnf.fr/ark:/12148/btv1b10031117v/f79.item)
+[^1]: *Hispanic (Andalusi)-Maghrebi (Morrocan) food during the Almohad period from an anonymous 13th century manuscript*. La cocina hispano-magrebí durante la época almohade según un manuscrito anónimo del siglo XIII. Trans. Huici de Miranda. Ed. Manuela Marín. Ediciones Trea, 2005. p. 288-89 (fol. 78r); not in the Wangensteen's collection but preserved in a 17th-century copy. [Bibliotheque Nationale, Paris MS. (Colin) 7009 (Arabe)] (http://gallica.bnf.fr/ark:/12148/btv1b10031117v/f79.item)
 
  [^2]: *The London Distiller.* London: Printed by E. Cotes, for Thomas Williams, 1667. p. 22. Courtesy of the Wangensteen Historical Library of Biology and Medicine. https://bit.ly/2FgeVEk
 
- [^3]:  *The London-Distiller.* London: Printed by E. Cotes, for Thomas Williams, 1667. P. 73. Courtesy of the Wangensteen Historical Library of Biology and Medicine. https://bit.ly/2FgeVEk
+ [^3]:  *The London-Distiller,*  73.
