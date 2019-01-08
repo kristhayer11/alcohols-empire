@@ -1,0 +1,60 @@
+@media screen and (min-width: 500px) {
+.content .quire-figure {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.boxed {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black ;
+  border-left: 6px solid black;
+  background-color: whitesmoke;
+  margin: 20px;
+  padding: 40px;
+}
+
+header {
+  margin-top: 50px;
+}
+
+.content .quire-figure.is-pulled-left {
+    margin-left: 0;
+    margin-right: 30px;
+  }
+
+  .content .quire-figure.is-pulled-right {
+      margin-left: 20px;
+      margin-right: 0;
+    }
+
+  .quire-cover {
+        font-weight: 800;
+    }
+
+  .gray-text {
+    color: #948582 ;
+  }
+
+  .rose-text {
+    color: #c5a3a3
+  }
+
+  #appendix .quire-page__header * {
+    color: white;
+  }
+
+  #cover .quire-cover__hero * {
+    color: white;
+  }
+
+  #bibliography .quire-page__header * {
+    color: white;
+  }
+
+  .sidebar {
+    background-color: #fffaf0;
+    margin: 20px;
+    padding: 40px;
+  }
