@@ -16,5 +16,3 @@ begins. ({{< q-cite "Faure 1909" "54" >}})
 ### Baroque and Classicism ##
 
 {{< q-deepzoom image="http://evil-manifests.davidnewbury.com/iiif/images/garden-1/info.json" >}}
-
-{{< q-figure src="posset.jpg" caption="England, Europe, Posset pot, 1690, glazed ceramic<br>Bequest of Irene G. Steiner, Minneapolis Institute of Art Collection" >}}
