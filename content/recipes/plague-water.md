@@ -52,7 +52,7 @@ Tattersall followed this recipe closely; however, a few substitutions and deleti
 **Tattersall Cocktail Recipe**
 <br>
 <br>
-• 1 ounce Green Chartreuse (substitute for Plague Water)
+• 1 ounce Green Chartreuse (substitute for [Plague Water] (../appendix/)?)
 <br>
 • 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/)?)
 <br>

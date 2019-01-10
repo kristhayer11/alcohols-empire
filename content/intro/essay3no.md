@@ -1,6 +1,6 @@
 ---
-title: Ignore
-subtitle: Extra Stuff just parked here
+title: Video
+subtitle: Clint's long video goes here
 weight: 48
 image: rose.jpg
 type: essay
