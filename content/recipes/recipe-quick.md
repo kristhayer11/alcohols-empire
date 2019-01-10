@@ -14,7 +14,7 @@ Jump to
 [Saffron Bitter Tonic] (#saffron-bitter-tonic)
 <br>
 <div class="boxed">
-**MILK PUNCH** by Tattersall?
+**MILK PUNCH** as interpreted by Tattersall Distilling
 <br>
 • 10 lemons
 <br>
@@ -36,6 +36,8 @@ Add:
 • 2 teaspoon ground nutmeg
 <br>
 • 1.25 pounds refined sugar
+<br>
+<br>
 *Steep another 24 hours.*
 <br>
 <br>
@@ -49,7 +51,7 @@ Strain again with cheesecloth or a coffee filter.
 Repeat until the punch runs clear. Serve with ice and/or top with soda, if desired.*
 </div>
 <div class="boxed">
-**PEAR RATAFIA** by Tattersall?
+**PEAR RATAFIA** as interpreted by Tattersall Distilling
 <br>
 • 3 quarts apple brandy
 <br>
@@ -69,7 +71,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 *Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
 </div>
 <div class="boxed">
-**SAFFRON BITTER TONIC** by Tattersall
+**SAFFRON BITTER TONIC** by Tattersall Distilling
 <br>
 • 1 ounce Saffron Infused Bitters
 <br>
@@ -85,9 +87,9 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 *Fill an 8 ounce glass with ice cubes. Add bitters, mint syrup, and lime juice. Top with tonic water. Garnish with lime wedge.*
 </div>
 <div class="boxed">
-**PLAGUE PARTY** by Tattersall
+**PLAGUE PARTY** by Tattersall Distilling
 <br>
-• 1 ounce Green Chartreuse (for Plague Water)
+• 1 ounce Green Chartreuse (substitute for Plague Water)
 <br>
 • 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/)?)
 <br>

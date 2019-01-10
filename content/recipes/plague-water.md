@@ -13,7 +13,7 @@ The story behind the Plague Party, our modern cocktail, draws on two recipes for
 \
 
 {{< q-figure src="plaguedr.jpg"  class="is-pulled-right" caption="Thomas Bartholin, *Thomæ Bartholini Historiarum anatomicarum rariorum,* Hafniae: Sumptibus P. Hauboldt: 1654."  >}}
-
+<br>
 Plague Water was one among a slew of medicines used by people in hopes of avoiding a grisly death from bubonic plague. Although many medicines in the 1700s were relatively effective, having come from centuries of trial, error, and empirical practice of herbal healers, the modern understanding of bacteria and vector-based diseases was not part of early modern medical theory. Nevertheless, this did not necessarily render their medicines ineffective. Herbal medicines can be potent cures against many illnesses, and some cures continue to be researched today for their antibacterial properties. [^2] The recipe for Plague Water from *The London Distiller* is full of ingredients once thought to mitigate this feared illness. Angelica roots, for example, "is a singular remedy against pestilence and poyson." [^3] Contra Yerva was considered to be "binding and stops blood," [^4] and zedoary could "resist poyson." [^5]
 
 For centuries, black death, or black plague (now generally believed to be caused by the flea-carried bacterium *Yersinia pestis*) decimated European populations.[^6] During a series of epidemics in the 1300s, an estimated 25 million people died, with population levels only returning to their pre-black death levels 150 years later.
@@ -22,7 +22,7 @@ For centuries, black death, or black plague (now generally believed to be caused
 
 Black death has emerged throughout the world at various points in history, including in San Francisco in the early twentieth century, and in southern India in 1994.[^7] Bubonic plague continues to be endemic today in the rodent population of the Rocky Mountains. According to the Centers for Disease Control and Prevention, around seven people per year contract the disease in the United States.[^8]
 
-Alongside the Plague Water, Tattersall also recreated Aqua Mirabilis, which translates to Miraculous, or Wonderful Water. The recipe specifically mentions that it can be used to cure palsy (paralysis or tremors), but it mentions that it is also very restorative. In addition to curing specific illnesses or symptoms, people in the 1700s also looked to everyday remedies to help maintain their health. By taking small amounts of medicines like Aqua Mirabilis daily in small quantities, like many take vitamins today, early modern individuals hoped that they would be able to stay generally healthy.
+Alongside the Plague Water, Tattersall also recreated Aqua Mirabilis, which translates to Miraculous or Wonderful Water. The recipe specifically mentions that it can be used to cure palsy (paralysis or tremors), but it mentions that it is also very restorative. In addition to curing specific illnesses or symptoms, people in the 1700s also looked to everyday remedies to help maintain their health. By taking small amounts of medicines like Aqua Mirabilis daily in small quantities, like many take vitamins today, early modern individuals hoped that they would be able to stay generally healthy.
 
 Tattersall fashioned these two medicines into an historically inspired cocktail because both of these herbal-forward spirits are reminiscent of modern spirits such as Green Chartreuse and Becherovka. During the early modern period, however, they would have likely been taken in small amounts on their own, or in a warm posset drink. In the 1700s, recipes flourished for possets and for medicinal waters, like plague water, to be taken in a posset, an ancestor of modern-day eggnog typically composed of warm wine or beer mixed with milk, to which medicines could be added. Later posset recipes show the addition of eggs and sugar, perhaps spurring the drink's movement from medicinal into social realms.
 
@@ -44,7 +44,7 @@ Take strong Proof-spirit what sufficeth, Butter-bur-roots dry 1 pound, Garden Va
 <br>
 Tattersall's Contemporary Distillation**
 <br>
-Tattersall followed this plague water recipe closely; however, a few substitutions and deletions were necessary. The scordium was replaced with hops because the two are closely related. Snake grass is dangerous to humans, so licorice root was used instead, and lovage replaced impertoria. As mentioned above, Tattersall also left out the Venus treacle and mithridate. We omitted two significant ingredients from our contemporary recipe for plague water: Venice treacle and mithridate. Both were extraordinarily complex and expensive medicines once produced by pharmacists across Europe as miraculous cures for all kinds of illnesses, and each had 50 to 70 distinct ingredients, including opium, viper's flesh, and skink bellies. As much as we value authenticity, we agreed to drop them from the re-created recipe.[^11] Because this is a distilled product, you'll have to substitute a store-bought alcohol.
+Tattersall followed this recipe closely; however, a few substitutions and deletions were necessary. The scordium was replaced with hops because the two are closely related. Snake grass is dangerous to humans, so licorice root was used instead, and lovage replaced impertoria. We omitted two significant ingredients: Venice treacle and mithridate. Both were extraordinarily complex and expensive medicines once produced by pharmacists across Europe as miraculous cures for all kinds of illnesses, and each had 50 to 70 distinct ingredients, including opium, viper's flesh, and skink bellies. As much as we value authenticity, we agreed to drop them from the re-created recipe.[^11] Because this is a distilled product, you'll have to substitute a store-bought alcohol.
 
 <div class="boxed">
 **PLAGUE PARTY**
@@ -52,7 +52,7 @@ Tattersall followed this plague water recipe closely; however, a few substitutio
 **Tattersall Cocktail Recipe**
 <br>
 <br>
-• 1 ounce Green Chartreuse (for Plague Water)
+• 1 ounce Green Chartreuse (substitute for Plague Water)
 <br>
 • 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/)?)
 <br>
