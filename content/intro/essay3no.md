@@ -2,7 +2,7 @@
 title: Ignore
 subtitle: Extra Stuff just parked here
 weight: 48
-image: teal.jpg
+image: rose.jpg
 type: essay
 ---
 

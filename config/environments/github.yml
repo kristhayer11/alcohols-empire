@@ -11,6 +11,6 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://kristhayer11.github.io/repo1/no-pdf"
+baseURL: "https://kristhayer11.github.io/repo1"
 canonifyURLs: true
 relativeURLs: false
