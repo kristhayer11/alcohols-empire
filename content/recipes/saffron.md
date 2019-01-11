@@ -66,7 +66,7 @@ If desired, add honey to taste.*
 <br>
 • 1 ounce Saffron Infused Bitters
 <br>
-• ½ ounce [mint syrup] (../appendix/#mint-syrup)
+• ½ ounce [mint syrup] (../content/appendix/)
 <br>
 • ¼ ounce lime juice
 <br>

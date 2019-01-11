@@ -8,11 +8,11 @@ image: bottles4.jpg
 <br>
 Jump to:
 <br>
-[Mint Syrup] (#mint-syrup)
+[Mint Syrup] (#mint-syrup-fortifies-the-liver-and-stomach-and-makes-the-latter-happy)
 <br>
-[Water of Flowers] (#water-of-flowers)
+[Water of Flowers] (#water-of-flowers-bruise-the-seeds-bruise-all-the-flowers)
 <br>
-[Aqua Mirabilis] (#aqua-mirabilis)
+[Aqua Mirabilis] (#aqua-mirabilis-excellent-against-the-palsy)
 
 <br>
 <hr style="border: 2px solid black;" />

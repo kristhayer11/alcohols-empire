@@ -1,7 +1,7 @@
 ---
 title: Bibliography
 weight: 320
-image: pouring2.jpg
+image: plastic.jpg
 ---
 
 ### Featured Historical Sources ###

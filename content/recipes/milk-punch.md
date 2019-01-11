@@ -6,9 +6,9 @@ object:
 type: entry
 ---
 ### A Drink That Keeps ‘Years by Sea or Land’ ###
-The 1700s was not the era of mixed drinks or "cocktails." [Those come out in force in the late 1800s and early 1900s.] (https://www.nytimes.com/2018/11/26/dining/drinks/campari-color-aperitif-aperitivo.html) One important exception was punch, which became popular worldwide in the 1600s.
+The 1700s was not the era of mixed drinks or "cocktails." [Those come out in force in the late 1800s and early 1900s.] (https://www.nytimes.com/2018/11/26/dining/drinks/campari-color-aperitif-aperitivo.html) One important exception was punch, which became popular worldwide in the 1600s. Punch combined five basic components: citrus juice, sugar, botanicals, water, and distilled spirits---usually rum, brandy, or arrack, a beverage made from either rice, palm juice, or coconut flower sap, common throughout South and Southeast Asia.
 
->Punch combined five basic components: citrus juice, sugar, botanicals, water, and distilled spirits---usually rum, brandy, or arrack, a beverage made from either rice, palm juice, or coconut flower sap, common throughout South and Southeast Asia.
+> If punch did begin life aboard long-haul voyages, it quickly jumped ship, making its way into well-to-do homes, where people could afford the costly ingredients.
 
 As for punch's origins, some clues point to India, and others to the practical needs and available resources of European sailors. As part of their victuals, sailors had increased access to distilled alcohols during the 1600s. And beginning in the late 1500s, some European ships had citrus on hand to combat scurvy, long before such fruits were formally doled out as rations and scientifically understood as antiscorbutics. Sugar and spices were often part of the cargo. If punch did begin life aboard long-haul voyages, it quickly jumped ship, making its way into well-to-do homes, where people could afford the costly ingredients (one citrus fruit in 1700s Europe cost the modern equivalent of roughly $8).
 
