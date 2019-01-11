@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/contents/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/essay1/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/essay2/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/essay3/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/essay4/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/essay5/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/essay3no/</loc>
+  </url>
+  
+  <url>
+    <loc>/recipes/</loc>
+  </url>
+  
+  <url>
+    <loc>/recipes/milk-punch/</loc>
+  </url>
+  
+  <url>
+    <loc>/recipes/ratafia/</loc>
+  </url>
+  
+  <url>
+    <loc>/recipes/saffron/</loc>
+  </url>
+  
+  <url>
+    <loc>/recipes/cherrie-water/</loc>
+  </url>
+  
+  <url>
+    <loc>/recipes/plague-water/</loc>
+  </url>
+  
+  <url>
+    <loc>/recipes/recipe-quick/</loc>
+  </url>
+  
+  <url>
+    <loc>/appendix/</loc>
+  </url>
+  
+  <url>
+    <loc>/contributors/</loc>
+  </url>
+  
+  <url>
+    <loc>/bibliography/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/search.json</loc>
+  </url>
+  
+</urlset>
