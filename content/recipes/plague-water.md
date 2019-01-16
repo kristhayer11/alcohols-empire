@@ -34,9 +34,9 @@ Many early posset recipes reveal their role in helping women recover from childb
 <span class="gray-text">
 PLAGUE WATER: Historic Recipe Transcription [^10]
 <br>
-"Plague Water. The Greater Quantity.
+*"Plague Water. The Greater Quantity.
 <br>
-Take strong Proof-spirit what sufficeth, Butter-bur-roots dry 1 pound, Garden Valerian rots dry, common Valerian roots dry, Angelica roots, Imperatoria, Gentian, Enula Campana \[elecampane\], Snake-grass roots, of each six ounces, Contra Yerva \[Shepherd's Purse\], Zedoary \[white tumeric\], Galingale, of each 4 ounces, Rue leaves dry, White Horehound, Scordium, Carduus Benedictus \[Blessed Thistle\], of each 5 ounces, Elderflowerse, Lavender, Mace of each 3 ounces, Citron pils dry, Juniper berries, of each 8 ounces, Green Walnuts with the husks 1 pound, Venus Triacle, Mithridate, of each 2 ounces, Anniseeds best a pound and half, Camphire 1 ounce; distil them into strong Proof-spirit according to the art, dulcifie with white Sugar 10 pounds; for use; let the party infected take of this water 1 ounce, mingled with warm Posset drink, (or any proper water in that case) and be kept very warm and sweat well thereon."
+Take strong Proof-spirit what sufficeth, Butter-bur-roots dry 1 pound, Garden Valerian rots dry, common Valerian roots dry, Angelica roots, Imperatoria, Gentian, Enula Campana \[elecampane\], Snake-grass roots, of each six ounces, Contra Yerva \[Shepherd's Purse\], Zedoary \[white tumeric\], Galingale, of each 4 ounces, Rue leaves dry, White Horehound, Scordium, Carduus Benedictus \[Blessed Thistle\], of each 5 ounces, Elderflowerse, Lavender, Mace of each 3 ounces, Citron pils dry, Juniper berries, of each 8 ounces, Green Walnuts with the husks 1 pound, Venus Triacle, Mithridate, of each 2 ounces, Anniseeds best a pound and half, Camphire 1 ounce; distil them into strong Proof-spirit according to the art, dulcifie with white Sugar 10 pounds; for use; let the party infected take of this water 1 ounce, mingled with warm Posset drink, (or any proper water in that case) and be kept very warm and sweat well thereon."*
 </span>
 <br>
 <br>
