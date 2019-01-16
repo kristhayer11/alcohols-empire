@@ -13,8 +13,7 @@ Particularly one hosted by Jean Gaillard de la Bouëxière, the original owner o
 
 > What alcoholic drinks would have been served at an eighteenth-century Parisian house party?
 
-{{< q-figure src="grand-salon.jpg"  caption="France, Grand Salon from the Hôtel de la Bouëxière, 1735, wood, paint, plaster, gilt, marble, iron" credit="Gift of the Groves Foundation, Minneapolis Institute of Art"  >}}
-
+{{< q-figure src="grand-salon.jpg"  caption="France, Grand Salon from the Hôtel de la Bouëxière, 1735, wood, paint, plaster, gilt, marble, iron" credit="Gift of the Groves Foundation, Minneapolis Institute of Art" >}}
 
 Around the same time, a few steps away from the Grand Salon---but worlds away, culturally---the austere Providence Parlor was reinvigorated with an installation, "[Just Imported: Global Trade in 1700s New England] (https://new.artsmia.org/living-rooms/just-imported/)."[^4] This historic interior originated in the [1772 Rhode Island property] (https://www.theclio.com/web/entry?id=65325) of the Russell brothers, who sold goods imported at their store, The Sign of the Golden Eagle.[^5] An interactive station at the center of the room displays samples of the kinds of wares they sold, all gleaned from the Russell brothers' [newspaper advertisements] (https://adverts250project.org/2018/03/19/march-19-3/).[^6]
 <br>
