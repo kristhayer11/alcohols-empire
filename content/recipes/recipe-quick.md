@@ -74,7 +74,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <div class="boxed">
 **SAFFRON BITTER TONIC** by Tattersall Distilling
 <br>
-• 1 ounce Saffron Infused Bitters
+• 1 ounce [Saffron Infused Bitters] (../bonus-material/)
 <br>
 • ½ ounce [mint syrup](../bonus-material)
 <br>
@@ -90,9 +90,9 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <div class="boxed">
 **PLAGUE PARTY** by Tattersall Distilling
 <br>
-• 1 ounce Green Chartreuse (substitute for Plague Water)
+• 1 ounce Green Chartreuse (substitute for [Plague Water] (../bonus-material/))
 <br>
-• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/))
+• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../bonus-material/))
 <br>
 • 1/2 ounce pineapple juice
 <br>
