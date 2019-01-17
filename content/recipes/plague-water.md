@@ -9,16 +9,16 @@ type: entry
 
 ### 'A Singular Remedy Against Pestilence' ###
 
-The story behind the Plague Party, our modern cocktail, draws on two recipes for early remedies against severe illness: Plague Water, used to treat or prevent black plague, and Aqua Mirabilis, used as a miraculous cure for just about anything. By recreating these medicines and turning them into a cocktail, we explored the ways in which many modern spirits had their origins as medical treatments.\
+The story behind the Plague Party, our modern cocktail, draws on two recipes for early remedies against severe illness: Plague Water, used to treat or prevent black plague, and [Aqua Mirabilis] (../bonus-material/), used as a miraculous cure for just about anything. By recreating these medicines and turning them into a cocktail, we explored the ways in which many modern spirits had their origins as medical treatments.\
 \
 
-{{< q-figure src="plaguedr.jpg"  class="is-pulled-right" caption="Thomas Bartholin, *Thomæ Bartholini Historiarum anatomicarum rariorum,* Hafniae: Sumptibus P. Hauboldt: 1654." alt="Black and white illustration of a beak doctor, a man wearing long robes and a mask with crystal eyes and a long beak-like nose filled with perfumes."  >}}
+{{< q-figure src="plaguedr.jpg"  class="is-pulled-right" caption="Thomas Bartholin, Plague doctor dress, *Thomæ Bartholini Historiarum anatomicarum rariorum,* Hafniae: Sumptibus P. Hauboldt: 1654." alt="Black and white illustration of a beak doctor, a man wearing long robes and a mask with crystal eyes and a long beak-like nose filled with perfumes."  >}}
 <br>
 Plague Water was one among a slew of medicines used by people in hopes of avoiding a grisly death from bubonic plague. Although many medicines in the 1700s were relatively effective, having come from centuries of trial, error, and empirical practice of herbal healers, the modern understanding of bacteria and vector-based diseases was not part of early modern medical theory. Nevertheless, this did not necessarily render their medicines ineffective. Herbal medicines can be potent cures against many illnesses, and some cures continue to be researched today for their antibacterial properties. [^2] The recipe for Plague Water from *The London Distiller* is full of ingredients once thought to mitigate this feared illness. Angelica roots, for example, "is a singular remedy against pestilence and poyson." [^3] Contra Yerva was considered to be "binding and stops blood," [^4] and zedoary could "resist poyson." [^5]
 
 For centuries, black death, or black plague (now generally believed to be caused by the flea-carried bacterium *Yersinia pestis*) decimated European populations.[^6] During a series of epidemics in the 1300s, an estimated 25 million people died, with population levels only returning to their pre-black death levels 150 years later.
 
-{{< q-figure src="pendant3.jpg"  caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood<br>[View in the Collection] (https://collections.artsmia.org/art/28469/miniature-pendant-with-the-deposition-of-the-cross-and-saint-roch-and-saint-sebastian-germany)" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art" alt="A tiny gold pendant that opens to reveal Christ’s dead body being taken down from the cross. The exterior depicts two popular saints, Saint Roch and Saint Sebastian."  >}}
+{{< q-figure src="pendant3.jpg"  caption="Germany, Miniature Pendant with The Deposition of the Cross, and Saint Roch and Saint Sebastian, 1550, gold, enamel, stones, boxwood<br>This pendant may have been used to protect the wearer from plague.<br>[View in the Collection] (https://collections.artsmia.org/art/28469/miniature-pendant-with-the-deposition-of-the-cross-and-saint-roch-and-saint-sebastian-germany)" credit="Gift of Tony, Lois and Ruth Blumka in memory of Victoria Blumka, Minneapolis Institute of Art" alt="A tiny gold pendant that opens to reveal Christ’s dead body being taken down from the cross. The exterior depicts two popular saints, Saint Roch and Saint Sebastian."  >}}
 
 Black death has emerged throughout the world at various points in history, including in San Francisco in the early twentieth century, and in southern India in 1994.[^7] Bubonic plague continues to be endemic today in the rodent population of the Rocky Mountains. According to the Centers for Disease Control and Prevention, around seven people per year contract the disease in the United States.[^8]
 
@@ -52,9 +52,9 @@ Tattersall followed this recipe closely; however, a few substitutions and deleti
 **Tattersall Cocktail Recipe**
 <br>
 <br>
-• 1 ounce Green Chartreuse (substitute for [Plague Water] (../appendix/)?)
+• 1 ounce Green Chartreuse (substitute for [Plague Water] (../bonus-material/))
 <br>
-• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/)?)
+• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../bonus-material/))
 <br>
 • 1/2 ounce pineapple juice
 <br>
@@ -66,7 +66,7 @@ Tattersall followed this recipe closely; however, a few substitutions and deleti
 *Honey Sage Syrup: In a saucepan, add 1 cup honey, 1 cup water, and 1 tablespoon fresh sage roughly chopped. Cook on medium, stirring until simmering. Reduce heat and simmer 5 minutes. Cool and strain.*
 <br>
 <br>
-*Combine Honey Sage Syrup and remaining ingredients WITH ICE??. Shake. Strain.*
+*Combine Honey Sage Syrup and remaining ingredients with ice. Shake. Strain.*
 <br>
 *Pour in coupe glass. Garnish with lime wheel.*
 
