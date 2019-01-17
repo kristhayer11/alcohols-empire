@@ -12,9 +12,8 @@ The Wangensteen Historical Library of Biology and Medicine at the University of 
 <br>
 <br>
 Like rum and brandy in the eighteenth-century Atlantic world, herbs and spices were prominent actors in global trade, exploration, and colonization. Europeans had long been accustomed to spices like ginger, black pepper, and cinnamon due to extensive trade along the Mediterranean between Italy, Spain, North Africa, and the Middle East. The early centuries of heightened exploration into the Western Hemisphere provided an exciting opportunity for Europeans looking to profit from new plant materials from as-yet, at least to them, unknown locales.
-<br>
-<br>
-> Like rum and brandy in the eighteenth-century Atlantic world, herbs and spices were prominent actors in global trade, exploration, and colonization.
+
+>Like rum and brandy in the eighteenth-century Atlantic world, herbs and spices were prominent actors in global trade, exploration, and colonization.
 
  {{< q-figure src="cinchona.jpg" class="is-pulled-right" caption="Cinchona calisaya Wedd. Howard, J.E., Illustrations of the Nueva Quinologia of Pavon, t. 27 1862 W.H. Fitch<br> [Source] (http://botanicalillustrations.org/illustration.php?id_illustration=264194&SID=0&mobile=0&code_category_taxon=1&size=0)" alt="A hand drawn and colored botanical illustration with dark red leaves and flowers."  >}}
 
