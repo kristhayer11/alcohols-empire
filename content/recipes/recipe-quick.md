@@ -76,7 +76,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <br>
 • 1 ounce Saffron Infused Bitters
 <br>
-• ½ ounce [mint syrup](../appendix/#mint-syrup)
+• ½ ounce [mint syrup](../bonus-material)
 <br>
 • ¼ ounce lime juice
 <br>
@@ -92,7 +92,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <br>
 • 1 ounce Green Chartreuse (substitute for Plague Water)
 <br>
-• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/)?)
+• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/))
 <br>
 • 1/2 ounce pineapple juice
 <br>
@@ -104,7 +104,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 *Honey Sage Syrup: In a saucepan, add 1 cup honey, 1 cup water, and 1 tablespoon fresh sage roughly chopped. Cook on medium, stirring until simmering. Reduce heat and simmer 5 minutes. Cool and strain.*
 <br>
 <br>
-*Combine Honey Sage Syrup and remaining ingredients WITH ICE??. Shake. Strain.*
+*Combine Honey Sage Syrup and remaining ingredients with ice. Shake. Strain.*
 <br>
 *Pour in coupe glass. Garnish with lime wheel.*
 
