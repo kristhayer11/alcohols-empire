@@ -27,7 +27,7 @@ QUINCE RATAFIA: Historic Recipe Transcription [^1]
 <br>
 • 2 drachms of Corriander seed
 <br>
-• 24 grains of Clovesdy
+• 24 grains of Cloves
 <br>
 • ½ ounce of bitter almonds
 <br>
