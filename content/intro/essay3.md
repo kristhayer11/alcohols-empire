@@ -35,10 +35,10 @@ The recipe for aqua-vitae transcribed below was the second recipe included in *T
 <span class="gray-text">
 AQUAVIT: Historical Recipe Transcription [^3]
 <br>
-"Aqua-vitae, the second part.
+*"Aqua-vitae, the second part.
 The greater quantity.
 <br>
-Take strong Proof-spirit what sufficeth, Anniseeds 2 pound, Carraway-seeds, Coriander-seeds, ana 4 ounces; distil them into strong Proof-spirit according to Art" [^4]
+Take strong Proof-spirit what sufficeth, Anniseeds 2 pound, Carraway-seeds, Coriander-seeds, ana 4 ounces; distil them into strong Proof-spirit according to Art"* [^4]
 
 </span>
 <br>
