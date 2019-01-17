@@ -110,3 +110,7 @@ object_list:
     figure:
       - src: "spirits.jpg"
     download: true
+  - id: 22
+    figure:
+      - src: "milk-punch-crop.jpg"
+    download: true
