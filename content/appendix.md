@@ -3,7 +3,7 @@ title: Bonus Material
 weight: 300
 image: bottles4.jpg
 ---
-**This project was such fun, we’re happy to share with you a few related ingredient recipes for your imbibing pleasure. Please enjoy in moderation.**
+**This project was such fun, we’re happy to share with you a few related items for your enjoyment and edification. Please enjoy in moderation.**
 <br>
 <br>
 Jump to:
