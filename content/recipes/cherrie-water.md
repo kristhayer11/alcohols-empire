@@ -9,7 +9,7 @@ type: entry
 
 
 ### Distilled 'for Thrift & Taste' ###
-{{< q-figure src="zorn.jpg"  class="is-pulled-right" caption="Johannes Zorn, *Icones plantarum medicinalium. Centuria I-VI. Abbildungen von Arzneygewächsen.* Nürnberg: Auf Kosten der Raspischen Buchhandlung, 1779: Volume 1."  alt="Colored illustration with large orange flower on a tall green stalk with wide green leaves." >}}
+{{< q-figure src="zorn.jpg"  class="is-pulled-right" caption="Johannes Zorn, Calendula, *Icones plantarum medicinalium. Centuria I-VI. Abbildungen von Arzneygewächsen.* Nürnberg: Auf Kosten der Raspischen Buchhandlung, 1779: Volume 1."  alt="Colored illustration with large orange flower on a tall green stalk with wide green leaves." >}}
 
 In the 1800s, distilled spirits were made by both professional distillers and by individuals in their households. This recipe for Cherrie Water originated from a handwritten "Book of Receipts" by Ann Ward, written around 1724. The spirits Ward made at home, such as this one, would have been primarily for household medicinal use. Individuals like Ward didn't only include medicinal recipes in their journals, however; all sorts of useful household information ranging from human and veterinary medicine to cooking and mischief were recorded there.
 
@@ -33,7 +33,7 @@ CHERRIE WATER: Historic Recipe Transcription [^6]
 <br>
 **Tattersall's Contemporary Interpretation**
 <br>
-Tattersall followed this recipe almost to a tee, only reducing the cinnamon and nutmeg somewhat and omitting the ambergris (an oily secretion of the sperm whale). Because it is distilled, you'll need to purchase a comparable alcohol (see below).
+Tattersall followed this recipe almost to a tee, only reducing the cinnamon and nutmeg somewhat and omitting the ambergris (an oily secretion of the sperm whale). Because this cherrie water is distilled, you'll need to purchase a comparable alcohol (see below).
 </div>
 {{< q-figure src="clear-skies.jpg" alt="Photo of a martini glass with frosted liquid and a lemon twist, with a botanical illustration of marigolds in the background."  >}}
 <div class="boxed">
