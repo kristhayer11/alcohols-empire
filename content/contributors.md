@@ -17,7 +17,7 @@ image: casks2.jpg
 <br>
 <br>
 {{< q-figure id="kt2"  src="contributors/selfie.jpg" class="is-pulled-right" alt="Photo of a smiling woman with dark curly hair wearing a yellow sweater and a beige scarf against a dark starry background."  >}}
-**Nicole LaBouff** is associate curator of textiles at the Minneapolis Institute of Art and worked previously in the Department of Costume and Textiles at the Los Angeles County Museum of Art. She received her PhD in history from the University of California, Irvine. Her research deals with the intersection of science and women’s domestic work in early modern Europe, with interests spanning needlework, botany, and distilling.
+**Nicole LaBouff** is associate curator of textiles at the Minneapolis Institute of Art and worked previously in the Department of Costume and Textiles at the Los Angeles County Museum of Art. She received her PhD in history from the University of California, Irvine. Her research deals with the intersection of art, science, and women’s domestic work in early modern Europe, with interests spanning needlework, botany, and distilling.
 <br>
 <br>
 {{< q-figure id="dan"  src="contributors/dan.jpg" class="is-pulled-left" alt="photo of a smiling bearded man with short brown hair, wearing an orange plaid shirt looking off camera."  >}}
