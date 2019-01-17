@@ -1,5 +1,5 @@
 ---
-title: Appendix
+title: Bonus Material
 weight: 300
 image: bottles4.jpg
 ---
