@@ -4,7 +4,7 @@ weight: 400
 image: teal.jpg
 ---
 
-*Alcohol’s Empire: Distilled Spirits in the 1700s Atlantic World* contains a collection of essays on the unique histories of distilled spirits in Europe and colonial North America during this period, and includes adaptations of historic recipes for contemporary use as well as a video overview of the project and process.  The *Alcohol’s Empire* project was a joint effort of the Minneapolis Institute of Art (Mia), the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota, and Tattersall Distilling in Minneapolis.
+*Alcohol’s Empire: Distilled Spirits in the 1700s Atlantic World* contains a collection of essays on the unique histories of distilled spirits in Europe and the American colonies during this period, and includes adaptations of historic recipes for contemporary use as well as a video overview of the project and process.  The *Alcohol’s Empire* project was a joint effort of the Minneapolis Institute of Art (Mia), the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota, and Tattersall Distilling in Minneapolis.
 
 This interdisciplinary exploration into alcohol's past was ignited by Mia's commitment to breathe new life into its displays of historic interiors by offering visitors new ways to connect with and experience these spaces. Recipe selection was guided by the books in the Wangensteen Historical Library's collections of recipes handwritten or printed in English between the late 1600s and early 1800s. Tattersall Distilling provided the practical expertise and artisanal knowledge necessary to contribute research and development to recreate these historical recipes.
 <br>
