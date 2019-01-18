@@ -5,15 +5,7 @@ type: entry
 image: bentley2.jpg
 ---
 
-Jump to
-<br>
-[Milk Punch] (#milk-punch)
-<br>
-[Pear Ratafia] (#pear-ratafia)
-<br>
-[Saffron Bitter Tonic] (#saffron-bitter-tonic)
-<br>
-[Plague Party] (#plague-party)
+Some introductory text goes here.
 <div class="boxed">
 **MILK PUNCH** as interpreted by Tattersall Distilling
 <br>
