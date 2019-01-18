@@ -9,7 +9,7 @@ type: entry
 
 
 ### Distilled 'for Thrift & Taste' ###
-{{< q-figure src="zorn.jpg"  class="is-pulled-right" caption="Johannes Zorn, Calendula, *Icones plantarum medicinalium. Centuria I-VI. Abbildungen von Arzneygewächsen.* Nürnberg: Auf Kosten der Raspischen Buchhandlung, 1779: Volume 1."  alt="Colored illustration with large orange flower on a tall green stalk with wide green leaves." >}}
+{{< q-figure src="zorn.jpg"  class="is-pulled-right" caption="Johannes Zorn, Calendula, *Icones plantarum medicinalium. Centuria I-VI. Abbildungen von Arzneygewächsen.* Nürnberg: Auf Kosten der Raspischen Buchhandlung, 1779: Volume 1.<br>[WHL] (https://bit.ly/2Fyw1MU)"  alt="Colored illustration with large orange flower on a tall green stalk with wide green leaves." >}}
 
 In the 1800s, distilled spirits were made by both professional distillers and by individuals in their households. This recipe for Cherrie Water originated from a handwritten "Book of Receipts" by Ann Ward, written around 1724. The spirits Ward made at home, such as this one, would have been primarily for household medicinal use. Individuals like Ward didn't only include medicinal recipes in their journals, however; all sorts of useful household information ranging from human and veterinary medicine to cooking and mischief were recorded there.
 
