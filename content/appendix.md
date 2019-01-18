@@ -1,9 +1,9 @@
 ---
-title: Appendix
+title: Bonus Material
 weight: 300
 image: bottles4.jpg
 ---
-**This project was such fun, we’re happy to share with you a few related ingredient recipes for your imbibing pleasure. Please enjoy in moderation.**
+**This project was such fun, we’re happy to share with you a few related items for your enjoyment and edification. Please enjoy in moderation.**
 <br>
 <br>
 Jump to:
@@ -73,7 +73,7 @@ Take melilot, cardamum, cubebs, gallingale, cloves, ginger, mace, nutmegs, of ea
 <br>
 **TATTERSALL'S CONTEMPORARY INTERPRETATION**
 <br>
-Tattersall made a nearly exact recreation of this recipe, using a combination of aqua vitae from *The London-Distiller’s* recipe, white wine, and spices. The one change was to substitute an infusion of dried celandine rather than fresh celandine juice; fresh was unavailable.
+Tattersall made a nearly exact recreation of this recipe, using a combination of [aqua vitae] (../essay3/) from *The London-Distiller’s* recipe, white wine, and spices. The one change was to substitute an infusion of dried celandine rather than fresh celandine juice; fresh was unavailable.
 
 <hr style="border: 2px solid black;" />
 

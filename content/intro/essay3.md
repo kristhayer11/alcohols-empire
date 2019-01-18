@@ -6,23 +6,23 @@ image: stills-crop.jpg
 type: entry
 ---
 
-This project has been a joint effort of the Minneapolis Institute of Art (Mia), the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota, and Tattersall Distilling in Minneapolis. It was driven by individuals who are interested in historical material culture, in recreating historical products, and in searching for unique flavors. We have researched countless beverages and recreated and tasted many of them. Our unique combination of interest, expertise, and creative spirit has resulted in an interesting, evocative, and delicious project that we are very happy to share with you.
+This project has been a joint effort of the Minneapolis Institute of Art (Mia), the Wangensteen Historical Library of Biology and Medicine at the University of Minnesota, and Tattersall Distilling in Minneapolis. It was driven by individuals who are interested in material culture, recreating historical products, and searching for unique flavors. We have researched countless beverages and recreated and tasted many of them. Our unique combination of interest, expertise, and creative spirit has resulted in an interesting, evocative, and delicious project that we are very happy to share with you.
 
-{{< q-figure src="tasting2.jpg"  caption="Tasting session held in summer 2018 at Tattersall Distilling; far left, chief distiller Bentley Gilman"  >}}
+{{< q-figure src="tasting2.jpg"  caption="Tasting session held in summer 2018 at Tattersall Distilling; far left, head distiller Bentley Gilman." alt="Photo of a group of people sitting at a long table with several bottles of liquor nearby."  >}}
 
-This interdisciplinary exploration into alcohol's past was ignited by Mia's commitment to [breathe new life into its period rooms] (https://new.artsmia.org/living-rooms/) by offering visitors new ways to connect with and experience these spaces. The goal was to give people a chance not only to learn about but actually to *taste* some of the historic drinks that the former occupants of the rooms and their contemporaries might have enjoyed. Recipe selection was guided by the books in the Wangensteen Historical Library's collections of recipes handwritten or printed in English between the late 1600s and early 1800s. The library's collections and long-term commitment to historical recipes research and the reconstruction of historical materialities provided the specific recipes and historical context necessary to understanding the broad scope of alcohol in the 1700s. By focusing on recipes that feature rum and brandy, we can see how these base spirits were integrated into the drinking culture of English writers of this era. Tattersall Distilling provided the practical expertise and artisanal knowledge necessary to contribute research and development to recreate these historical recipes.
+This interdisciplinary exploration into alcohol's past was ignited by Mia's commitment to [breathe new life into its period rooms] (https://new.artsmia.org/living-rooms/) by offering visitors new ways to connect with and experience these spaces. The goal was to give people a chance not only to learn about but actually to *taste* some of the historic drinks that the former occupants of the rooms and their contemporaries might have enjoyed. Recipe selection was guided by the books in the Wangensteen Historical Library's collections of recipes handwritten or printed in English between the late 1600s and early 1800s. The library's collections and long-term commitment to historical recipes research and the reconstruction of historical materialities provided the specific recipes and historical context necessary to understanding the broad scope of alcohol in the 1700s. By focusing on recipes that feature rum and brandy, we can see how these base spirits were integrated into the drinking culture of English writers of this era. Tattersall Distilling provided the practical expertise and artisanal knowledge necessary to recreate these historical recipes.
 
-{{< q-figure src="distiller-cover.jpg"  caption="we need this caption"  >}}
+{{< q-figure src="distiller-cover.jpg"  caption="*The Art of Distillation*. John French. London: E. Cotes, 1667. Wangensteen Historical Library of Biology and Medicine, University of Minnesota." alt="The stained and faded title page of The London Distiller, with descriptive text in vintage style typography."  >}}
 
 This effort culminated in two events held at Mia and at Tattersall: a lecture on rum in the 1700s Atlantic world by [Bertie Mandelblatt] (http://brown.academia.edu/BertieMandelblatt), the George S. Parker II '51 Curator of Maps and Prints at the John Carter Brown Library in Providence, Rhode Island, hosted at the museum on March 3, 2019; and a tasting event held at Tattersall Distilling on March 4, 2019. At the tasting event, guests had the opportunity to sample the drinks included in this recipe book, of which many are based on recipes in the Wangensteen's collection; all were brought to life by the artisans at Tattersall through a patient process of experimentation, testing, and refinement. We hope the recipe book makes this singular event accessible to an even broader public.
 
 {{< q-figure src="jon-bottle.jpg"  caption="Jon Kreidler, co-founder and chief officer at Tattersall Distilling, with a bottle of milk punch. At right, milk punch and two bottles of aquavit."  >}}
 
-Because of alcohol's centrality to 1700s medical culture, many of our featured recipes originated as cures. Although people in the 1700s would not have consumed these high-proof remedies for enjoyment, many of these old restoratives survive as modern cocktail components, such as bitters. Other recipes, however, were intended to be enjoyable beverages on their own. Within this group, milk punch is [enjoying a modern revival] (https://vinepair.com/articles/milk-punch/) (although ours can, as the recipe says, survive a journey from Europe to the Indies in the belly of a ship).[^1] Others, like aquavit, are simply one in a long, European-wide tradition of anise-flavored spirits.
+Because of alcohol's centrality to 1700s medical culture, many of our featured recipes originated as cures. Although people in the 1700s would not have consumed many high-proof remedies for enjoyment, some of these old restoratives survive as modern cocktail components, such as bitters. Other recipes, however, were intended to be enjoyable beverages on their own. Within this group, milk punch is [experiencing a modern revival] (https://vinepair.com/articles/milk-punch/) (although ours can, as the recipe says, survive a journey from Europe to the Indies in the belly of a ship).[^1] Others, like aquavit, are simply one in a long, European-wide tradition of anise-flavored spirits.
 
-Across all of these recipes, the ingredients themselves tell stories about the people, products, techniques, and taste preferences that traversed the Atlantic in the 1700s. For example, ingredients such as Middle Eastern saffron, or Latin American cinchona and cochineal, highlight the global beverage culture of these authors.
+Across all of these recipes, the ingredients themselves tell stories about the people, products, techniques, and taste preferences that traversed the Atlantic in the 1700s. For example, ingredients such as Middle Eastern saffron, or Latin American cinchona and cochineal, highlight the global beverage culture of these European authors.
 <br>
-<br>
+{{< q-figure src="table-still.jpg"  caption="Tattersall Distilling's tabletop still used for perfecting recipes before production." alt="A small tabletop still with beakers and tubes and bubbling clear liquid."  >}}
 <div class="sidebar">
 #### Case Study: Aquavit ####
 **Aniseed to 'Cause a Sweet Breath'**
@@ -35,10 +35,10 @@ The recipe for aqua-vitae transcribed below was the second recipe included in *T
 <span class="gray-text">
 AQUAVIT: Historical Recipe Transcription [^3]
 <br>
-"Aqua-vitae, the second part.
+*"Aqua-vitae, the second part.
 The greater quantity.
 <br>
-Take strong Proof-spirit what sufficeth, Anniseeds 2 pound, Carraway-seeds, Coriander-seeds, ana 4 ounces; distil them into strong Proof-spirit according to Art" [^4]
+Take strong Proof-spirit what sufficeth, Anniseeds 2 pound, Carraway-seeds, Coriander-seeds, ana 4 ounces; distil them into strong Proof-spirit according to Art"* [^4]
 
 </span>
 <br>

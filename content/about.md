@@ -4,90 +4,100 @@ weight: 400
 image: teal.jpg
 ---
 
-## this is ALL placeholder info taken from a Getty publication to show what types of info we may or may not need/want to include ##
+*Alcohol's Empire: Distilled Spirits in the 1700s Atlantic World*
+contains a collection of essays on the unique histories of distilled
+spirits in Europe and the Americas and includes adaptations of historic
+recipes for contemporary use as well as a video overview of the project
+and process. The Alcohol's Empire project was a joint effort of the
+Minneapolis Institute of Art (Mia), the Wangensteen Historical Library
+of Biology and Medicine at the University of Minnesota, and Tattersall
+Distilling in Minneapolis.
+
+This interdisciplinary exploration into alcohol's past was ignited by
+Mia's commitment to breathe new life into its displays of historic
+interiors by offering visitors new ways to connect with and experience
+these spaces. Recipe selection was guided by the books in the
+Wangensteen Historical Library's collections of recipes handwritten or
+printed in English between the late 1600s and early 1800s. Tattersall
+Distilling provided the practical expertise and artisanal knowledge
+necessary to recreate these
+historical recipes.
 <br>
-Kinetic art not only includes movement, but often depends on it to produce its intended effect and therefore fully realize its nature as work of art. It can take a multiplicity of forms and include a wide range of motion, from motorized and electrically driven movement to motion as the result of wind, light, or other sources of energy. Kinetic art emerged throughout the twentieth century and had its major developments in the 1950s and 1960s.
+<br>
+*Alcohol's Empire was created in collaboration with Tattersall
+Distilling and the University of Minnesota's Wangensteen Historical
+Library of Biology and Medicine. Generous support provided by donors at
+the 2014 Mia Gala. (c) 2019 Minneapolis Institute of Art*
+<br>
 
-Professionals responsible for conserving contemporary art are in the midst of rethinking the concept of authenticity and solving the dichotomy often felt between original materials and functionality of the work of art. The contrast is especially acute with kinetic art when a compromise between the two often seems impossible. Also to be considered are issues of technological obsolescence and the fact that an artist’s chosen technology often carries with it strong sociological and historical information and meanings.
-
-Presenting the latest research and scholarship on the topic with fifteen essays and eight posters, this online publication (also available for print-on-demand) includes videos to capture more accurately the effects conjured by kinetic artworks.
 <br>
 <hr style="border: .25px solid gray;" />
 **Citation Information**<br>
-Chicago
 <br>
-MLA
+**Chicago**
 <br>
-Permanent url
+LaBouff, Nicole and Emily Beck, eds. *Alcohol's Empire: Distilled
+Spirits in the 1700s Atlantic World*. Minneapolis: Minneapolis Institute
+of Art, 2019. http://www.artsmia.org/XXXXX.
 <br>
+<br>
+**MLA**
+<br>
+LaBouff, Nicole and Emily Beck, editors. *Alcohol's Empire: Distilled
+Spirits in the 1700s Atlantic World*. Minneapolis Institute of Art, 2019
+<http://www.artsmia.org/XXXXX>. Accessed 4 Feb. 2019.
+
+<hr style="border: .25px solid gray;" />
+**Permanent URL**
+<br>
+http://www.artsmia.org/XXXX
+
+
 <hr style="border: .25px solid gray;" />
 **Revision History**
-<br>Any revisions or corrections made to this publication after the first edition date will be listed here.
+<br>Revisions made after the first edition date will be listed here.
+<br>
+February 4, 2019
+First edition
 <br>
 <hr style="border: .25px solid gray;" />
+<br>
 **Other Formats**<br>
-Paperback
-<br>
-Amazon Kindle (MOBI)
-<br>
-Apple iBookstore (EPUB)
-<br>
-Google Play (EPUB)
-<br>
-Barnes & Noble NOOK (EPUB)
+EPUB
+PDF
 <br>
 <hr style="border: .25px solid gray;" />
 **Copyright**
 <br>
-<br>
-The Getty Research Institute Publications Program
-<br>
-Thomas W. Gaehtgens, Director, Getty Research Institute
-<br>
-Gail Feigenbaum, Associate Director
-<br>
-<br>
-© 2019 Minneapolis Institute of Art
+© 2019 Minneapolis Institute of Art.
+
+cc logo here
+This work is licensed under a Creative Commons Attribution
+Non-commercial 4.0 International License
 <br>
 Published by the Minneapolis Institute of Art
 <br>
+2400 Third Ave S
 <br>
-Minneapolis Institute of Art
-<br>
-2400 Third Avenue South<br>
 Minneapolis, MN 55404
 <br>
-www.artsmia.org
+[www.artsmia.org](http://www.artsmia.org)
 <br>
 <br>
-The text of this work is licensed under a Creative Commons Attribution 4.0 International License. All images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
-
-
+Kristine Thayer, Project Designer and Manager
 <br>
-Library of Congress Cataloging-in-Publication Data
+Diane Richard, Project Editor
 <br>
-Names: Baca, Murtha, editor. | Getty Research Institute, issuing body.
+Ana Taylor, Project Photographer
 <br>
-Title: Introduction to metadata / edited by Murtha Baca.
+Clint Bohaty, Project Videographer
 <br>
+Kjell Olson, Web Developer
 <br>
-Identifiers:
-<br>
-LCCN 2015046323 (print)
-<br>
-LCCN 2015050428 (ebook) | ISBN 9781606064795 (pbk.)
-<br>
-ISBN 9781606064801 (epub) | ISBN 9781606065006 (online)
-<br>
-Subjects: LCSH: Metadata. | Database management. | World Wide Web. | Information organization.
+Alex Bortolot, Content Strategist
 <br>
 <br>
-Classification:
+Cover: Milk Punch, Ratafia, and Cherrie Water.
 <br>
-LCC QA76.9.D3 I599 2016 (print)
-<br>
-LCC QA76.9.D3 (ebook)
-<br>
-DDC 025.3--dc23
-<br>
-LC record available at http://lccn.loc.gov/2015046323
+Photography: Ana
+Taylor.

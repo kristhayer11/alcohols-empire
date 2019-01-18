@@ -5,15 +5,7 @@ type: entry
 image: bentley2.jpg
 ---
 
-Jump to
-<br>
-[Milk Punch] (#milk-punch)
-<br>
-[Pear Ratafia] (#pear-ratafia)
-<br>
-[Saffron Bitter Tonic] (#saffron-bitter-tonic)
-<br>
-[Plague Party] (#plague-party)
+Some introductory text goes here.
 <div class="boxed">
 **MILK PUNCH** as interpreted by Tattersall Distilling
 <br>
@@ -74,9 +66,9 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <div class="boxed">
 **SAFFRON BITTER TONIC** by Tattersall Distilling
 <br>
-• 1 ounce Saffron Infused Bitters
+• 1 ounce [Saffron Infused Bitters] (../bonus-material/)
 <br>
-• ½ ounce [mint syrup](../appendix/#mint-syrup)
+• ½ ounce [mint syrup](../bonus-material)
 <br>
 • ¼ ounce lime juice
 <br>
@@ -90,9 +82,9 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <div class="boxed">
 **PLAGUE PARTY** by Tattersall Distilling
 <br>
-• 1 ounce Green Chartreuse (substitute for Plague Water)
+• 1 ounce Green Chartreuse (substitute for [Plague Water] (../bonus-material/))
 <br>
-• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../appendix/)?)
+• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../bonus-material/))
 <br>
 • 1/2 ounce pineapple juice
 <br>
@@ -104,8 +96,31 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 *Honey Sage Syrup: In a saucepan, add 1 cup honey, 1 cup water, and 1 tablespoon fresh sage roughly chopped. Cook on medium, stirring until simmering. Reduce heat and simmer 5 minutes. Cool and strain.*
 <br>
 <br>
-*Combine Honey Sage Syrup and remaining ingredients WITH ICE??. Shake. Strain.*
+*Combine Honey Sage Syrup and remaining ingredients with ice. Shake. Strain.*
 <br>
 *Pour in coupe glass. Garnish with lime wheel.*
 
+</div>
+<div class="boxed">
+**CLEAR SKIES AHEAD** by Tattersall Distilling
+<br>
+Clear Skies Ahead is our historical take on a classic Aviation. Developed in the early twentieth century, an Aviation typically calls for maraschino liqueur, gin, crème de violette, and lemon juice. Using crème de fleur and our historically inspired cherry (cherrie) water cuts down on the sweetness and adds herbal notes that make this a nice alternative to the classic.
+<br>
+<br>
+• 1 ounce Tattersall gin
+<br>
+• ¾ ounce Luxardo, Maraschino, or Kirsch (store-bought options for [Cherrie Water] (../appendix/)
+<br>
+• ½ ounce Tattersall Crème de Fleur (store-bought option for [Water of Flowers] (../appendix/)
+<br>
+• ¼ ounce lemon juice
+<br>
+• ¼ ounce simple syrup
+<br>
+<br>
+*Shake. Strain.
+<br>
+Pour into coupe glass.
+<br>
+Garnish with lemon peel.*
 </div>
