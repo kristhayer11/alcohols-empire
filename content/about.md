@@ -58,66 +58,46 @@ http://www.artsmia.org/XXXX
 <br>Revisions made after the first edition date will be listed here.
 <br>
 February 4, 2019
-
--   First edition
+First edition
 <br>
 <hr style="border: .25px solid gray;" />
+<br>
 **Other Formats**<br>
-Paperback
-<br>
-Amazon Kindle (MOBI)
-<br>
-Apple iBookstore (EPUB)
-<br>
-Google Play (EPUB)
-<br>
-Barnes & Noble NOOK (EPUB)
+EPUB
+PDF
 <br>
 <hr style="border: .25px solid gray;" />
 **Copyright**
 <br>
-<br>
-© 2019 Minneapolis Institute of Art
+© 2019 Minneapolis Institute of Art.
+
+cc logo here
+This work is licensed under a Creative Commons Attribution
+Non-commercial 4.0 International License
 <br>
 Published by the Minneapolis Institute of Art
 <br>
+2400 Third Ave S
 <br>
-Minneapolis Institute of Art
-<br>
-2400 Third Avenue South<br>
 Minneapolis, MN 55404
 <br>
-www.artsmia.org
+[www.artsmia.org](http://www.artsmia.org)
 <br>
 <br>
-The text of this work is licensed under a Creative Commons Attribution 4.0 International License. All images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
-
-
+Kristine Thayer, Project Designer and Manager
 <br>
-Library of Congress Cataloging-in-Publication Data
+Diane Richard, Project Editor
 <br>
-Names:
+Ana Taylor, Project Photographer
 <br>
-Title:
+Clint Bohaty, Project Videographer
 <br>
+Kjell Olson, Web Developer
 <br>
-Identifiers:
-<br>
-LCCN xxxx (print)
-<br>
-LCCN xxxx (ebook) | ISBN xxxx (pbk.)
-<br>
-ISBN xxxx (epub) | ISBN xxxx (online)
-<br>
-Subjects: LCSH: Metadata. | Database management. | World Wide Web. | Information organization.
+Alex Bortolot, Content Strategist
 <br>
 <br>
-Classification:
+Cover: Milk Punch, Ratafia, and Cherrie Water.
 <br>
-LCC xxx (print)
-<br>
-LCC xxx (ebook)
-<br>
-DDC xxx
-<br>
-LC record available at
+Photography: Ana
+Taylor.
