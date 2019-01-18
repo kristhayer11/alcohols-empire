@@ -101,3 +101,26 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 *Pour in coupe glass. Garnish with lime wheel.*
 
 </div>
+<div class="boxed">
+**CLEAR SKIES AHEAD** by Tattersall Distilling
+<br>
+Clear Skies Ahead is our historical take on a classic Aviation. Developed in the early twentieth century, an Aviation typically calls for maraschino liqueur, gin, crème de violette, and lemon juice. Using crème de fleur and our historically inspired cherry (cherrie) water cuts down on the sweetness and adds herbal notes that make this a nice alternative to the classic.
+<br>
+<br>
+• 1 ounce Tattersall gin
+<br>
+• ¾ ounce Luxardo, Maraschino, or Kirsch (store-bought options for [Cherrie Water] (../appendix/)
+<br>
+• ½ ounce Tattersall Crème de Fleur (store-bought option for [Water of Flowers] (../appendix/)
+<br>
+• ¼ ounce lemon juice
+<br>
+• ¼ ounce simple syrup
+<br>
+<br>
+*Shake. Strain.
+<br>
+Pour into coupe glass.
+<br>
+Garnish with lemon peel.*
+</div>
