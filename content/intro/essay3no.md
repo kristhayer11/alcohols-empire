@@ -6,6 +6,9 @@ image: rose.jpg
 type: essay
 ---
 
+**This is all placeholder/dummy content until we get the video.**
+<br>
+<br>
 With Merovingian art the story of French styles as a distinct and
 influential element in the wider development of the art of Christian Europe
 begins. ({{< q-cite "Faure 1909" "54" >}})
