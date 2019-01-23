@@ -8,23 +8,23 @@ image: teal.jpg
 contains a collection of essays on the unique histories of distilled
 spirits in Europe and the Americas and includes adaptations of historic
 recipes for contemporary use as well as a video overview of the project
-and process. The Alcohol's Empire project was a joint effort of the
+and process. The *Alcohol's Empire* project was a joint effort of the
 Minneapolis Institute of Art (Mia), the Wangensteen Historical Library
-of Biology and Medicine at the University of Minnesota, and Tattersall
+of Biology and Medicine (WHL) at the University of Minnesota, and Tattersall
 Distilling in Minneapolis.
 
 This interdisciplinary exploration into alcohol's past was ignited by
 Mia's commitment to breathe new life into its displays of historic
 interiors by offering visitors new ways to connect with and experience
 these spaces. Recipe selection was guided by the books in the
-Wangensteen Historical Library's collections of recipes handwritten or
+WHL collection of recipes handwritten or
 printed in English between the late 1600s and early 1800s. Tattersall
 Distilling provided the practical expertise and artisanal knowledge
 necessary to recreate these
 historical recipes.
 <br>
 <br>
-*Alcohol's Empire was created in collaboration with Tattersall
+Alcohol's Empire *was created in collaboration with Tattersall
 Distilling and the University of Minnesota's Wangensteen Historical
 Library of Biology and Medicine. Generous support provided by donors at
 the 2014 Mia Gala. (c) 2019 Minneapolis Institute of Art*
@@ -64,14 +64,15 @@ First edition
 <br>
 **Other Formats**<br>
 EPUB
+<br>
 PDF
 <br>
 <hr style="border: .25px solid gray;" />
 **Copyright**
 <br>
 © 2019 Minneapolis Institute of Art.
-
-cc logo here
+<br>
+**cc logo here**
 This work is licensed under a Creative Commons Attribution
 Non-commercial 4.0 International License
 <br>
@@ -92,12 +93,12 @@ Ana Taylor, Project Photographer
 <br>
 Clint Bohaty, Project Videographer
 <br>
-Kjell Olson, Web Developer
+Kjell Olsen, Web Developer
 <br>
 Alex Bortolot, Content Strategist
 <br>
 <br>
-Cover: Milk Punch, Ratafia, and Cherrie Water.
+Cover: Milk Punch, Cherrie Water, and Ratafia.
 <br>
 Photography: Ana
 Taylor.
