@@ -18,8 +18,6 @@ This effort culminated in two events held at Mia and at Tattersall: a lecture on
 
 {{< q-figure src="jon-bottle.jpg"  caption="Jon Kreidler, co-founder and chief officer at Tattersall Distilling, with a bottle of milk punch. At right, milk punch and two bottles of aquavit."  >}}
 
-{{< q-figure src="ratafia-bottle.jpg"  class="is-pulled-right" caption="Tattersall Distilling is offering a 21st-century ratafia for commercial distribution."  >}}
-
 Because of alcohol's centrality to 1700s medical culture, many of our featured recipes originated as cures. Although people in the 1700s would not have consumed many high-proof remedies for enjoyment, some of these old restoratives survive as modern cocktail components, such as bitters. Other recipes, however, were intended to be enjoyable beverages on their own. Within this group, milk punch is [experiencing a modern revival](https://vinepair.com/articles/milk-punch/) (although ours can, as the recipe says, survive a journey from Europe to the Indies in the belly of a ship).[^1] Others, like aquavit, are simply one in a long, European-wide tradition of anise-flavored spirits.
 
 Across all of these recipes, the ingredients themselves tell stories about the people, products, techniques, and taste preferences that traversed the Atlantic in the 1700s. For example, ingredients such as Middle Eastern saffron, or Latin American cinchona and cochineal, highlight the global beverage culture of these European authors.
