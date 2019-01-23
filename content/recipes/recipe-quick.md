@@ -5,8 +5,9 @@ type: entry
 image: bentley2.jpg
 ---
 
-Some introductory text goes here.
-<div class="boxed">
+ **A quick reference to our DIY recipes. Cheers!**
+
+ <div class="boxed">
 **MILK PUNCH** as interpreted by Tattersall Distilling
 <br>
 • 10 lemons
@@ -14,6 +15,7 @@ Some introductory text goes here.
 • 2 Seville oranges
 <br>
 • 3 quarts brandy or rum
+<br>
 <br>
 *Using a vegetable peeler, remove the peel from lemons and oranges, leaving as much of the white pith behind as possible. Place the peels in brandy or rum. Steep 24 hours.*
 <br>
