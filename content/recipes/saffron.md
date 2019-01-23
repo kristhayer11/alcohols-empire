@@ -53,7 +53,7 @@ Steep in the sun for two days.
 <br>
 Strain out the dry ingredients with a cheesecloth.
 <br>
-Add ½ quart of rum.
+Add remaining  ½ quart of rum.
 <br>
 If desired, add honey to taste.*
 </div>
