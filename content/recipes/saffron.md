@@ -21,7 +21,7 @@ Saffron---made from the dried stigmas of the saffron crocus flower, a plant with
 <br>
 For a low alcohol option, add this saffron bitters to tonic water---a quinine-infused refreshment once favored by Brits in colonial India for its antimalarial properties. Until synthetic quinine was developed in 1944, the natural version was derived from Peruvian [cinchona bark] (https://www.lib.umn.edu/bell/tradeproducts/cinchonabark); Europeans started importing cinchona bark for antimalarial medicines in the 1630s, after which it quickly took off.[^8] The Wangensteen Historical Library has an early manuscript example of an English recipe that uses cinchona against malaria: in 1659, Chris Dodssonn wrote in his copy of Nicholas Culpepers' translation of the *Pharmacopoeia Londinensis,* "For your ague: Take 2 drams of Quin Quina or Jesuit's Bark, beat it to a powder & infuse it in a draught of Clarit or white wine 2 hours & take it when your fitt begins & cetera."[^9]
 
-Added to the mix is some [mint syrup] (../bonus-material/) with origins in a Spanish-Morrocan medicinal recipe from the 1200s. Mint has been used for centuries (and still is!) to ease digestion.
+Added to the mix is some [mint syrup](/appendix) with origins in a Spanish-Morrocan medicinal recipe from the 1200s. Mint has been used for centuries (and still is!) to ease digestion.
 <br>
 <br>
 <span class="gray-text">
