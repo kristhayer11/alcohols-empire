@@ -9,7 +9,7 @@ type: entry
 
 ### 'A Singular Remedy Against Pestilence' ###
 
-The story behind the Plague Party, our modern cocktail, draws on two recipes for early remedies against severe illness: Plague Water, used to treat or prevent black plague, and [Aqua Mirabilis] (../bonus-material/), used as a miraculous cure for just about anything. By recreating these medicines and turning them into a cocktail, we explored the ways in which many modern spirits had their origins as medical treatments.\
+The story behind the Plague Party, our modern cocktail, draws on two recipes for early remedies against severe illness: Plague Water, used to treat or prevent black plague, and [Aqua Mirabilis](/appendix), used as a miraculous cure for just about anything. By recreating these medicines and turning them into a cocktail, we explored the ways in which many modern spirits had their origins as medical treatments.\
 \
 
 {{< q-figure src="plaguedr.jpg"  class="is-pulled-right" caption="Thomas Bartholin, Plague doctor, *Thomæ Bartholini Historiarum anatomicarum rariorum,* Hafniae: Sumptibus P. Hauboldt: 1654.<br>[WHL] (https://bit.ly/2TXWKFF)" alt="Black and white illustration of a beak doctor, a man wearing long robes and a mask with crystal eyes and a long beak-like nose filled with perfumes."  >}}
@@ -52,9 +52,9 @@ Tattersall followed this recipe closely; however, a few substitutions and deleti
 **Tattersall Cocktail Recipe**
 <br>
 <br>
-• 1 ounce Green Chartreuse (substitute for [Plague Water] (../bonus-material/))
+• 1 ounce Green Chartreuse (substitute for Plague Water)
 <br>
-• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../bonus-material/))
+• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis](/appendix))
 <br>
 • 1/2 ounce pineapple juice
 <br>
