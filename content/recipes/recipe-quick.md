@@ -66,9 +66,9 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <div class="boxed">
 **SAFFRON BITTER TONIC** by Tattersall Distilling
 <br>
-• 1 ounce [Saffron Infused Bitters] (../bonus-material/)
+• 1 ounce [Saffron Infused Bitters](/recipes/saffron)
 <br>
-• ½ ounce [mint syrup](../bonus-material)
+• ½ ounce [mint syrup](/appendix)
 <br>
 • ¼ ounce lime juice
 <br>
@@ -82,9 +82,9 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <div class="boxed">
 **PLAGUE PARTY** by Tattersall Distilling
 <br>
-• 1 ounce Green Chartreuse (substitute for [Plague Water] (../bonus-material/))
+• 1 ounce Green Chartreuse (substitute for [Plague Water](/recipes/plague-water))
 <br>
-• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis] (../bonus-material/))
+• 1/2 ounce Becherovka (substitute for [Aqua Mirabilis](/appendix))
 <br>
 • 1/2 ounce pineapple juice
 <br>
@@ -109,9 +109,9 @@ Clear Skies Ahead is our historical take on a classic Aviation. Developed in the
 <br>
 • 1 ounce Tattersall gin
 <br>
-• ¾ ounce Luxardo, Maraschino, or Kirsch (store-bought options for [Cherrie Water] (../appendix/)
+• ¾ ounce Luxardo, Maraschino, or Kirsch (store-bought options for [Cherrie Water](/recipes/cherrie-water)
 <br>
-• ½ ounce Tattersall Crème de Fleur (store-bought option for [Water of Flowers] (../appendix/)
+• ½ ounce Tattersall Crème de Fleur (store-bought option for [Water of Flowers](/appendix)
 <br>
 • ¼ ounce lemon juice
 <br>
