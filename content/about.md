@@ -1,7 +1,7 @@
 ---
 title: About
 weight: 400
-image: teal.jpg
+image: bottling3.jpg
 ---
 
 *Alcohol's Empire: Distilled Spirits in the 1700s Atlantic World*
