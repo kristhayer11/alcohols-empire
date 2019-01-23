@@ -46,16 +46,16 @@ Clear Skies Ahead is our historical take on a classic Aviation. Developed in the
 <br>
 • 1 ounce Tattersall gin
 <br>
-• ¾ ounce Luxardo, Maraschino, or Kirsch (store-bought options for [Cherrie Water] (../appendix/)
+• ¾ ounce Luxardo, Maraschino, or Kirsch (store-bought options for Cherrie Water)
 <br>
-• ½ ounce Tattersall Crème de Fleur (store-bought option for [Water of Flowers] (../appendix/)
+• ½ ounce Tattersall Crème de Fleur (store-bought option for [Water of Flowers](/appendix)
 <br>
 • ¼ ounce lemon juice
 <br>
 • ¼ ounce simple syrup
 <br>
 <br>
-*Shake. Strain.
+*Shake with ice. Strain.
 <br>
 Pour into coupe glass.
 <br>
