@@ -61,3 +61,7 @@ header {
     margin: 20px;
     padding: 40px;
   }
+
+  #about .quire-page__header * {
+    color: white;
+  }
