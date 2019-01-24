@@ -7,3 +7,5 @@ type: essay
 ---
 
 **This is all placeholder/dummy content until we get the video.**
+
+{{< q-figure id="vid" caption="<br>will this work">}}
