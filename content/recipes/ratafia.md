@@ -9,11 +9,11 @@ type: entry
 ### ‘It’s a Deal’—but Hold the Arsenic ###
 Ratafia---or ratifia, as it was also spelled---was a sweet cordial, made by steeping almonds or fruit stones in brandy. The name appears in English texts in the 1600s, but it may have originated in the French Caribbean, where a similar word for rum was common: tafia. Some speculate that tafia and ratafia were corruptions of the Latin "rata fiat" or "rata fiat conventio"---meaning "let the agreement be ratified." Perhaps the custom of concluding business with a glass of rum or ratafia, leading to the toast "it's a deal," refers to those drinks.
 
-**Johann Hermann Knoop, *Pomologia; dat is, Beschryvingen en afbeeldingen van de beste soorten van appels en peeren, welke in Nederen Hoog-Duitsland, Frankryk, Engelland en elders geagt zyn, en tot dien einde gecultiveert worden*, Leeuwarden: Ferwerda, 1758. [^1]**
+The illustration below, dating from 1758 and held in the WHL collections, identifies various types of pear and their harvest seasons.  [^1] Use the tool to zoom.
 
 {{< q-deepzoom image="http://free.iiifhosting.com/iiif/a35edcffc6ee98898525ecdbe889f998ff9eaa16d83ebf5a940cc2f68d05e2a7/info.json" >}}
 
-{{< q-figure src="ratafia-bottle.jpg"  class="is-pulled-right" caption="History with a twist: After a tasting session of ratafia wowed participants, Tattersall Distilling put their history-infused recipe into commercial production."  >}}
+{{< q-figure src="ratafia-bottle.jpg"  class="is-pulled-right" caption="History with a twist: After a tasting session of ratafia wowed participants, Tattersall Distilling put its history-infused recipe into commercial production."  >}}
 
 By the 1820s, French brandy, which had long been prestigious, had dominated the global market in distilled alcohol for a couple of centuries. Around this time French brandy makers had also upped their game in long barrel-aging, making the "best French brandy" even better.
 
