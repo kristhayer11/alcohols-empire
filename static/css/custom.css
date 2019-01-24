@@ -58,3 +58,20 @@ header {
     margin: 20px;
     padding: 40px;
   }
+
+  .boxed {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black ;
+    border-left: 6px solid black;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 40px;
+  }
+
+  #about .quire-page__header * {
+    color: white;
+  }
