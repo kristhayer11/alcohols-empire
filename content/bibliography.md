@@ -6,25 +6,25 @@ image: plastic.jpg
 
 ### Featured Historical Sources ###
 
-Andrews, Mary. *English Medicinal Receipts*, manuscript c. 1680. Wangensteen Historical Library of Biology and Medicine, Minneapolis, MN. (This manuscript has been digitized and is available [at this link.] (https://bit.ly/2DjgNJx))
+Andrews, Mary. *English Medicinal Receipts*, manuscript c. 1680. Wangensteen Historical Library of Biology and Medicine, Minneapolis, MN. (This manuscript has been digitized and is available [at this link.](https://bit.ly/2DjgNJx))
 <br>
 <br>
-*Cookery and Medical Receipts*, 1820. Manuscript. Wangensteen Historical Library of Biology and Medicine, University of Minnesota. (This manuscript has been digitized and is available [at this link.] (https://bit.ly/2z6jTxF))
+*Cookery and Medical Receipts*, 1820. Manuscript. Wangensteen Historical Library of Biology and Medicine, University of Minnesota. (This manuscript has been digitized and is available [at this link.](https://bit.ly/2z6jTxF))
 <br>
 <br>
-Culpeper, Nicholas. *Pharmacopoeia Londinensis: or, The London dispensatory further adorned by the studies and collections of the fellows, now living of the said colledg.* London: Peter Cole, 1659. (A physical copy of this volume can be seen at the Wangensteen Historical Library of Biology and Medicine. View more information [at this link.] (https://bit.ly/2B3fH3c))
+Culpeper, Nicholas. *Pharmacopoeia Londinensis: or, The London dispensatory further adorned by the studies and collections of the fellows, now living of the said colledg.* London: Peter Cole, 1659. (A physical copy of this volume can be seen at the Wangensteen Historical Library of Biology and Medicine. View more information [at this link.](https://bit.ly/2B3fH3c))
 <br>
 <br>
-French, John. *The London Distiller*. London : Printed by E. Cotes, for Thomas Williams, 1667. (A digitized version of this book is available on Google Books. A physical copy of this volume can be seen at the Wangensteen Historical Library of Biology and Medicine. View more information [at this link.] (https://bit.ly/2FgeVEk))
+French, John. *The London Distiller*. London : Printed by E. Cotes, for Thomas Williams, 1667. (A digitized version of this book is available on Google Books. A physical copy of this volume can be seen at the Wangensteen Historical Library of Biology and Medicine. View more information [at this link.](https://bit.ly/2FgeVEk))
 <br>
 <br>
-*Hispanic (Andalusi)-Maghrebi (Morrocan) food during the Almohad period from an anonymous 13th century manuscript*. La cocina hispano-magrebí durante la época almohade según un manuscrito anónimo del siglo XIII. Trans. Huici de Miranda. Ed. Manuela Marín. Ediciones Trea, 2005. p. 288-89 (fol. 78r); not in the Wangensteen's collection but preserved in a seventeenth century copy. [Bibliotheque Nationale, Paris MS. (Colin) 7009 (Arabe)] (http://gallica.bnf.fr/ark:/12148/btv1b10031117v/f79.item)
+*Hispanic (Andalusi)-Maghrebi (Morrocan) food during the Almohad period from an anonymous 13th century manuscript*. La cocina hispano-magrebí durante la época almohade según un manuscrito anónimo del siglo XIII. Trans. Huici de Miranda. Ed. Manuela Marín. Ediciones Trea, 2005. p. 288-89 (fol. 78r); not in the Wangensteen's collection but preserved in a seventeenth century copy. [Bibliotheque Nationale, Paris MS. (Colin) 7009 (Arabe)](http://gallica.bnf.fr/ark:/12148/btv1b10031117v/f79.item)
 <br>
 <br>
-Johnson, Mary. *Madam Johnson's present: or, every young woman's companion, in useful and universal knowledge*... (Dublin, 1770); not from the Wangensteen's collection, but available through [Google books] (https://books.google.com/books?id=7W8EAAAAYAAJ&printsec=frontcover&dq=Madam+Johnson%E2%80%99s+present:+or,+every+young+woman%E2%80%99s+companion&hl=en&sa=X&ved=0ahUKEwjyp8eiqKzeAhXJ5YMKHR1LBd4Q6AEIKDAA#v=onepage&q=milk%20punch&f=false).
+Johnson, Mary. *Madam Johnson's present: or, every young woman's companion, in useful and universal knowledge*... (Dublin, 1770); not from the Wangensteen's collection, but available through [Google books](https://books.google.com/books?id=7W8EAAAAYAAJ&printsec=frontcover&dq=Madam+Johnson%E2%80%99s+present:+or,+every+young+woman%E2%80%99s+companion&hl=en&sa=X&ved=0ahUKEwjyp8eiqKzeAhXJ5YMKHR1LBd4Q6AEIKDAA#v=onepage&q=milk%20punch&f=false).
 <br>
 <br>
-Ward, Ann. *Book of receipts*, c. 1724. Manuscript, Wangensteen Historical Library of Biology and Medicine. (This manuscript has been digitized and is available [at this link.] (https://bit.ly/2zP7E8x))
+Ward, Ann. *Book of receipts*, c. 1724. Manuscript, Wangensteen Historical Library of Biology and Medicine. (This manuscript has been digitized and is available [at this link.](https://bit.ly/2zP7E8x))
 
 
 ### Further Reading ###
