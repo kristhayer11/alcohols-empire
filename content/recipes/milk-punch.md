@@ -6,7 +6,7 @@ object:
 type: entry
 ---
 ### A Drink That Keeps ‘Years by Sea or Land’ ###
-The 1700s was not the era of mixed drinks or "cocktails." [Those come out in force in the late 1800s and early 1900s.] (https://www.nytimes.com/2018/11/26/dining/drinks/campari-color-aperitif-aperitivo.html) One important exception was punch, which became popular worldwide in the 1600s. Punch combined five basic components: citrus juice, sugar, botanicals, water, and distilled spirits---usually rum, brandy, or arrack, a beverage made from either rice, palm juice, or coconut flower sap, common throughout South and Southeast Asia.
+The 1700s was not the era of mixed drinks or "cocktails." [Those come out in force in the late 1800s and early 1900s.](https://www.nytimes.com/2018/11/26/dining/drinks/campari-color-aperitif-aperitivo.html) One important exception was punch, which became popular worldwide in the 1600s. Punch combined five basic components: citrus juice, sugar, botanicals, water, and distilled spirits---usually rum, brandy, or arrack, a beverage made from either rice, palm juice, or coconut flower sap, common throughout South and Southeast Asia.
 
 > If punch did begin life aboard long-haul voyages, it quickly jumped ship, making its way into well-to-do homes, where people could afford the costly ingredients.
 
@@ -72,4 +72,4 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 
 ## Notes ##
 
-[^1]: Mary Johnson, *Madam Johnson's present: or, every young woman's companion, in useful and universal knowledge*... (Dublin, 1770), p. 182; not from the Wangensteen's collection, but available through [Google books] (https://books.google.com/books?id=7W8EAAAAYAAJ&printsec=frontcover&dq=Madam+Johnson%E2%80%99s+present:+or,+every+young+woman%E2%80%99s+companion&hl=en&sa=X&ved=0ahUKEwjyp8eiqKzeAhXJ5YMKHR1LBd4Q6AEIKDAA#v=onepage&q=milk%20punch&f=false).
+[^1]: Mary Johnson, *Madam Johnson's present: or, every young woman's companion, in useful and universal knowledge*... (Dublin, 1770), p. 182; not from the Wangensteen's collection, but available through [Google books](https://books.google.com/books?id=7W8EAAAAYAAJ&printsec=frontcover&dq=Madam+Johnson%E2%80%99s+present:+or,+every+young+woman%E2%80%99s+companion&hl=en&sa=X&ved=0ahUKEwjyp8eiqKzeAhXJ5YMKHR1LBd4Q6AEIKDAA#v=onepage&q=milk%20punch&f=false).
