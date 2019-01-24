@@ -61,20 +61,15 @@ February 4, 2019
 First edition
 <br>
 <hr style="border: .25px solid gray;" />
-<br>
 **Other Formats**<br>
 EPUB
-<br>
-PDF
 <br>
 <hr style="border: .25px solid gray;" />
 **Copyright**
 <br>
 © 2019 Minneapolis Institute of Art.
-<br>
-**cc logo here**
-This work is licensed under a Creative Commons Attribution
-Non-commercial 4.0 International License
+<br>This work is licensed under a Creative Commons Attribution
+<br>Non-commercial 4.0 International License
 <br>
 Published by the Minneapolis Institute of Art
 <br>
