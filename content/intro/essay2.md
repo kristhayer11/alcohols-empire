@@ -34,6 +34,6 @@ European medicine in the premodern period relied on theories that defined health
 
 [^1]: "How Distilling Works," Vine Pair, accessed November 8, 2018, [https://vinepair.com/spirits-101/how-distilling-works/](https://vinepair.com/spirits-101/how-distilling-works/)
 
-[^2]: Page from a manuscript recipe book with two recipes for Wine Bitters. *Cookery and Medical Receipts.* 1820. Manuscript. Wangensteen Historical Library of Biology and Medicine, University of Minnesota." alt="A yellowed page from an 18th century book of hand written recipes, titled Wine Bitters."
+[^2]: Page from a manuscript recipe book with two recipes for Wine Bitters. *Cookery and Medical Receipts.* 1820. Manuscript. Wangensteen Historical Library of Biology and Medicine, University of Minnesota."
 
 [^3]: Smitha Mundasad, "Alcohol Therapy: Medicinal Drinking Through the Ages," BBC News, January 15, 2014.
