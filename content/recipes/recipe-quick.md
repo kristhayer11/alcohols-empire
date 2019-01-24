@@ -60,7 +60,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <br>
 • 2 grams aniseed
 <br>
-• .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at [Penzey's Spices] (https://www.penzeys.com/))
+• .5 ounce Mahlab (an imported sour cherry stone from Iran/the Middle East; you can get equivalent sour cherry stones at [Penzey's Spices](https://www.penzeys.com/))
 <br>
 <br>
 *Combine all ingredients. Steep 2 weeks. Strain through a cheesecloth or a coffee filter to remove botanicals. Serve, or bottle and save.*
@@ -125,4 +125,18 @@ Clear Skies Ahead is our historical take on a classic Aviation. Developed in the
 Pour into coupe glass.
 <br>
 Garnish with lemon peel.*
+</div>
+<div class="boxed">
+**MINT SYRUP** by UMN Premodern Food Laboratory
+<br>
+• Approx. 1 cup fresh mint leaves
+<br>
+• Approx. 1 cup fresh basil leaves
+<br>
+• Approx. 1 cup grapefruit peel
+<br>
+• Approx. ¼ cup cloves
+<br>
+<br>
+*Heat together in a small saucepan with enough water to cover the ingredients. Cook until mixture is fragrant and very flavorful, perhaps 20 minutes. Strain to remove the ingredients, return the water to the stove, and add 1 lb granulated sugar. Simmer until all of the sugar has dissolved and the liquid is somewhat reduced. Keep in the refrigerator.*
 </div>
