@@ -22,7 +22,6 @@ Because of alcohol's centrality to 1700s medical culture, many of our featured r
 
 Across all of these recipes, the ingredients themselves tell stories about the people, products, techniques, and taste preferences that traversed the Atlantic in the 1700s. For example, ingredients such as Middle Eastern saffron, or Latin American cinchona and cochineal, highlight the global beverage culture of these European authors.
 <br>
-
 <div class="sidebar">
 #### Case Study: Aquavit ####
 **Aniseed to 'Cause a Sweet Breath'**
