@@ -104,3 +104,7 @@ figure_list:
   - id: "tasting2"
     src: tasting2.jpg
     download: true
+  - id: "vid"
+    src: "casks2.jpg"
+    media_id: 255753796
+    media_type: "vimeo"
