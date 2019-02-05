@@ -86,7 +86,7 @@ Diane Richard, Project Editor
 <br>
 Ana Taylor, Project Photographer
 <br>
-Clint Bohaty, Project Videographer
+Clint Bohaty, Film Production, [clintandco.com](http://clintandco.com/)
 <br>
 Kjell Olsen, Web Developer
 <br>
