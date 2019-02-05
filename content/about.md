@@ -38,19 +38,19 @@ the 2014 Mia Gala. (c) 2019 Minneapolis Institute of Art*
 <br>
 LaBouff, Nicole and Emily Beck, eds. *Alcohol's Empire: Distilled
 Spirits in the 1700s Atlantic World*. Minneapolis: Minneapolis Institute
-of Art, 2019. http://www.artsmia.org/XXXXX.
+of Art, 2019. https://artsmia.org/publications/alcohols-empire.
 <br>
 <br>
 **MLA**
 <br>
 LaBouff, Nicole and Emily Beck, editors. *Alcohol's Empire: Distilled
 Spirits in the 1700s Atlantic World*. Minneapolis Institute of Art, 2019
-<http://www.artsmia.org/XXXXX>. Accessed 4 Feb. 2019.
+<https://artsmia.org/publications/alcohols-empire>. Accessed 4 Feb. 2019.
 
 <hr style="border: .25px solid gray;" />
 **Permanent URL**
 <br>
-http://www.artsmia.org/XXXX
+https://artsmia.org/publications/alcohols-empire
 
 
 <hr style="border: .25px solid gray;" />
@@ -77,7 +77,7 @@ Published by the Minneapolis Institute of Art
 <br>
 Minneapolis, MN 55404
 <br>
-[www.artsmia.org](http://www.artsmia.org)
+[https://artsmia.org](https://artsmia.org)
 <br>
 <br>
 Kristine Thayer, Project Designer and Manager
