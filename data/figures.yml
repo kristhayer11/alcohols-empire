@@ -108,3 +108,6 @@ figure_list:
     src: "casks2.jpg"
     media_id: 313258958
     media_type: "vimeo"
+  - id: "vid-long"
+    media_id: 315289963
+    media_type: "vimeo"
