@@ -28,6 +28,9 @@ image: casks2.jpg
 <br>
 **Alex Bortolot** is Content Strategist at the Minneapolis Institute of Art, where he develops exhibition, publication, and digital projects about Mia's collection. He received a PhD in Art History from Columbia University and a BA in the History of Art and Architecture from Harvard University.  
 <br>
+**Kjell Olsen** is a technologist at heart (and at the Minneapolis Institute of Art). When he isn't helping spread delight into the world through art and music he might be riding his bike.
+<br>
+<br>
 **Diane Richard** is a writer/editor at the Minneapolis Institute of Art. She earned her BA at Smith College, in English and art history, and a master’s in journalism from the University of Missouri, Columbia. She also works as a radio journalist, with a specialty in documentary, but is never too busy to refuse an offer of a bourbon Old Fashioned.
 <br>
 <br>
