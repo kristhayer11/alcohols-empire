@@ -61,10 +61,6 @@ February 4, 2019
 First edition
 <br>
 <hr style="border: .25px solid gray;" />
-**Other Formats**<br>
-EPUB
-<br>
-<hr style="border: .25px solid gray;" />
 **Copyright**
 <br>
 © 2019 Minneapolis Institute of Art.
