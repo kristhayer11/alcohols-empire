@@ -68,7 +68,7 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <div class="boxed">
 **SAFFRON BITTER TONIC** by Tattersall Distilling
 <br>
-• 1 ounce [Saffron Infused Bitters](/recipes/saffron)
+• 1 ounce Saffron Infused Bitters*
 <br>
 • ½ ounce [mint syrup](/appendix)
 <br>
@@ -80,6 +80,33 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 <br>
 <br>
 *Fill an 8 ounce glass with ice cubes. Add bitters, mint syrup, and lime juice. Top with tonic water. Garnish with lime wedge.*
+<br>
+<br>
+* **SAFFRON INFUSED BITTERS**
+<br>
+as interpreted by Tattersall Distilling
+<br>
+• 1.5 quarts of rum
+<br>
+• 4 orange rinds
+<br>
+• 3.7 grams of cochineal
+<br>
+• 3.7 grams of saffron
+<br>
+• 7 grams of dried gentian
+<br>
+<br>
+*Add dry ingredients to 1 quart of rum.
+<br>
+Steep in the sun for two days.
+<br>
+Strain out the dry ingredients with a cheesecloth.
+<br>
+Add remaining  ½ quart of rum.
+<br>
+If desired, add honey to taste.*
+
 </div>
 <div class="boxed">
 **PLAGUE PARTY** by Tattersall Distilling
