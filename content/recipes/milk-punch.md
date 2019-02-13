@@ -12,14 +12,14 @@ The 1700s was not the era of mixed drinks or "cocktails." [Those come out in for
 
 As for punch's origins, some clues point to India, and others to the practical needs and available resources of European sailors. As part of their victuals, sailors had increased access to distilled alcohols during the 1600s. And beginning in the late 1500s, some European ships had citrus on hand to combat scurvy, long before such fruits were formally doled out as rations and scientifically understood as antiscorbutics. Sugar and spices were often part of the cargo. If punch did begin life aboard long-haul voyages, it quickly jumped ship, making its way into well-to-do homes, where people could afford the costly ingredients (one citrus fruit in 1700s Europe cost the modern equivalent of roughly $8).
 
-With its frequently heavy dose of lime or lemon juice, punch was highly acidic; one way to counteract its zing was to add sugar. Another way, discovered somewhere in the late 1600s, was to add milk, which unfortunately curdles on contact with citric acid. But with patient straining, milk punch could be clarified, removing the milk solids and leaving behind a smooth texture and creamy taste due to the whey. It could also be bottled and stored for later use. By the mid 1700s, milk punch was extremely popular and enjoyed its ride into the late 1800s.
+With its frequently heavy dose of lime or lemon juice, punch was highly acidic; one way to counteract its zing was to add sugar. Another way, discovered somewhere in the late 1600s, was to add milk, which unfortunately curdles on contact with citric acid. But with patient straining, milk punch could be clarified, removing the milk solids and leaving behind a smooth texture and creamy taste due to the whey. It could also be bottled and stored for later use. By the mid 1700s, milk punch was extremely popular and enjoyed its ride into the late 1800s. [^1]
 
 Clarified milk punch is different from and older than modern single-serve cocktails such as "bourbon milk punch," which is not strained and cannot be stored. The following recipe, published in Ireland, was for a milk punch that would keep during the voyage to "either of the Indies," meaning either the Americas or Asia.
 <br>
 
 <span class="gray-text">
 <br>
-MILK PUNCH: Historic Recipe Transcription [^1]
+MILK PUNCH: Historic Recipe Transcription [^2]
 <br>
 *To make Milk Punch that will keep Years by Sea or Land.
 <br>
@@ -72,4 +72,6 @@ Repeat until the punch runs clear. Serve with ice and/or top with soda, if desir
 
 ## Notes ##
 
-[^1]: Mary Johnson, *Madam Johnson's present: or, every young woman's companion, in useful and universal knowledge*... (Dublin, 1770), p. 182; not from the Wangensteen's collection, but available through [Google books](https://books.google.com/books?id=7W8EAAAAYAAJ&printsec=frontcover&dq=Madam+Johnson%E2%80%99s+present:+or,+every+young+woman%E2%80%99s+companion&hl=en&sa=X&ved=0ahUKEwjyp8eiqKzeAhXJ5YMKHR1LBd4Q6AEIKDAA#v=onepage&q=milk%20punch&f=false).
+[^1]: David Wondrich, *Imbibe! From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to "Professor" Jerry Thomas, Pioneer of the American Bar* (New York: Perigree, 2007); David Wondrich, *Punch: The Delights (and Dangers) of the Flowing Punch Bowl* (New York: Perigree, 2010). 
+
+[^2]: Mary Johnson, *Madam Johnson's present: or, every young woman's companion, in useful and universal knowledge*... (Dublin, 1770), p. 182; not from the Wangensteen's collection, but available through [Google books](https://books.google.com/books?id=7W8EAAAAYAAJ&printsec=frontcover&dq=Madam+Johnson%E2%80%99s+present:+or,+every+young+woman%E2%80%99s+companion&hl=en&sa=X&ved=0ahUKEwjyp8eiqKzeAhXJ5YMKHR1LBd4Q6AEIKDAA#v=onepage&q=milk%20punch&f=false).
